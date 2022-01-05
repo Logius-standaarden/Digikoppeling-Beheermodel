@@ -2,7 +2,7 @@
 
 <aside class="note">
 
-Dit document is op een aantal delen verouderd. 
+Dit document is op een aantal delen verouderd.
 
 - Na het vertrek van de `Digicommissaris` in 2018, en daarmee de `Regieraden` en het `Afnemersoverleg Stelseldiensen` zijn er gremia opgericht die hun rol konden vervangen. Er wordt echter op dit moment gewerkt aan een bestuursoverleg over Standaarden. Logius Beheer Digikoppeling wacht deze ontwikkeling af en zal dit document aanpassen als hierover meer duidelijkheid bestaat.
 - Sommige wijzigingen en ontwikkelingen binnen de DIgikoppeling standaarden worden nog niet vermeld.
@@ -38,7 +38,7 @@ In dit beheermodel komen de volgende onderwerpen aan bod:
 
 Voor het opstellen van dit document is zoveel mogelijk aangesloten bij het beheermodel van StUF om de eenvormigheid van beheerprocessen bij de eOverheid te bevorderen.
 
-## Doel van document 
+## Doel van document
 
 Dit document beschrijft het beheermodel voor de Digikoppeling-standaarden. Het geeft alle belanghebbenden inzicht in het releasebeleid, in de wijze waarop het beheer van Digikoppeling is belegd, hoe het proces van wijzigen en releaseplanning van de Digikoppeling standaard eruit ziet en hoe de besluitvorming en participatie is georganiseerd. Daarnaast komen aanvullende onderwerpen aan de orde zoals release-nummering en de publicatie en informatievoorziening rond Digikoppeling.
 
@@ -57,7 +57,7 @@ In Bijlage A zijn de beheer- en onderhoudsprocessen beschreven; in Bijlage B de 
 | [A&D]     | Analyseren & ontwerpen (design) | Analyseren en ontwerpen van oplossings-richtingen. Het verbinden van Business aan de IT.                   | **Ja**     |
 | [OT&B]    | Ontwikkelen, testen en beheer   | Ontwikkelt, bouwt en configureert de techniek conform specificaties. Zorgen voor beheer na ingebruikname.  | **Ja**     |
 
-## Bijdragen 
+## Bijdragen
 
 Onderstaande personen hebben bijgedragen aan de totstandkoming van dit beheermodel:
 
@@ -105,7 +105,7 @@ Bij de toetsing met Bomos2i is een belangrijke bijdrage geleverd door:
 
 - Tom Peelen, Logius stelselarchitect
 
-## Licentie en patentrechten 
+## Licentie en patentrechten
 
 Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 3.0 Unported licentie.
 
@@ -119,7 +119,7 @@ Uitgesloten van alle bovenstaande zijn rechten verbonden aan de standaarden, pro
 
 # Digikoppeling Beheer en onderhoud op hoofdlijnen
 
-## Scope beheer 
+## Scope beheer
 
 Het beheer van de Digikoppeling-standaard omvat het geheel van processen, besturing, organisatie, informatievoorziening en hulpmiddelen die noodzakelijk zijn om gebaseerd op open standaarden ook Digikoppeling zelf als open standaard in stand te houden, te onderhouden en door te ontwikkelen.
 
@@ -145,7 +145,7 @@ Bij de Digikoppeling horen de volgende ondersteunende hulpmiddelen en ICT voorzi
 
 Het beheer over deze voorzieningen is in bestaande beheerprocedures van Logius ondergebracht.
 
-## Belanghebbenden 
+## Belanghebbenden
 
 Veel verschillende partijen hebben direct dan wel indirect belang bij de ontwikkeling, de implementatie en het gebruik van de Digikoppeling-standaard. Dit geldt dus ook voor het beheer en onderhoud ervan. In onderstaand schema zijn de belanghebbenden aangegeven.
 
@@ -161,7 +161,7 @@ De Digikoppeling standaard wordt in stand gehouden en doorontwikkeld door partic
 
 Afhankelijk van eigen doelstellingen, verantwoordelijkheden en belangen zullen belanghebbenden op een andere wijze participeren.
 
-## Structuur van participatie en ondersteuning 
+## Structuur van participatie en ondersteuning
 
 In het beheer van Digikoppeling kunnen belanghebbenden participeren in vier vormen:
 
@@ -184,11 +184,11 @@ In deze groepen zijn de diverse rollen uit de vraagkant, aanbodkant en de onders
 
 Het OBDO de Klantenraad gegevens worden geacht in hun besluiten het belang van gebruik van Digikoppeling in het gehele organisatorische werkingsgebied mee te wegen.
 
-## Releasebeleid 
+## Releasebeleid
 
 De te beheren Digikoppeling standaard en haar onderdelen zullen zowel gezamenlijk als elk afzonderlijk onderhevig zijn aan beheer en onderhoud. Het beleid dat gehanteerd wordt voor aanpassingen van de Digikoppeling is als volgt:
 
-**Participatie**
+### Participatie
 
 1. Uitbreidingen en aanpassingen in (een onderdeel van) de Digikoppeling-standaard komt tot stand door participatie van de verschillende belanghebbenden.
 
@@ -202,7 +202,7 @@ De te beheren Digikoppeling standaard en haar onderdelen zullen zowel gezamenlij
 
 <sup>5</sup>: https://zoek.officielebekendmakingen.nl/stcrt-2018-9728.html
 
-**Nieuwe releases**
+### Nieuwe releases
 
 1. De Digikoppeling-standaard dient in principe zo stabiel te zijn dat nieuwe releases van de standaard bestaande implementaties van een oudere release niet tot migratie verplichten.
 
@@ -232,7 +232,7 @@ De te beheren Digikoppeling standaard en haar onderdelen zullen zowel gezamenlij
 
 <sup>7</sup>: Het streven is dat een nieuw release uitsluitend uitbreidingen ten opzichte van de vorige release bevat. Daardoor voldoen implementaties van de oude release automatisch ook aan deze nieuwe release. In dit geval zal alleen de nieuwe release de status 'In Gebruik' krijgen.
 
-**Aansluiting op andere standaarden**
+### Aansluiting op andere standaarden
 
 Digikoppeling sluit aan op onderstaande standaarden. De aansluiting vindt plaats binnen de vastgestelde releasetermijnen van de Digikoppeling onderdelen.
 
@@ -242,7 +242,7 @@ Digikoppeling sluit aan op onderstaande standaarden. De aansluiting vindt plaats
 
 3. De Digikoppeling-standaard en in het bijzonder "Gebruik en achtergrond Digikoppeling-certificaten" sluiten aan bij de PKI.Overheid.
 
-**Publicatie**
+### Publicatie
 
 1. De Digikoppeling beheerder zal na besluitvorming in de klantenraad de Roadmap en de specificaties van de betreffende Digikoppeling onderdelen publiceren.
 
@@ -257,7 +257,7 @@ Digikoppeling sluit aan op onderstaande standaarden. De aansluiting vindt plaats
 | EO            |  Einde Ondersteuning                       | Het Digikoppeling onderdeel met de status “Einde ondersteuning” wordt niet meer ondersteund door de Digikoppeling beheerder. De kennis en informatie voor vragen en support is bij de beheerder niet langer beschikbaar.                                                                                   |
 | TG            |  Teruggetrokken                            | Een Digikoppeling onderdeel krijgt de status “Teruggetrokken” indien een release van een Digikoppeling onderdeel niet bruikbaar blijkt (bijv. vanwege implementatieproblemen).                                                                                                                             |
 
-**Implementatie en gebruik**
+### Implementatie en gebruik
 
 1. Leveranciers en gebruikers worden geadviseerd de meeste recente release met de Status “In Gebruik” zo spoedig mogelijk in software te implementeren respectievelijk deze toe te passen.
 
@@ -265,7 +265,7 @@ Digikoppeling sluit aan op onderstaande standaarden. De aansluiting vindt plaats
 
 3. Om migraties te vereenvoudigen wordt gebruikers geadviseerd om in hun programma‟s van eisen op te nemen dat applicaties, die gericht zijn op integratie, ten minste twee opeenvolgende Digikoppeling-standaarden gelijktijdig moeten ondersteunen. Het betreft applicaties zoals middleware, brokers, servicebus en distributiesystemen.
 
-**Overige principes**
+### Overige principes
 
 1. De standaarden die binnen Digikoppeling toegepast worden, voldoen aan de door het Forum Standaardisatie vastgestelde criteria van een open standaard<sup>8</sup>. Er zijn geen toetredingscriteria van toepassing om te participeren in de ontwikkeling van de open standaarden.
 
@@ -279,14 +279,14 @@ Digikoppeling sluit aan op onderstaande standaarden. De aansluiting vindt plaats
 
 # Bijlage A: Beheer- en onderhoudsprocessen
 
-## Procesoverview 
+## Procesoverview
 
 ![Hoofdprocessen](media/DK_Procesoverview.png "Hoofdprocessen")
 De hoofdprocessen voor het beheer en onderhoud van de Digikoppeling standaard zijn in onderstaande figuur schematisch aangegeven. De hoofdprocessen zijn in de volgende paragrafen nader uitwerkt.
 
 *Noot: gestippelde processen vallen buiten het beheermodel.*
 
-## Proces: Digikoppeling Product Cycle Management 
+## Proces: Digikoppeling Product Cycle Management
 
 Digikoppeling kent net als veel andere producten een strategisch proces van Product Cycle Management. Het doel van dit strategische proces is dat de Digikoppeling standaard zowel inhoudelijk als organisatorisch goed aansluit bij de behoefte van de verschillende belanghebbenden.
 
@@ -312,7 +312,7 @@ Het jaarplan voor Digikoppeling maakt deel uit van de jaarplan-cyclus van Logius
 
 ![Intake en analyse](media/DK_Intake_en_analyse.png "Intake en analyse")
 
-### Intake wijzigingsaanvraag 
+### Intake wijzigingsaanvraag
 
 Een Wijzigingsaanvraag voor een Digikoppeling onderdeel kan ontstaan uit een breed scala van ontwikkelingen of problemen. Ontwikkelingen die van invloed zijn, zijn bijvoorbeeld: ontwikkelingen in de standaardisatie wereld, nieuw beleid, veranderingen in samenwerking of processen, vernieuwing van dienstverlening, veranderingen in basisregistraties of in infrastructuur en ontwikkeling van technologie. Verder zijn problemen uit de praktijk of het hebben van een goed idee aanleiding voor een wijzigingsaanvraag. De aanvraag wordt via mail naar Servicecentrum@logius.nl, telefonisch of direct via contact met een Digikoppeling deskundige van Logius ingediend. Bij voorkeur vult degene van de betrokken partij die het idee, het probleem of aanvraag doet zelf het formulier “Wijzigingsaanvraag” in.
 
@@ -334,7 +334,7 @@ Het probleem, de behoefte of het idee wordt beschreven in een Wijzigingsaanvraag
 
 Alleen Wijzigingsaanvragen die betrekking hebben op aanpassingen ten opzichte van de meest recente release van een Digikoppeling onderdeel met de status “In Gebruik” worden in behandeling genomen.
 
-### Beoordelen wijzigingsaanvraag 
+### Beoordelen wijzigingsaanvraag
 
 Een Digikoppeling deskundige van de Digikoppeling beheerder doet een eerste beoordeling of de aanvraag voldoende helder en uitgewerkt is voor verdere behandeling. Zonodig verzamelt hij aanvullende informatie. Hij bepaalt of de betreffende wijzigingsaanvraag in een bijeenkomst van het Digikoppeling Technisch Overleg beoordeeld kan gaan worden. Als een wijzigingaanvraag niet verder in behandeling wordt genomen zal de deskundige dit aan de aanvrager kenbaar maken.
 
@@ -346,7 +346,7 @@ Het Digikoppeling Technisch Overleg beoordeelt vervolgens ook de wijzigingsaanvr
 
 - Terugverwijzen, Afwijzen of Uitstellen. Als een wijzigingaanvraag niet verder of later in behandeling kan worden genomen zal dit door de beheerder namens het Digikoppeling Technisch Overleg aan de aanvrager kenbaar worden gemaakt.
 
-### Uitwerken en analyse wijzigingsaanvraag tot RFC 
+### Uitwerken en analyse wijzigingsaanvraag tot RFC
 
 Een Digikoppeling deskundige analyseert en werkt de wijzigingsaanvraag uit tot een wijzigingsverzoek (RFC). Dit kan een Digikoppeling deskundige zijn van de Digikoppeling beheerder, van een ICT-leverancier, een gemeente of een andere belanghebbende partij. Het resultaat van dit proces is het wijzigingsverzoek.
 
@@ -366,7 +366,7 @@ Na behandeling neemt het Digikoppeling Technisch Overleg een besluit over de “
 
 De status van elk wijzigingsverzoek wordt bijgehouden in een statusoverzicht. In bijlage E is een voorbeeld opgenomen. Het statusoverzicht maakt deel uit van de wijzigingenadministratie.
 
-### Proces: Administratie en ondersteuning 
+### Proces: Administratie en ondersteuning
 
 Dit proces is een ondersteunend proces van het beheer en onderhoud van Digikoppeling. Het bestaat uit:
 
@@ -390,7 +390,7 @@ Dit proces is een ondersteunend proces van het beheer en onderhoud van Digikoppe
 
   - Presentaties en documenten over Digikoppeling.
 
-## Proces: Releaseplanning 
+## Proces: Releaseplanning
 
 ![Release Planning](media/DK_ReleasePlanning.png "Release Planning")
 
@@ -398,7 +398,7 @@ De onderdelen van de Digikoppeling standaard en Digikoppeling voorzieningen zull
 
 Het vaststellen van een nieuwe release van afzonderlijke Digikoppeling onderdelen en een samenhangende Digikoppeling architectuur wordt gedaan volgens het beleid in paragraaf 2.4. De Klantenraadzal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het OBDOmaar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
 
-### Opstellen Releasevoorstellen 
+### Opstellen Releasevoorstellen
 
 Circa een half jaar voor de beoogde releasedatum stelt de beheerder per release verschillende voorstellen op.
 
@@ -434,7 +434,7 @@ Elk releasevoorstel bestaat uit dezelfde onderwerpen als een releaseplan, dit zi
 
 De releasevoorstellen worden gepubliceerd op het Digikoppeling forum.
 
-### Vaststellen releaseplan eerstvolgende Digikoppeling release 
+### Vaststellen releaseplan eerstvolgende Digikoppeling release
 
 Het releaseplan van Digikoppeling zal worden vastgesteld in een bijeenkomst van deKlantenraad. De belanghebbenden krijgen de gelegenheid om de eigen voorkeur toe te lichten.
 
@@ -446,13 +446,13 @@ Het releaseplan wordt gebruikt voor de realisatie van de Digikoppeling onderdele
 
 Het vastgestelde releaseplan wordt gepubliceerd en wordt verwerkt in de Digikoppeling roadmap, waarin de afhankelijkheden tussen releases zichtbaar zijn gemaakt.
 
-## Proces: Onderhouden Digikoppeling onderdelen 
+## Proces: Onderhouden Digikoppeling onderdelen
 
 Het proces Onderhouden Digikoppeling onderdelen bestaat uit het doorvoeren van de wijzigingen in de Digikoppeling (deel)specificatie(s). Het gaat zowel om de aanpassingen aan de Digikoppeling Architectuur als om aanpassingen aan de Koppelvlak standaarden. De belangrijkste input voor dit proces bestaat uit het definitieve releaseplan, de wijzigingsverzoeken en specificaties van onderliggende standaarden gebruik gemaakt moet worden.
 
 ![Onderhouden Digikoppeling onderdelen](media/DK_onderhouden_Digikoppeling_onderdelen.png "Onderhouden Digikoppeling onderdelen")
 
-### Opstellen Digikoppeling standaard 
+### Opstellen Digikoppeling standaard
 
 Een Digikoppeling deskundige verzamelt en verwerkt alle uitgewerkte wijzigingsverzoeken (RFC’s), die deel uitmaken van het vastgestelde releaseplan, tot een complete en nieuwe Digikoppeling standaard. Het geheel bestaat uit:
 
@@ -466,13 +466,13 @@ Een Digikoppeling deskundige verzamelt en verwerkt alle uitgewerkte wijzigingsve
 
 Het resultaat wordt ter review aangeboden aan de leden van het Digikoppeling Technisch Overleg.
 
-### Review en openbare consultatie Digikoppeling standaard 
+### Review en openbare consultatie Digikoppeling standaard
 
 Nadat een (deel) standaard is opgesteld door een Digikoppeling deskundige volgt de beoordeling ervan door het Digikoppeling Technisch Overleg. In een bijeenkomst van het Digikoppeling Technisch Overleg wordt de Digikoppeling standaard doorgenomen en het eventuele commentaar besproken en afspraken gemaakt over de verwerking ervan. Zonodig vindt een extra iteratie plaats van opstellen en reviewen. Als het Digikoppeling Technisch Overleg de deelspecificatie goedkeurt bestaat het resultaat uit een vastgestelde (deel)specificatie voor een Digikoppeling onderdeel.
 
 Nadat het Digikoppeling Technisch Overleg heeft aangegeven dat een nieuwe release van een Digikoppeling onderdeel gereed is voor ingebruikname, zal een openbare consultatie plaatsvinden van de wijziging. De resultaten van deze openbare consultatie worden door de beheerder verzameld en aangeboden voor besluitvorming.
 
-### Vaststellen ‘In Gebruik’ 
+### Vaststellen ‘In Gebruik’
 
 Na de openbare consultatie, zal aan de leden van de Klantenraad gevraagd worden om een besluit over toekenning van de status “In gebruik” aan deze nieuwe release van het Digikoppeling onderdeel te nemen. In dit besluit weegt de Klantenraadde resultaten uit de openbare consultatie. Dit besluit wordt in een Klantenraadbijeenkomst genomen waarbij aan de volgende criteria voldaan moet worden:
 
@@ -484,7 +484,7 @@ Na de openbare consultatie, zal aan de leden van de Klantenraad gevraagd worden 
 
 Indien aan bovenstaande criteria is voldaan dan zal de Digikoppeling beheerder namens de Klantenraadde nieuwe release van het Digikoppeling onderdeel als “In Gebruik” publiceren en dit openbaar maken middels een persbericht.
 
-### Implementatie in softwareproducten 
+### Implementatie in softwareproducten
 
 Nadat een Digikoppeling onderdeel de status “In Gebruik” heeft gekregen kunnen gebruikersorganisaties het betreffende Digikoppeling onderdeel in hun softwareproducten implementeren en toepassen.
 
@@ -492,7 +492,7 @@ De aanvang en de tijdsduur van het implementeren in software kan sterk variëren
 
 Het feitelijk implementeren van Digikoppeling of een nieuwe release of onderdeel ervan in softwareproducten valt grotendeels buiten het beheermodel.
 
-## Proces: Ingebruikname 
+## Proces: Ingebruikname
 
 Het zwaartepunt van de uitvoering van het proces Ingebruikname ligt bij de gebruikers van een Digikoppeling onderdeel en bij de leveranciers van software. Enerzijds betreft de ingebruikname het voorschrijven van een bepaalde release van een Digikoppeling onderdeel en anderzijds het proces van het in bedrijf nemen van adapters en informatiesystemen met Digikoppeling koppelingen.
 
@@ -534,7 +534,7 @@ Verder wordt een persbericht uitgegeven, waarin de publicatie van de nieuwe rele
 
 Naast de nieuwe release van de standaard en nieuws- en persberichten worden ook additionele producten gepubliceerd na aangepast ze zijn. Factsheets, opleidingsmateriaal, presentaties, maar ook releasebeleid en Roadmap zullen worden gepubliceerd.
 
-## Proces: Support 
+## Proces: Support
 
 Het proces Support bestaat uit het afhandelen van vragen over Digikoppeling. In principe worden vragen ingediend via het Digikoppeling forum. Ook kunnen gebruikers van Digikoppeling (bijvoorbeeld overheidsorganisaties en softwareleveranciers) supportvragen indienen via Servicecentrum@logius.nl.
 
@@ -542,7 +542,7 @@ De vragen worden beantwoord door een Digikoppeling deskundige van de verantwoord
 
 Voor de communicatie met basisregistraties zijn de betreffende beheerorganisaties aldaar het aanspreekpunt.
 
-## Proces: Klachten 
+## Proces: Klachten
 
 Klachten over de opzet of de uitvoering van het beheerproces dienen ingediend te worden bij de beheerder. Klachten dienen niet gericht te zijn op personen en niet beledigend of anderszins fatsoensnormen te overschrijden. De beheerder maakt klachten openbaar, inclusief organisatie en functie van de indiener.
 
@@ -558,7 +558,7 @@ Op verschillende plaatsen is informatie over Digikoppeling te vinden. Ter onders
 
 3. Interne Logius medewerkers.
 
-**Geïnteresseerden en gebruikers van de standaard**
+## Geïnteresseerden en gebruikers van de standaard
 
 Het publieke deel van de Digikoppeling website biedt informatie over de Digikoppeling standaard. Er staan:
 
@@ -572,7 +572,7 @@ Het publieke deel van de Digikoppeling website biedt informatie over de Digikopp
 
 - Algemene documenten als factsheets, presentaties, opleidingsmateriaal, etc.
 
-**Community, Technisch Overleg en Klantenraad**
+## Community, Technisch Overleg en Klantenraad
 
 Leden van de Digikoppeling Community kunnen in vier vormen participeren: als lid van de Community als lid van het Technisch Overleg, als lid van de Klantenraaden als lid vanhet OBDO.. Via de website van Digikoppeling is het forum bereikbaar. Elke geïnteresseerde kan zich aanmelden om toegang te krijgen tot het Digikoppeling forum. Op het Digikoppeling forum is te vinden:
 
@@ -590,7 +590,7 @@ Op het forum van de Digikoppeling Community<sup>10</sup> worden ook discussies g
 
 Het forum wordt ook ingezet voor openbare consultatie van wijzigingen aan Digikoppeling.
 
-**Medewerkers beheerder**
+## Medewerkers beheerder
 
 Binnen de beheerorganisatie wordt ten behoeve van eigen medewerkers bewaard:
 
@@ -668,22 +668,22 @@ Binnen de beheerorganisatie wordt ten behoeve van eigen medewerkers bewaard:
 
 Deze bijlage beschrijft de versioneringsmethodiek van de digikoppeling standaard.
 
-**Versioneringsmethodiek**
+## Versioneringsmethodiek
 
 Per document wordt met **[documentnaam]_vX.Y.Z** de versie aangegeven. Met *vX.Y.Z* wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches, dit wordt hieronder toegelicht:
 
-**Patch Releases**
+## Patch Releases
 
 In een patchrelease worden wijzigingen doorgevoerd die de technische specificatie niet raken. Dit kunnen tekstuele wijzigen zijn of inhoudelijke ndelingen van de documenten. De wijzigen worden vastgelegd in release notes. Een patch releases wordt door de beheerder op eigen initiatief of op aanwijzingen van gebruikers doorgevoerd en gepubliceerd. Een patchrelease wordt aan het TO Digikoppeling ter kennisgeving medegedeeld. Een nieuwe patchrelease vervangt een eerdere versie in zijn geheel.
 
-**Minor releases**
+## Minor releases
 
 In een minor release kunnen wijzigingen doorgevoerd worden die de technische specificatie van een koppelvlak raken. Dat kunnen fouten zijn in de specificatie zijn, het verzwaren of verlichten van een restrictie of het een aanpassing van een beveiligingstandaard (zoals TLS 1.0 naar TLS 1.2). In de SEMVER aanpak zijn minor releases backwards compatible. Voor de Digikoppeling standaard is backwards compatibility lastiger te bepalen omdat uiteindelijk twee partijen met elkaar moeten meebewegen. *Minor Releases kunnen dus mogelijk backwards incompatible zijn*. Voor Minor Releases wordt een uitgebreid vaststellings-procedure gevolgd (conform het Digikoppeling Beheermodel) en er kan in overleg met de deelnemers van het TO tot een migratiepad worden besloten. Dit migratiepad wordt in de release meegenomen.
 
-**Major Releases**
+## Major Releases
 
 Er zijn twee Major release momenten: de overgang naar nieuwe internationale standaarden binnen een bestaand profiel, bijvoorbeeld HTTP 2.0 of SOAP 1.2 binnen WUS of de toevoeging van een geheel nieuw profiel, zoals de Grote Berichten Push variant of ebMS3. In het eerste geval komt er een nieuw major versie van Digikoppeling WUS Specificatie document vast te stellen volgens het de uitgebreid vaststellingsprocedure (conform het Digikoppeling Beheer-model). In het tweede geval wordt er een *geheel nieuw* document toegevoegd aan de standaard. Als hierbij het functionele toepassingsgebied van de standaard, waarvoor het pas toe of leg uit regime geldt, veranderd, dan wordt eerst de uitgebreide vaststellingsprocedure gevolgd en vervolgens de procedure van het Forum Standaardisatie.
 
-**Versie overgangen**
+## Versie overgangen
 
 Wanneer een nieuwe versie uitkomt zal de oude versie conform de afgestemde overgangsperiode een einddatum van geldigheid krijgen. in de overgangsperiode kunnen dus 2 documenten de status geldig hebben.
