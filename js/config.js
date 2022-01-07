@@ -42,8 +42,8 @@ var respecConfig = {
   // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
   // previousPublishDate: "2017-10-01",
 
-  publishVersion: "1.5",
-  // previousPublishVersion: "1.4",
+  publishVersion: "1.6",
+  // previousPublishVersion: "1.5",
 
   // Zie https://github.com/w3c/respec/wiki/previousMaturity. Dit moet een
   // A YYYY-MM-DD date. When a previousPublishDate is specified, this is typically required as well in order to generate the "Previous Version"
