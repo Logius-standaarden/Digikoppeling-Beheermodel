@@ -4,7 +4,7 @@ Deze bijlage beschrijft de versioneringsmethodiek van de digikoppeling standaard
 
 ## Versioneringsmethodiek
 
-Per document wordt met **[documentnaam]_vX.Y.Z** de versie aangegeven. Met *vX.Y.Z* wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches, dit wordt hieronder toegelicht:
+Per document wordt met `[documentnaam]_vX.Y.Z` de versie aangegeven. Met `vX.Y.Z` wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches, dit wordt hieronder toegelicht:
 
 ## Patch Releases
 

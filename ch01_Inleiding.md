@@ -52,10 +52,10 @@ In Bijlage A zijn de beheer- en onderhoudsprocessen beschreven; in Bijlage B de 
 
 | Afkorting | Rol                             | Taak                                                                                                       | Doelgroep? |
 |-----------|---------------------------------|------------------------------------------------------------------------------------------------------------|------------|
-| [MT]      | Management                      | Bevoegdheid om namens organisatie (strategische) besluiten te nemen.                                       | **Ja**     |
-| [PL]      | Projectleiding                  | Verzorgen van de aansturing van projecten.                                                                 | **Ja**     |
-| [A&D]     | Analyseren & ontwerpen (design) | Analyseren en ontwerpen van oplossings-richtingen. Het verbinden van Business aan de IT.                   | **Ja**     |
-| [OT&B]    | Ontwikkelen, testen en beheer   | Ontwikkelt, bouwt en configureert de techniek conform specificaties. Zorgen voor beheer na ingebruikname.  | **Ja**     |
+| [MT]      | Management                      | Bevoegdheid om namens organisatie (strategische) besluiten te nemen.                                       | Ja     |
+| [PL]      | Projectleiding                  | Verzorgen van de aansturing van projecten.                                                                 | Ja     |
+| [A&D]     | Analyseren & ontwerpen (design) | Analyseren en ontwerpen van oplossings-richtingen. Het verbinden van Business aan de IT.                   | Ja     |
+| [OT&B]    | Ontwikkelen, testen en beheer   | Ontwikkelt, bouwt en configureert de techniek conform specificaties. Zorgen voor beheer na ingebruikname.  | Ja     |
 
 ## Bijdragen
 

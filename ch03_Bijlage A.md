@@ -75,7 +75,7 @@ De Digikoppeling deskundige stuurt het wijzigingsverzoek aan alle leden van het 
 
 Na behandeling neemt het Digikoppeling Technisch Overleg een besluit over de “status” van het wijzigingsverzoek:
 
-| **Status** |  **Status van een wijzigingsverzoek** | **Omschrijving**                                                                                                             |
+| Status |  Status van een wijzigingsverzoek | Omschrijving                                                                                                             |
 |------------|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | N          | Niet uitgewerkt                       | De beginstatus van een wijzigingsverzoek                                                                                     |
 | T          | Toestemming voor verdere uitwerking   | het Digikoppeling Technisch Overleg geeft een Digikoppeling deskundige toestemming het RFC uit te werken                     |
