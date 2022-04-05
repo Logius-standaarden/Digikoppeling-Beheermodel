@@ -6,8 +6,8 @@
 - PDF-versie: [Digikoppeling-Beheermodel.pdf](Digikoppeling-Beheermodel.pdf)
 
 Te doen in deze branch:
-- branches: _develop_ en _main_ branch opzet
-- publicatie: van _develop_ naar _main_
-- semver: verschil tussen normatieve en niet-normatieve versies
-- governance: overleggen
-- wijzigingsproces: van issue naar wijziging, gebruik labels, overzicht labels
+- [ ] governance: overleggen
+- [ ] wijzigingsproces: van issue naar wijziging, gebruik labels, overzicht labels
+- [ ] branches: _develop_ en _main_ branch opzet
+- [ ] publicatie: van _develop_ naar _main_
+- [ ] semver: verschil tussen normatieve en niet-normatieve versies
