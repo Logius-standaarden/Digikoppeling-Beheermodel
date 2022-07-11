@@ -1,183 +1,142 @@
 # Inleiding
 
-Het Digikoppeling beheermodel beschrijft hoe de governance van de
-Digikoppeling is ingericht, welke overleggen adviseren en beslissen
-over de standaard en hoe wijzigingsverzoeken in behandeling worden
-genomen. De basis van het beheermodel is BOMOS. BOMOS geeft
-richtlijnen voor de inrichting van een open beheerproces voor
-standaarden.
+## Leeswijzer
 
-## Achtergrond
+> Dit document beschrijft hoe Logius, afdeling Standaarden (hierna:
+> Logius) xxxxx standaard beheert en hoe de bijbehorende governance is
+> ingericht.
 
-De Nederlandse Overheid Referentie Architectuur (NORA) positioneert
-Digikoppeling als de logistieke laag voor standaardisatie van
-communicatie tussen systemen bij overheidsorganisatie op basis van
-webservice standaarden. Digikoppeling is daardoor een laag die zich
-bevindt tussen het transportnetwerk (b.v. Diginetwerk of Internet) en
-de applicatielaag (functionele berichtinhoud). De systemen die
-Digikoppeling gebruiken zijn zowel frontoffice-systemen (die
-interactie met burgers en bedrijven afhandelen) als systemen van
-andere overheden en in het bijzonder de basisregistraties (zie
-onderstaand figuur).
+## _Vul naam van de standaard hier in_
 
-![Systemen die DIgikoppeling gebruiken](media/DK_Systemen_die_Digikoppeling_gebruiken.png "Systemen die DIgikoppeling gebruiken")
+Beschrijf hier de standaard
 
-Doel van Digikoppeling is om door vergaande standaardisatie de
-interoperabiliteit tussen overheden te bevorderen. Als de 'envelop'
-van de 'berichten' is gestandaardiseerd kan ieder voorzieningen voor
-postverzending inrichten die onafhankelijk zijn van de berichten in de
-'envelop'.
+<aside class="example">
+De xxx standaard omvat een set van normatieve ontwerpafspraken voor
+het structureren en documenteren. De standaard heeft tot doel om
+betere, uniforme en ontwikkelaar vriendelijke API’s te ontwikkelen die
+makkelijk te implementeren zijn. De set van afspraken bestaat uit
+breed toepasbare en ondubbelzinnige richtlijnen. Deze helpen
+organisaties die nieuwe API’s ontwikkelen voor Nederlandse overheden
+(Rijk, provincies, gemeenten en waterschappen) en instellingen uit de
+(semi-) publieke sector. Het Nut en de werking van de standaard zijn
+reeds goed beschreven door het Forum Standaardisatie en voor de
+eenduidigheid hieronder integraal
+opgenomen [<span class="underline">zie link</span>](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules):
+van de standaard zijn reeds goed beschreven door het Forum
+Standaardisatie en voor de eenduidigheid hieronder integraal opgenomen
+[<span class="underline">zie link</span>](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules):
+</aside>
 
-De Digikoppeling standaard is door het College
-Standaardisatie<sup>1</sup> in november 2007 geselecteerd als
-standaard voor het Comply-or-Explain regime en in mei 2009 opnieuw
-bekrachtigd. Het College stelde ook als eis dat een beheerproces voor
-een goed te keuren standaard is ingericht. Dit document beschrijft
-deze inrichting.
+### Nut
 
-<sup>1</sup>: Het College Standaardisatie is begin 2018 voortgezet in het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO).
+Beschrijf hier de nut van de standaard
 
-De Digikoppeling-standaard is binnen de overheid in gebruik bij
-diverse organisaties, samenwerkingsverbanden en/of ketens. Een groot
-aantal ICT leveranciers biedt ondersteuning aan de voor Digikoppeling
-benodigde open standaarden (WUS, ebMS, https) in hun producten en
-dienstverlening. De Digikoppeling standaard heeft de zich afgelopen
-tijd ontwikkeld tot een volwassen standaard die in een grote en brede
-community wordt ontwikkeld. Bij het beheer van de
-Digikoppeling-standaard zijn veel verschillende organisaties betrokken
-uit de gehele eOverheid. De voornaamste organisaties zijn ministeries,
-Manifestpartijen, houders van basisregistraties en landelijke
-voorzieningen, ketenpartijen, ICT leveranciers en gemeenten via
-KING. Opdrachtgever voor Digikoppeling is het Ministerie van BZK.
+<aside class="example">
+De overheid ontsluit gegevens en applicaties steeds vaker met
+standaarden. Voorbeelden hiervan zijn te zien op de website
+developer.overheid.nl, in Common Ground, Haal Centraal en het Digitaal
+Stelsel Omgevingswet.
 
-Omdat de Digikoppeling standaard steeds meer en breder wordt gebruikt,
-is het noodzakelijk dat het beheer en onderhoud voor alle
-belang-hebbenden inzichtelijk en transparant is, duidelijk belegd is
-en de doorontwikkeling releasematig plaatsvindt. Dit document geeft
-hier invulling aan en beschrijft het beheermodel voor de
-Digikoppeling-standaarden.
+Representational state transfer (REST) is een ontwerpprincipe dat
+wereldwijd veel gebruikt wordt voor het bouwen van
+programmeerinterfaces over het web (API's). REST is geen standaard
+maar een ontwerpprincipe, en laat nog veel vrijheid in het
+structureren van API's.
 
-In dit beheermodel komen de volgende onderwerpen aan bod:
+De standaard REST-API Design Rules geeft een verzameling basisregels
+voor structuur en naamgeving waarmee de overheid op een uniforme en
+eenduidige manier REST-API's aanbiedt. Dit maakt het voor
+ontwikkelaars gemakkelijker om betrouwbare applicaties met te
+ontwikkelen met API's van de overheid. Bron: Forum standaardisatie
+</aside>
 
-- Scope van het beheer, de te beheren objecten van Digikoppeling;
+### Werking
 
-- Releasebeleid;
+Beschrijf hier de werking van de standaard
 
-- Organisatie, participatievormen, processen voor het beheer en onderhoud;
+<aside class="example">
+Een application programming interface (API) is een gestructureerd en
+gedocumenteerd koppelvlak voor communicatie tussen applicaties. Zo
+lang er computers zijn, bestaan er API's en worden er verschillende
+API technologieën gebruikt. In de laatste 10 jaar heeft
+Representational state transfer (REST) zich ontwikkeld tot een
+bepalend principe voor het realiseren van API's. Zogenaamde
+‘REST-API's’ doen voor applicaties wat websites voor mensen doen.
+Websites presenteren informatie aan mensen, REST-API's maken
+applicaties en gegevens over het Internet beschikbaar voor andere
+applicaties. De technologie achter websites en REST-API's heeft daarom
+veel gemeen.
 
-- Informatievoorziening t.b.v. belanghebbenden inclusief communicatie en publicatie.
+De overheid gebruikt REST-API's voor koppelingen met andere overheden,
+bedrijven en indirect ook met burgers, bijvoorbeeld via mobiele apps
+en webapps die aangeboden worden door bedrijven of overheden zelf.
+Ontwikkelaars kunnen deze REST-API's bevragen vanuit de gangbare
+programmeertalen en frameworks zoals Python, Java, Microsoft C\#, PHP.
+</aside>
 
-Voor het opstellen van dit document is zoveel mogelijk aangesloten bij
-het beheermodel van StUF om de eenvormigheid van beheerprocessen bij
-de eOverheid te bevorderen.
+### Status
 
-## Doel van document
+Beschrijf hier de status van de standaard
 
-Dit document beschrijft het beheermodel voor de
-Digikoppeling-standaarden. Het geeft alle belanghebbenden inzicht in
-het releasebeleid, in de wijze waarop het beheer van Digikoppeling is
-belegd, hoe het proces van wijzigen en releaseplanning van de
-Digikoppeling standaard eruit ziet en hoe de besluitvorming en
-participatie is georganiseerd. Daarnaast komen aanvullende onderwerpen
-aan de orde zoals release-nummering en de publicatie en
-informatievoorziening rond Digikoppeling.
+<aside class="example">
+De actuele versie van de ADR-standaard is 1.0. Deze versie is op
+09-07-2020 door het OBDO vastgesteld op advies van het Forum
+Standaardisatie.
+</aside>
 
-Door dit inzicht kunnen de belanghebbenden beter rekening houden met
-en gebruik maken van de Digikoppeling standaard. Voor sommige
-belanghebbenden, zoals basisregistraties en andere
-informatieleveranciers binnen de eOverheid, is dit beheermodel van
-belang voor de planning van hun ontwikkeling en onderhoud. Maar ook
-ICT-leveranciers zullen, ieder op hun eigen manier, rekening moeten
-houden met het beheermodel om ondersteuning te kunnen leveren aan de
-betrokken overheidsorganisaties.
+## BOMOS
 
-In Hoofdstuk 2 is het beheer op hoofdlijnen beschreven. Daarin komen
-aan de orde: de afbakening van het beheer; de verschillende
-belanghebbenden; de structuur van participatie en ondersteuning en het
-releasebeleid.
+> ![](./media/image3.png)Logius richt de beheerorganisatie in conform
+> het Beheer en Ontwikkel Model voor Open Standaarden (BOMOS). Ook het
+> beheer van de xxxxx is op basis van BOMOS ingericht. Voor de
+> beheerorganisatie heeft Logius een generiek beheermodel opgezet, waar
+> het beheerplan van xxx is afgeleid.
 
-In Bijlage A zijn de beheer- en onderhoudsprocessen beschreven; in
-Bijlage B de informatievoorziening rond de Digikoppeling standaard en
-in Bijlage C het gehanteerde begrippenkader. Tot slot komt in Bijlage
-D en E een aantal overige onderwerpen aan de orde.
+![](./media/image1.png)
 
-## Doelgroep van dit document
+*Figuur 1 Bomos model*
 
-| Afkorting | Rol                             | Taak                                                                                                       | Doelgroep? |
-|-----------|---------------------------------|------------------------------------------------------------------------------------------------------------|------------|
-| [MT]      | Management                      | Bevoegdheid om namens organisatie (strategische) besluiten te nemen.                                       | Ja     |
-| [PL]      | Projectleiding                  | Verzorgen van de aansturing van projecten.                                                                 | Ja     |
-| [A&D]     | Analyseren & ontwerpen (design) | Analyseren en ontwerpen van oplossings-richtingen. Het verbinden van Business aan de IT.                   | Ja     |
-| [OT&B]    | Ontwikkelen, testen en beheer   | Ontwikkelt, bouwt en configureert de techniek conform specificaties. Zorgen voor beheer na ingebruikname.  | Ja     |
+![](./media/image5.png)Voor meer informatie over BOMOS zie ook:
 
-## Bijdragen
+[<span class="underline">BOMOS, het
+fundament</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/)
 
-Onderstaande personen hebben bijgedragen aan de totstandkoming van dit beheermodel:
+[<span class="underline">BOMOS, de
+verdieping</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
 
-- Tom Peelen, Logius stelselarchitect
+[<span class="underline">'Publicatie-BOMOS-2i.pdf'</span>](https://www.forumstandaardisatie.nl/sites/default/files/BFS/4-basisinformatie/publicaties/Publicatie-BOMOS-2i.pdf)
 
-- Peter Klaver, EGEM i-teams
+BOMOS onderscheidt verschillende levenscyclusfases waarin een
+standaard zich kan bevinden. Deze fase bepaalt mede op welke
+beheeronderdelen meer of minder wordt ingezet. De verschillende fases
+zijn:
 
-- Peter Leijnse, Logius
+1.  Creatie/ontwikkeling
+2.  Introductie
+3.  Implementatie/groei
+4.  Volwaardige toepassing
+5.  Uitfaseren
 
-- Egon Velders, BKWI
+![](./media/image7.png)![](./media/image8.png)Adoptie
 
-- Frans van Diepen, LNV
+![](./media/image10.png)
 
-- Marcel Reuvers, GeoNovum
+Tijd
 
-In de review-fase van het beheermodel is een belangrijke bijdrage geleverd door de volgende leden van het Technisch Overleg Digikoppeling:
+*Figuur 2 Bomos levenscyclus*
 
-- Sylvia Majdoubi, Kamers van Koophandel,
+De xxx bevindt zich in de xxx fase. De eerste versie van de standaard
+is xxx aangemeld bij het Forum Standaardisatie en op xxx op de lijst
+van verplichte standaarden opgenomen. Vanuit het xxx en Logius
+afdeling Standaarden wordt momenteel nog volop aan de xxx gewerkt en
+de verwachting is dat de standaard nog de nodige ontwikkelingen door
+gaat maken.
 
-- Hans Lussing, ICTU/OverheidsDienstenPlatform,
+Daarom is er komende tijd vooral aandacht voor:
 
-- Paul Schlotter Logius,
+Het in de praktijk bestendigen van het beheer van de standaard;
+Gestaag doorontwikkeling van de specificaties zelf;
 
-- Jan Moggré, UWV,
-
-- Bram Gaakeer, ministerie van OCW,
-
-- Tom Vijlbrief, Kadaster,
-
-- Maarten van den Broek, Waarderingskamer,
-
-- Frans van Diepen, ministerie van LNV,
-
-- Geurt-Jan van Renswoude, ICTU/eFormulieren,
-
-- Hugo Heitmeijer, Belastingdienst,
-
-- Tom Peelen, Logius stelselarchitect
-
-Bij de toetsing met Bomos2i is een belangrijke bijdrage geleverd door:
-
-- Marijke Salters, Logius Centrum voor Standaarden
-
-- Lia van der Knijff, Logius projectleider Digikoppeling
-
-- Tom Peelen, Logius stelselarchitect
-
-## Licentie en patentrechten
-
-Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 3.0 Unported licentie.
-
-![Creative Commons Naamsvermelding 3.0 Unported licentie](media/CC_Logo3.0.png "Creative Commons Naamsvermelding 3.0 Unported licentie")
-
-Meer informatie over de precieze voorwaarden van deze licentie vindt u
-op de website van Creative Commons http://creativecommons.nl/ en
-specifiek voor deze licentie een samenvatting onder
-http://creativecommons.org/licenses/by/3.0/deed.nl en de volledige
-licentietekst onder
-http://creativecommons.org/licenses/by/3.0/legalcode.
-
-Dit werk en de specificaties van de Digikoppeling-standaard worden
-royaltee-free ter beschikking gesteld. Organisaties en personen die
-bijdragen aan Digikoppeling dienen hun bijdragen vrij te geven zodanig
-dat hieraan voldaan kan worden. Door bij te dragen aan Digikoppeling
-verklaren zij hiermee in te stemmen.
-
-Uitgesloten van alle bovenstaande zijn rechten verbonden aan de
-standaarden, profielen en andere onderdelen waar Digikoppeling gebruik
-van maakt. Hierop zijn de rechten van de betreffende standaarden,
-profielen en andere onderdelen zelf van toepassing.
+Bouwen en aanbieden ondersteunende tooling; Groei in het aantal
+toepassingen van de standaard; Monitoring van het gebruik van de
+standaard; Groei van de community rond de standaard.
