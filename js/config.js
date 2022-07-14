@@ -128,7 +128,7 @@ var respecConfig = {
   // nl_markdownSplitH1sections: true,
 
   // in some cases the Repository of a Specification document and the Issue- and PR bases are split
-  // thi scan be configured below
+  // this can be configured below
   // if not set, the url's will be generated on the respecConfig.github automatically
   nl_github: {
     //issueBase: "https://github.com/Logius-standaarden/<repository>/issues",
@@ -144,11 +144,10 @@ var respecConfig = {
   // defaults to "GN-"
   nl_organisationPrefix: "LS-",
 
-  // class style can be automatically insertd in generated markdown tables
+  // class style can be automatically inserted in generated markdown tables
   // currently defaults to simple, but this may change
   // options simple, data, <your css>
   nl_markdownTableClass: "dkkvs",
-
   nl_markdownCodeClass: "code",
 
   // if nl_markdownEmbedImageInFigure is set to true images in markdown generated content will be surrounded with <figures> element
