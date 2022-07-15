@@ -14,13 +14,14 @@ Architectuur Groep (zie paragraaf
 
 ## Architectuur
 
-Beschrijf hoe de standaard zich verhoudt tot de enterprise en domein-architecturen.
+De Nederlandse Overheid Referentie Architectuur (NORA) positioneert
+Digikoppeling als de logistieke laag voor standaardisatie van
+communicatie tussen systemen bij overheidsorganisatie op basis van
+webservice standaarden.
 
-<aside class="example">
-De xxx standaard is een op zichzelf staande standaard en geen
-onderdeel van een bovenliggende standaard. Wel wordt er in de ADR
-verwezen naar verschillende andere (internationale) standaarden.
-</aside>
+De NORA maakt geen deel uit van het in dit document beschreven
+beheer van de Digikoppeling-standaard, maar bevat wel belangrijke
+informatie over Digikoppeling en haar toepassing.
 
 ### Internationale, Europese en nationale standaardisatiegemeenschap
 

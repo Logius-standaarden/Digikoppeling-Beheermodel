@@ -54,22 +54,22 @@ beheerpartij en facilitator. Bij het beheer van de xxx worden
 verschillende gremia onderscheiden die gezamenlijk invulling geven aan
 de governance op de standaard:
 
-1.  xxx-community (Interesse Groep - IG)
+1.  De Digikoppeling community
 
 Dit is het meest operationele gremium waarin iedere
 belangstellende/belanghebbende vragen kan stellen over de
-xxx-standaard en suggesties kan doen voor de doorontwikkeling van de
-standaard. Dergelijke vragen en suggesties worden door xxx verzameld
-en voorgelegd aan het Technisch Overleg en als issue geregistreerd bij
-de werkgroep xxx van het kennisplatform xxx
+Digikoppeling standaard en suggesties kan doen voor de doorontwikkeling van de
+standaard. Dergelijke vragen en suggesties worden, overenkomstig BOMOS, door de beheerder verzameld
+en voorgelegd aan het Technisch Overleg en als issue geregistreerd.
 
-2.  Technisch Overleg (Technische Architectuur Groep – TAG)
+Binnen Digikoppeling 
 
-Het Technisch Overleg is een periodieke bijeenkomst van de Technische
-Architectuur Groep (TAG) waarbij de vragen en doorontwikkelwensen
+2.  Technisch Overleg
+
+Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de vragen en doorontwikkelwensen
 m.b.t. de xxx worden doorgenomen, geprioriteerd en worden uitgewerkt.
 Daarnaast wordt door de leden de releaseplanning en de roadmap
-opgesteld. Deelname aan de TAG is vrij voor eenieder die een belang
+opgesteld. Deelname aan het Technisch Overleg is vrij voor eenieder die een belang
 heeft bij de standaard (overheid, wetenschap en markt)
 
 3.  Tactisch overleg xxx

@@ -2,41 +2,36 @@
 
 ## Promotie
 
-> De xxx-standaard wordt via verschillende kanalen gepromoot. Ten eerste
-> via het Kennisplatform/community. Naast communicatie op de website van
-> het kennisplatform/community, organiseert het platform regelmatig vrij
-> toegankelijke bijeenkomsten.
->
-> Daarnaast heeft de standaard de zogenaamde 'pas toe of leg uit'
-> -status van Forum Standaardisatie. Dit betekent dat Forum
-> Standaardisatie het gebruik van deze standaard niet alleen actief
-> promoot, maar in veel gevallen zelfs hard voorschrijft.
->
-> Tot slot is Logius promotor van de standaard. Zowel intern voor de
-> toepassing van de standaard in Logius voorzieningen als extern, door
-> andere partijen te informeren en adviseren over de mogelijkheden van
-> de standaard.
+_website, nieuwberichten via Logius_
 
 ## Publicatie
 
-> Als een nieuwe versie van de xxx standaard de status "In Gebruik"
-> heeft, worden verschillende zaken gepubliceerd.
->
-> Logius publiceert altijd de volledige specificatie van de standaard op
-> een deel van zijn website. Daarnaast wordt een persbericht uitgegeven,
-> waarin de publicatie van de nieuwe release van de standaard wordt
-> aangekondigd. Aanvullend publiceert Logius alle genoemde documentatie
-> zoals genoemd bij<span class="underline">Documentatie</span>.
+![Communicatie en PR](media/DK_Communicatie_en_PR.png)
+
+Als een Digikoppeling onderdeel de status „In Gebruik‟ heeft, wordt deze
+gepubliceerd. De Digikoppeling beheerder publiceert de volledige specificatie
+(„In Gebruik‟) van een Digikoppeling onderdeel en een kort bericht op het
+publieke deel van zijn website. Publicatie houdt in dat de nieuwe release
+van een Digikoppeling onderdeel openbaar wordt gemaakt voor inbouw in
+software, brede uitrol en ingebruikname.
+
+Verder wordt een persbericht uitgegeven, waarin de publicatie van de nieuwe
+release van het Digikoppeling onderdeel wordt aangekondigd. Ook wordt er door
+de beheerder een bericht in relevante nieuwsbrieven geplaatst.
+
+Naast de nieuwe release van de standaard en nieuws- en persberichten worden
+ook additionele producten gepubliceerd na aangepast ze zijn. Factsheets,
+opleidingsmateriaal, presentaties, maar ook releasebeleid en Roadmap zullen worden gepubliceerd.
+
+_Over Git_
 
 ## Klachtenafhandeling
 
-> Klachten over de opzet of de uitvoering van het beheerproces kunnen
-> ingediend worden bij Logius. Dit kan in principe via alle beschikbare
-> kanalen (zie bij 5.2). De indiener van de klacht krijgt zo spoedig
-> mogelijk en altijd terugkoppeling over de voortgang van en beslissing
-> over zijn klacht.
->
-> De volledige klachtenprocedure is terug te vinden in het generieke
-> beheermodel van Logius, afdeling standaarden. (volgt)
->
-> <span class="underline">↑</span>
+Klachten over de opzet of de uitvoering van het beheerproces dienen
+ingediend te worden bij de beheerder. Klachten dienen niet gericht te zijn op
+personen en niet beledigend of anderszins fatsoensnormen te overschrijden.
+De beheerder maakt klachten openbaar, inclusief organisatie en functie van
+de indiener.
+
+De indiener van de klacht krijgt zo spoedig mogelijk en altijd terugkoppeling
+over de voortgang van en beslissing over zijn klacht.
