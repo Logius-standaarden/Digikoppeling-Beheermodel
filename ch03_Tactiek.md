@@ -2,15 +2,35 @@
 
 ## Community
 
-De xxx community/ Interesse Groep bestaat uit eenieder die
-belanghebbende of belangstellende is m.b.t. de standaard. Deelname aan
-de community kent geen drempels of restricties. Leden van de community
-kunnen alle informatie m.b.t. de standaard en het beheer daarvan
-inzien via de website en via verschillende kanalen issues of RFC's
-melden. Daarnaast kunnen community leden reageren op openbare
-consultaties en onder bepaalde voorwaarden deelnemen aan de Technische
-Architectuur Groep (zie paragraaf
-<span class="underline">deelname</span>).
+Veel verschillende partijen hebben direct dan wel indirect belang bij
+de ontwikkeling, de implementatie en het gebruik van de
+Digikoppeling-standaard. Dit geldt dus ook voor het beheer en
+onderhoud ervan. In onderstaand schema zijn de belanghebbenden
+aangegeven.
+
+![Belang bij DIgikoppeling](media/DK_belang_bij_digikoppeling.png "Belang bij DIgikoppeling")
+
+De Digikoppeling standaard wordt in stand gehouden en doorontwikkeld
+door participatie van de belanghebbenden. Ruwweg zijn drie rollen te
+onderkennen, de vraagkant, de aanbodkant en de ondersteuningskant:
+* De vraagkant bestaat uit organisaties die Digikoppeling koppelingen
+  gebruiken voor de eigen informatievoorziening, sectoren die
+  Digikoppeling gebruiken als standaard voor
+  (keten)integratiedoeleinden en e-overheidsprojecten die
+  Digikoppeling toepassen.
+* De aanbodkant bestaat uit ICT leveranciers die de producten maken
+  voor ondersteuning van de open standaarden waarop Digikoppeling is
+  gebaseerd (adapter-leveranciers of diensten-leveranciers). Onder de
+  aanbodkant rekenen we ook standaardisatie-organisaties (OASIS, W3C
+  e.d.) waar de standaarden waarop Digikoppeling is gebaseerd vandaan
+  komen.
+* De ondersteuningskant bestaat uit de beheerders van de
+  Digikoppeling-standaarden en beheerders van de
+  Digikoppeling-voorzieningen. Expertise voor Digikoppeling is ook
+  verkrijgbaar in de markt.
+
+Afhankelijk van eigen doelstellingen, verantwoordelijkheden en
+belangen zullen belanghebbenden op een andere wijze participeren.
 
 ## Architectuur
 
@@ -37,26 +57,20 @@ om de xxx standaard aan te passen, verbeteren of actualiseren.
 
 ### Samenwerking met andere beheerorganisaties
 
-<aside class="example">
-Kennisplatform of community xxx is een initiatief van xxx, xxx, en
-Logius. Het doel van het Kennisplatform is om de kennis over het
-toepassen van xxx uit te wisselen en de aanpak bij verschillende
-organisaties op elkaar af te stemmen en waar nodig te standaardiseren.
-In het kennisplatform/community wordt gezamenlijk gekeken naar
-strategische en tactische vraagstukken rond het ontwikkelen van de
-standaard xxx door de overheid en gebruik van de standaard xxx buiten
-en binnen de overheid. Dit vanuit de gedachte dat we in een digitale
-samenleving eenvoudig met elkaar moeten kunnen samenwerken.
+Digikoppeling sluit aan op onderstaande standaarden. De aansluiting
+vindt plaats binnen de vastgestelde releasetermijnen van de
+Digikoppeling onderdelen.
 
-De xxx standaard komt voort uit xxx die beheerd wordt door het
-Kennisplatform/community xxx en is door het kennisplatform/community
-ontwikkeld. Op het moment dat er in het kennisplatform consensus was
-over de kwaliteit van de xxx standaard en de wenselijkheid deze via
-het 'pas toe of leg uit' -principe normatief te laten verklaren is de
-standaard voorgedragen aan Forum Standaardisatie voor het verkrijgen
-van de voor overheden verplichte 'pas toe of leg uit' status en heeft
-Logius het beheer van dit normatieve deel op zich genomen.
-</aside>
+1. Digikoppeling volgt de ontwikkeling van internationale standaarden
+(zoals W3C en OASIS) in het algemeen en die voor de daarin opgenomen
+standaarden zoals WUS, ebMS en http in het bijzonder.
+
+2. De Digikoppeling-standaard volgt de Nederlandse Overheid Referentie
+Architectuur (NORA).
+
+3. De Digikoppeling-standaard en in het bijzonder "Gebruik en
+achtergrond Digikoppeling-certificaten" sluiten aan bij de
+PKI.Overheid.
 
 ### Nederlandse Overheid Referentie Architectuur (NORA)
 
@@ -64,31 +78,30 @@ De xxx standaard volgt de principes van de Nederlandse Overheid
 Referentie Architectuur. Zie voor meer informatie:
 [<span class="underline">https://www.noraonline.nl/wiki/NORA\_online</span>](https://www.noraonline.nl/wiki/NORA_online)
 
-4.  ###
-
-    1.
-    2.
-
 ## Rechtenbeleid
 
-<aside class="example">
-De xxx Standaard zelf en dit beheermodel vallen onder de Creative
-Commons licentie (<span class="underline">Creative Commons</span>
-<span class="underline">Attribution 4.0 License</span>) Dit houdt in
-dat het is toegestaan om deze documenten te gebruiken, verder
-te](https://creativecommons.org/licenses/by/4.0/) verspreiden en aan
-te passen. Dit werk en de specificaties van de xxx standaard worden
+Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 3.0
+Unported licentie.
+
+![Creative Commons Naamsvermelding 3.0 Unported licentie](media/CC_Logo3.0.png "Creative Commons Naamsvermelding 3.0 Unported licentie")
+
+Meer informatie over de precieze voorwaarden van deze licentie vindt u
+op de website van Creative Commons http://creativecommons.nl/ en
+specifiek voor deze licentie een samenvatting onder
+http://creativecommons.org/licenses/by/3.0/deed.nl en de volledige
+licentietekst onder
+http://creativecommons.org/licenses/by/3.0/legalcode.
+
+Dit werk en de specificaties van de Digikoppeling-standaard worden
 royaltee-free ter beschikking gesteld. Organisaties en personen die
-bijdragen aan de ADR dienen dit onder dezelfde voorwaarden te doen als
-bij het originele werk. Door bij te dragen aan de ADR verklaren zij
-hiermee in te stemmen.
+bijdragen aan Digikoppeling dienen hun bijdragen vrij te geven zodanig
+dat hieraan voldaan kan worden. Door bij te dragen aan Digikoppeling
+verklaren zij hiermee in te stemmen.
 
 Uitgesloten van alle bovenstaande zijn rechten verbonden aan de
-standaarden, profielen en andere onderdelen waar de xxx gebruik van
-maakt. Hierop zijn de rechten van de betreffende standaarden,
-profielen en andere onderdelen zelf van toepassing. Dit zijn in geval
-van de xxx allemaal open standaarden.
-</aside>
+standaarden, profielen en andere onderdelen waar Digikoppeling gebruik
+van maakt. Hierop zijn de rechten van de betreffende standaarden,
+profielen en andere onderdelen zelf van toepassing.
 
 ## Kwaliteitsbeleid en benchmarking
 
