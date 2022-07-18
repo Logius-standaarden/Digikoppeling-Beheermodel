@@ -49,8 +49,8 @@ via wetgeving.
 
 Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
-beheer. xxx neemt hierin de rol van onafhankelijke, duurzame
-beheerpartij en facilitator. Bij het beheer van de xxx worden
+beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
+beheerpartij en facilitator. Bij het beheer van Digikoppeling worden
 verschillende gremia onderscheiden die gezamenlijk invulling geven aan
 de governance op de standaard:
 
@@ -62,7 +62,7 @@ Digikoppeling standaard en suggesties kan doen voor de doorontwikkeling van de
 standaard. Dergelijke vragen en suggesties worden, overenkomstig BOMOS, door de beheerder verzameld
 en voorgelegd aan het Technisch Overleg en als issue geregistreerd.
 
-Binnen Digikoppeling 
+#### Binnen Digikoppeling
 
 2.  Technisch Overleg
 
@@ -110,6 +110,9 @@ In tabelvorm:
 | Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | Samen met andere experts van de Technische Architectuur Groep (TAG): <br/>1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. 3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden. 4. Goedkeuring van aanpassingen op de standaard. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. 5. Beschikbaar stellen specificaties. |
 | Tactisch/Strategisch (4x per jaar) | Prioritering proces en uitwerken strategisch advies | Samen met andere participanten: <br/>1. Vaststellen roadmap van de standaard. <br/>2. Voorportaal OBDO 3. Vaststellen minor releases van de standaard. | 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
 | OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+
+### Proces behandeling wijzigingsvoorstellen
+
 
 ### Besluitvorming
 

@@ -101,3 +101,36 @@ berichtenuitwisseling volgens een Koppelvlakstandaard.
 ### Status
 
 _Beschrijf hier de status van de standaard._
+
+## BOMOS
+
+![](./media/image1.png)
+
+*Figuur 1 Bomos model*
+
+![](./media/image5.png)Voor meer informatie over BOMOS zie ook:
+
+[<span class="underline">BOMOS, het
+fundament</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/)
+
+[<span class="underline">BOMOS, de
+verdieping</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
+
+[<span class="underline">'Publicatie-BOMOS-2i.pdf'</span>](https://www.forumstandaardisatie.nl/sites/default/files/BFS/4-basisinformatie/publicaties/Publicatie-BOMOS-2i.pdf)
+
+BOMOS onderscheidt verschillende levenscyclusfases waarin een
+standaard zich kan bevinden. Deze fase bepaalt mede op welke
+beheeronderdelen meer of minder wordt ingezet. De verschillende fases
+zijn:
+
+1.  Creatie/ontwikkeling
+2.  Introductie
+3.  Implementatie/groei
+4.  Volwaardige toepassing
+5.  Uitfaseren
+
+![](./media/image7.png)![](./media/image8.png)Adoptie
+
+![](./media/image10.png)
+
+*Figuur 2 Bomos levenscyclus*
