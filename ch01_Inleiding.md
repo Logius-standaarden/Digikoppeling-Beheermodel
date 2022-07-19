@@ -12,7 +12,7 @@ gebaseerd op de principes uit de BOMOS standaard.
 De Digikoppeling standaarden zijn beschreven in een set van documenten.
 Deze set is als volgt opgebouwd:
 
-![Opbouw documentatie Digikoppeling](images/DK_specificatiestructuur.png)
+![Opbouw documentatie Digikoppeling](images/DK_Specificatie_structuur.png)
 
 <details>
     <summary>Tekstalternatief</summary>
