@@ -2,11 +2,12 @@
 
 De strategische activiteiten van BOMOS bestaan uit de onderdelen
 Visie, Govenance en Financiering. Deze onderdelen en hun toepassing op
-het beheer van xxxx worden hieronder beschreven.
+het beheer van Digikoppeling worden hieronder beschreven.
 
 ## Visie
 
-Met de xxx standaard wil de Nederlandse overheid interoperabiliteit
+Met de Digikoppeling standaard wil de Nederlandse overheid
+interoperabiliteit
 bevorderen. Dit komt erop neer dat overheden dezelfde standaard in
 vergelijkbare situaties toepassen. Dit maakt uiteindelijk dat
 componenten en systemen onderling effectief gegevens uit kunnen
@@ -22,10 +23,8 @@ Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid
 of leg uit’-lijst met andere standaarden die interoperabiliteit
 bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
 
-De toetsingsprocedure voor opname van een standaard op _pas toe of leg
-uit_ lijst bestaat uit de volgende
-
-stappen:
+De toetsingsprocedure voor opname van een standaard op
+_pas toe of leg uit_ lijst bestaat uit de volgende stappen:
 
 1. Aanmelding
 2. Intake
@@ -50,34 +49,50 @@ via wetgeving.
 Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
 beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
-beheerpartij en facilitator. Bij het beheer van Digikoppeling worden
-verschillende gremia onderscheiden die gezamenlijk invulling geven aan
-de governance op de standaard:
+beheerpartij en facilitator. Logius gaat uit van de governance van de
+Generieke Digitale Infrastructuur (GDI). De GDI geeft richting aan het Meerjarenprogramma Infrastructuur Digitale Overheid (MIDO). Voor MIDO
+is een governance opgesteld waarin de stakeholders van Logius richting
+geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
+deze governance.
+
+![MIDO governance](images/MIDOgovernance.png)
+
+Bij het beheer van Digikoppeling worden verschillende gremia onderscheiden die gezamenlijk invulling geven aan de governance op de standaard:
 
 1.  De Digikoppeling community
 
 Dit is het meest operationele gremium waarin iedere
 belangstellende/belanghebbende vragen kan stellen over de
-Digikoppeling standaard en suggesties kan doen voor de doorontwikkeling van de
-standaard. Dergelijke vragen en suggesties worden, overenkomstig BOMOS, door de beheerder verzameld
-en voorgelegd aan het Technisch Overleg en als issue geregistreerd.
+Digikoppeling standaard en suggesties kan doen voor de
+doorontwikkeling van de standaard.
 
-#### Binnen Digikoppeling
+Het beheer van de Digikoppeling standaard is open. Dat wil zeggen dat
+alle documentatie van de standaard en de wijzigingen open beschikbaar is.
+Wijzigingsvoorstellen kunnen door iedereen ingediend worden.
+Voor contact met de Community maakt Logius gebruik van de Logius website en van [Github](#bijlage-gebruik-github-in-het-beheerproces).
 
 2.  Technisch Overleg
 
-Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de vragen en doorontwikkelwensen
-m.b.t. de xxx worden doorgenomen, geprioriteerd en worden uitgewerkt.
-Daarnaast wordt door de leden de releaseplanning en de roadmap
-opgesteld. Deelname aan het Technisch Overleg is vrij voor eenieder die een belang
-heeft bij de standaard (overheid, wetenschap en markt)
+Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de
+vragen en doorontwikkelwensen m.b.t. Digikoppeling worden doorgenomen,
+geprioriteerd en worden uitgewerkt. Daarnaast wordt door de leden de
+releaseplanning en de roadmap opgesteld. Deelname aan het Technisch Overleg
+is vrij voor eenieder die een belang heeft bij de standaard
+(overheid, wetenschap en markt).
 
-3.  Tactisch overleg xxx
+[De agenda en stukken van het Technisch overleg zijn openbaar.](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling)
+
+3.  Tactisch overleg
 
 Dit gremium is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van minor releases van de
 standaard en dient als het voorportaal van het
 strategisch/besluitvormende gremium: het OBDO.
+
+Binnen de MIDO structuur heeft de programmeringstafel Gegevensuitwisseling
+de rol van tactisch overleg.
+[Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
+die deel uitmaakt van de agenda van het overleg.
 
 4.  Het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO)
 
@@ -111,9 +126,6 @@ In tabelvorm:
 | Tactisch/Strategisch (4x per jaar) | Prioritering proces en uitwerken strategisch advies | Samen met andere participanten: <br/>1. Vaststellen roadmap van de standaard. <br/>2. Voorportaal OBDO 3. Vaststellen minor releases van de standaard. | 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
 | OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
 
-### Proces behandeling wijzigingsvoorstellen
-
-
 ### Besluitvorming
 
 In alle overleggremia vindt besluitvorming plaats op basis van
@@ -121,7 +133,7 @@ consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
 eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium (het
 OBDO) geen consensus bereikt kan worden, heeft de voorzitter van het
-OBDO (min. BZK) de beslissende stem.
+OBDO (ministerie van BZK) de beslissende stem.
 
 ### Deelname
 
@@ -135,30 +147,16 @@ besluitvormingsproces:
 3.  Als lid van het Tactisch overleg
 4.  Als lid van het MIDO of OBDO
 
-> *Ad 1) Deelname aan de xxx-Community staat open voor alle
-> belanghebbenden; Ad 2) Invulling van het Tactisch overleg volgt, zodra
-> bekend is welk gremium dit is;*
->
-> *[Ad 3) Het OBDO kent een vaste vertegenwoordiging
-> .<span class="underline">Zie voor meer informatie de governance
-> van</span> <span class="underline">Digitaleoverheid.nl
-> </span>](https://www.digitaleoverheid.nl/governance-digitale-overheid/)*
->
-> *Ad 4) Aangezien het overleg van de Technische Architectuur Groep (het
-> Technisch Overleg) het eerste besluitvormende gremium is van de
-> standaard, en besluitvorming in dit gremium plaatsvindt op basis van
-> consensus, stelt Logius een aantal voorwaarden aan deelname:*
-
 1.  Leden van het technisch overleg dienen een aantoonbaar belang te hebben bij de standaard.
 2.  De omvang en samenstelling moet een goede vertegenwoordiging bevatten van de verschillende belangen rond de standaard. We gaan uit van 1 deelnemer per organisatie.
 3.  Het belang van de Nederlandse overheid dient voldoende geborgd te zijn in het technisch overleg.
 
 Personen/partijen die willen deelnemen aan het technisch overleg
-kunnen een mail sturen aan xxxx waarin zij aangeven wat hun belang is
+kunnen een mail sturen aan Logius waarin zij aangeven wat hun belang is
 bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
 Logius de aanvraag.
 
-## Financering
+## Financiering
 
 Het beheer van de xxx standaard wordt gefinancierd door min. BZK voor
 een initiële periode van tenminste drie jaar (2020-2023) om gebruikers
