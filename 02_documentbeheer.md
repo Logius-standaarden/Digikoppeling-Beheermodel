@@ -12,4 +12,4 @@
 | 04/04/2016  | 1.4    | Logius | Digikoppeling Beveiligingsstandaarden en voorschriften is toegevoegd als nieuw document en onderdeel van de standaard, figuren op p8 en p11 zijn aangepast.  |
 | 01/10/2017  | 1.5    | Logius | Figuur overzicht documentatie aangepast     |
 | 15/05/2019  | 1.6    | Logius | Governancestructuur aangepast               |
-| xx/xx/2022  | 1.7| Logius | Governancestructuur aangepast aan GDI governance, wijzigingsproces beschreven. BOMOS versie 3 als basis gebruikt. |
+| xx/xx/2022  | 1.7    | Logius | Governancestructuur volgens GDI governance, wijzigingsprocess beschreven. BOMOS versie 3  template als basis gebruikt. Document volledig herzien. |

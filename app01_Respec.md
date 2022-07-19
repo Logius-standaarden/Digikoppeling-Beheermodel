@@ -1,4 +1,4 @@
-# Gebruik respec
+# Bijlage: Gebruik respec
 
 Voor publicatie van de standaarden die bij Logius en beheer zijn wordt
 gebruik gemaakt van Respec. Respec is een applicatie om technische
@@ -14,7 +14,7 @@ Respec is ontwikkeld door een werkgroep van W3C.
 
 We maken gebruik van een standaard literatuurlijst die voor alle
 documenten gebruikt kan worden en die apart beheerd wordt. Het beheer
-is onder meer nodig om links naar online documentatie bij te houden. 
+is onder meer nodig om links naar online documentatie bij te houden.
 
 ## Links
 

@@ -9,16 +9,13 @@ gebaseerd op de principes uit de BOMOS standaard.
 
 ## Leeswijzer
 
-De Digikoppeling is beschreven in een set van documenten. Deze set is
-als volgt opgebouwd:
+De Digikoppeling standaarden zijn beschreven in een set van documenten.
+Deze set is als volgt opgebouwd:
+
+![Opbouw documentatie Digikoppeling](images/DK_specificatiestructuur.png)
 
 Alle met de kleur groen aangegeven documenten vallen onder het beheer
 zoals geformaliseerd in het Beheermodel en releasebeleid.
-
-De Nederlandse Overheid Referentie Architectuur (NORA) maakt geen deel
-uit van het in dit document beschreven beheer van de
-Digikoppeling-standaard, maar bevat wel belangrijke informatie over
-Digikoppeling en haar toepassing.
 
 De Digikoppeling Koppelvlakstandaarden bevatten meerdere profielen
 waarin een samenhangend interactiepatroon voor berichtuitwisseling is
@@ -43,12 +40,19 @@ vraagt echter ook een minder formele besluitvormingsprocedure.
 Bij de Digikoppeling horen de volgende ondersteunende hulpmiddelen en
 ICT voorzieningen:
 
-- Digikoppeling OIN Register en het hieraan gekoppelde CPA-register ,
+- Digikoppeling OIN Register en het hieraan gekoppelde CPA-register,
 
 - Digikoppeling Compliance Voorzieningen (WUS, ebMS2, grote berichten),
 
 Het beheer over deze voorzieningen is in bestaande beheerprocedures
 van Logius ondergebracht.
+
+### Bijlagen
+
+Prachtische aspecten van het beheer, zoals de gebruikte applicaties
+en webservices zijn opgenomen in bijlagen van dit document.
+De bijlagen zijn niet specifiek voor Digikoppeling maar zijn relevant
+voor alle standaarden onder beheer bij Logius.
 
 ## Digikoppeling
 
@@ -104,33 +108,9 @@ _Beschrijf hier de status van de standaard._
 
 ## BOMOS
 
-![](./media/image1.png)
+![BOMOS activiteitendiagram](images/bomos_activiteiten.png)
 
-*Figuur 1 Bomos model*
+Het activiteitendiagram toont welke lagen het model onderscheidt en welke activiteiten daarbinnen onderscheiden worden. De lagen en de ondersteunende
+activiteiten worden elk in een hoofdstuk besproken.
 
-![](./media/image5.png)Voor meer informatie over BOMOS zie ook:
-
-[<span class="underline">BOMOS, het
-fundament</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/)
-
-[<span class="underline">BOMOS, de
-verdieping</span>](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
-
-[<span class="underline">'Publicatie-BOMOS-2i.pdf'</span>](https://www.forumstandaardisatie.nl/sites/default/files/BFS/4-basisinformatie/publicaties/Publicatie-BOMOS-2i.pdf)
-
-BOMOS onderscheidt verschillende levenscyclusfases waarin een
-standaard zich kan bevinden. Deze fase bepaalt mede op welke
-beheeronderdelen meer of minder wordt ingezet. De verschillende fases
-zijn:
-
-1.  Creatie/ontwikkeling
-2.  Introductie
-3.  Implementatie/groei
-4.  Volwaardige toepassing
-5.  Uitfaseren
-
-![](./media/image7.png)![](./media/image8.png)Adoptie
-
-![](./media/image10.png)
-
-*Figuur 2 Bomos levenscyclus*
+Voor meer details of BOMOS verwijzen we naar de documentatie: [BOMOS, het fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS, de verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
