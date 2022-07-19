@@ -13,6 +13,9 @@
 
 ## Wensen en Eisen
 
+_Over het wijzigingsproces_
+
+
 > RFC's kunnen binnen komen via verschillende kanalen:
 
 1.  Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website of mail
