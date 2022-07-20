@@ -2,19 +2,18 @@
 
 ## Initiatie
 
-<!-- end list -->
-
-1.  Uitbreidingen en aanpassingen in de xxx standaarden komen tot stand
+1.  Uitbreidingen en aanpassingen in de Digikoppeling standaarden komen tot stand
     door participatie van de verschillende belanghebbenden.
 
-2.  Belanghebbenden kunnen op vier manieren participeren: als lid van de
-    xxx Community en/of de Technische Architectuur Groep en/of als lid
-    van de Adviesraad of als lid van het OBDO.
+2.  Belanghebbenden kunnen op verschillende manieren participeren.
+    1. op persoonlijke titel (het proces is volledig open)
+    2. als lid van de Digikoppeling Community
+    3. als lid van één van de Digikoppeling overleggen: het Techisch Overleg,
+       de Programmeringstafel Gegevensuitwisseling of het OBDO.
 
 ## Wensen en Eisen
 
 _Over het wijzigingsproces_
-
 
 > RFC's kunnen binnen komen via verschillende kanalen:
 
