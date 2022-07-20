@@ -45,15 +45,12 @@ informatie over Digikoppeling en haar toepassing.
 
 ### Internationale, Europese en nationale standaardisatiegemeenschap
 
-<aside class="example">
-De xxx volgt de ontwikkeling van internationale standaarden (zoals
-bijvoorbeeld de HTTP standaarden van het IETF) in het algemeen. Meer
-specifiek volgen de specialisten van Logius en de leden van de TAG de
-standaarden waarnaar wordt gerefereerd in de standaard en bespreken
-deze ontwikkelingen ook in het Technisch Overleg. Indien relevant
-worden op basis van de internationale ontwikkelingen rfc's opgesteld
-om de xxx standaard aan te passen, verbeteren of actualiseren.
-</aside>
+Internationale standaarden leveren de basis voor de koppelvlakspecificaties
+die we in Digikoppeling gebruiken.
+
+_OASIS_
+
+_EU, eDelivery_
 
 ### Samenwerking met andere beheerorganisaties
 
@@ -61,22 +58,16 @@ Digikoppeling sluit aan op onderstaande standaarden. De aansluiting
 vindt plaats binnen de vastgestelde releasetermijnen van de
 Digikoppeling onderdelen.
 
-1. Digikoppeling volgt de ontwikkeling van internationale standaarden
-(zoals W3C en OASIS) in het algemeen en die voor de daarin opgenomen
-standaarden zoals WUS, ebMS en http in het bijzonder.
+1. Digikoppeling volgt de ontwikkeling van internationale standaarden,
+   beheerd door organsisaties als W3C en OASIS. Deze organisaties beheren
+   basisstandaarden als WUS, ebMS en HTTP.
 
 2. De Digikoppeling-standaard volgt de Nederlandse Overheid Referentie
-Architectuur (NORA).
+   Architectuur (NORA).
 
 3. De Digikoppeling-standaard en in het bijzonder "Gebruik en
-achtergrond Digikoppeling-certificaten" sluiten aan bij de
-PKI.Overheid.
-
-### Nederlandse Overheid Referentie Architectuur (NORA)
-
-De xxx standaard volgt de principes van de Nederlandse Overheid
-Referentie Architectuur. Zie voor meer informatie:
-[<span class="underline">https://www.noraonline.nl/wiki/NORA\_online</span>](https://www.noraonline.nl/wiki/NORA_online)
+   achtergrond Digikoppeling-certificaten" sluiten aan bij de
+   PKI.Overheid.
 
 ## Rechtenbeleid
 

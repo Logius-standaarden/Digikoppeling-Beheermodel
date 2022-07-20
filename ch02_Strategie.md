@@ -21,7 +21,7 @@ door Forum
 Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid
 (OBDO), die xxxx standaard hebben opgenomen op de zogenaamde ‘pas toe
 of leg uit’-lijst met andere standaarden die interoperabiliteit
-bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
+bevorderen [zie ook de basisinformatie van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/basisinformatie).
 
 De toetsingsprocedure voor opname van een standaard op
 _pas toe of leg uit_ lijst bestaat uit de volgende stappen:
