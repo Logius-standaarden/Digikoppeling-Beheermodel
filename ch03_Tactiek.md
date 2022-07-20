@@ -78,9 +78,8 @@ Digikoppeling sluit aan op onderstaande standaarden. De aansluiting
 vindt plaats binnen de vastgestelde releasetermijnen van de
 Digikoppeling onderdelen.
 
-1. Digikoppeling volgt de ontwikkeling van internationale standaarden,
-   beheerd door organsisaties als W3C en OASIS. Deze organisaties beheren
-   basisstandaarden als WUS, ebMS en HTTP.
+1. Basisstandaarden als WUS, ebMS en HTTP. Deze worden beheerd door
+   standaardisatieorganisaties als **OASIS** en **W3C** (zie boven).
 
 2. De Digikoppeling-standaard volgt de Nederlandse Overheid Referentie
    Architectuur (NORA).
@@ -88,6 +87,9 @@ Digikoppeling onderdelen.
 3. De Digikoppeling-standaard en in het bijzonder "Gebruik en
    achtergrond Digikoppeling-certificaten" sluiten aan bij de
    PKI.Overheid.
+
+4. Logius deelt ervaringen met het beheer van standaarden zoals DIgikoppeling
+   met andere standaardenorganisaties binnen het BOMOS _Klankbordoverleg_.
 
 ## Rechtenbeleid
 
