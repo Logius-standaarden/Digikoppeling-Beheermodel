@@ -1,6 +1,17 @@
 # Operationeel
 
+Het operationele wijzigingsproces is ingericht op Github. De omgeving
+die we ook gebruiken voor het beheer en de publicatie van de documentatie.
+In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
+beschreven. Voor details van de implementatie verwijzen we naar de
+[bijlage over gebruik Github in het beheerproces](#Bijlage-Gebruik-Github-in-het-beheerproces)
+
 ## Initiatie
+
+Toevoegingen aan de standaard zoals het toevoegen van een nieuwe
+koppelvlakspecificatie worden behandeld als in introductie van een nieuwe
+standaard. Een voorbeeld is de toevoeging van de REST API koppelvkakspecificatie
+aan Digikoppeling.
 
 1.  Uitbreidingen en aanpassingen in de Digikoppeling standaarden komen tot stand
     door participatie van de verschillende belanghebbenden.
@@ -13,13 +24,14 @@
 
 ## Wensen en Eisen
 
-_Over het wijzigingsproces_
+Wensen en eisen zijn aanpassingen op de bestaande standaarden en
+koppelvlakspecificaties.
 
 > RFC's kunnen binnen komen via verschillende kanalen:
 
 1.  Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website of mail
 
-2.  Bij de werkgroep xxx van de standaard en tijdens overleggen, via de
+2.  Bij de werkgroepoverleggen van de standaard en tijdens overleggen, via de
     website of mail
 
 <aside class="example">
@@ -45,26 +57,17 @@ xxx standaard zodat daar de eerste beoordeling kan plaatsvinden.
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-<aside class="example">
-De procedure van RCF naar daadwerkelijke wijziging ziet er als volgt
-uit:
+_beschrijving proces_
 
-Issues die in behandeling worden genomen worden als RFC gelabeld RFC's
-worden besproken en uitgewerkt in de Werkgroep xxx
+![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png)
 
-RFC's worden vastgesteld in Technisch Overleg (TO) RFC worden na
-vaststelling in het TO Openbaar geconsulteerd
-
-Na vaststelling volgt publicatie van de nieuwe versie van standaard
-
-N.B. Zolang de afdeling Standaarden van Logius nog geen predicaat
-"Uitstekend beheer" heeft ontvangen van Forum Standaardisatie, zullen
-nieuwe versies na vaststelling in het TO aan Forum Standaardisatie
-worden voorgelegd ter beoordeling.
-
-N.B.2. Het technisch overleg is momenteel samengevoegd met het
-structurele overleg van de werkgroep ADR van het Kennisplatform
-</aside>
+1. Acceptatie van een wijzigingsvoorstel.
+2. Labelen van een voorstel als groot/klein, aangeven van status.
+3. Behandeling van een wijzigingsvoorstel.
+4. Agendering voor een overleg.
+5. Advisering vanuit overleggen.
+6. Acceptatie van een wijzigingsvoorstel.
+7. Doorvoeren van een wijzigingsvoorstel.
 
 ## Status van de standaard
 
