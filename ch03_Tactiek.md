@@ -50,7 +50,7 @@ die we in Digikoppeling gebruiken.
 
 1. Digikoppeling volgt de ontwikkeling van internationale standaarden,
    beheerd door organsisaties als **W3C** en **OASIS**. Deze organisaties
-   beheren basisstandaarden als WUS, ebMS en HTTP.
+   beheren basisstandaarden als WUS, ebMS [[EBXML-MSG]] en HTTP [[rfc1945]].
 
 2. In EU kader wordt de
    [eDelivery](https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/eDelivery)
