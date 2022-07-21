@@ -1,5 +1,7 @@
 # Operationeel
 
+_TODO: wat is operationeel beheer_
+
 Het operationele wijzigingsproces is ingericht op Github. De omgeving
 die we ook gebruiken voor het beheer en de publicatie van de documentatie.
 In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
@@ -7,7 +9,6 @@ beschreven. Voor details van de implementatie verwijzen we naar de
 [bijlage over gebruik Github in het beheerproces](#bijlage-gebruik-github-in-het-beheerproces)
 
 ## Initiatie
-
 Toevoegingen aan de standaard zoals het toevoegen van een nieuwe
 koppelvlakspecificatie worden behandeld als in introductie van een nieuwe
 standaard. Een voorbeeld is de toevoeging van de REST API koppelvkakspecificatie
@@ -23,7 +24,6 @@ aan Digikoppeling.
        de Programmeringstafel Gegevensuitwisseling of het OBDO.
 
 ## Wensen en Eisen
-
 Wensen en eisen zijn aanpassingen op de bestaande standaarden en
 koppelvlakspecificaties.
 
@@ -52,7 +52,6 @@ _beschrijving proces_
 > Logius, afdeling standaarden onderscheid vier statussen die de xxx
 > standaard kan hebben:
 
-
 | **Afkorting** | **Status van de standaard** | **Beschrijving van de status** |
 |      ---      |              ---            |               ---              |
 | IO | In Ontwikkeling | Een nieuwe release van de standaard is "In Ontwikkeling" wanneer er met medeweten en medewerking van participanten aan gewerkt wordt en wanneer dit onderdeel of deze release nog niet voor de buitenwereld is gepubliceerd. |
@@ -61,19 +60,11 @@ _beschrijving proces_
 | TG | Teruggetrokken   | De standaard krijgt de status "Teruggetrokken" indien een release van de standaard niet bruikbaar blijkt (bijv. vanwege implementatieproblemen). |
 
 ## Documentatie
-
-<aside class="example">
 Alle documenten m.b.t. de standaard en het beheer van de standaard
 worden openbaar en zonder drempels voor gebruik, gepubliceerd op
 logius.nl en onze Github pagina's. Logius publiceert tenminste de
 volgende documenten:
-
-De vergaderstukken van het Technisch overleg en overige
-besluitvormende gremia.
-
-De specificaties van de standaard
-
-De voorlopige specificaties van de nieuwe versie van de standaard.
-
-Versie xx van de xx is gepubliceerd op:
-</aside>
+- De vergaderstukken van het Technisch overleg en overige
+  besluitvormende gremia.
+- De specificaties van de standaard
+- De voorlopige specificaties van de nieuwe versie van de standaard.

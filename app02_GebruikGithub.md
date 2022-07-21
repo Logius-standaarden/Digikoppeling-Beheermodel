@@ -1,11 +1,15 @@
 # Bijlage: Gebruik Github in het beheerproces
 
 ## Publicatie
+Github biedt functionaliteit om documenten te publiceren vanuit een
+repository. Logius gebruikt deze functionaliteit om het met
+[Respec](#bijlage-gebruik-respec) gegenereerde document te publiceren
+als HTML document en een PDF document. Deze documenten worden automatisch
+gekopieerd naar een publicatie wesite onder Logius beheer.
 
 ## Wijzigingsvoorstellen
-
 Het proces zoals beschreven onder
-[operationeeel beheer, wensen en eisen](#wensen-en-eisen)
+[operationeel beheer, wensen en eisen](#wensen-en-eisen)
 wordt voor de Logius standarden geïmplementeerd door gebruik te maken
 van _github issues_. Een _issue_ kan binnen github ingediend worden
 door iedere (github) gebruiker en wordt bij ontwikkeling van code
@@ -15,7 +19,6 @@ online besproken worden en uiteindelijk gesloten worden wanneer
 deze verwerkt is.
 
 ### Branches
-
 Binnen het standaardenbeheer bij Logius maken we gebruik van verschillende
 branches. De _main_ branch bevat de laatste formeel geaccepteerde versie
 van een document. De _develop_ branch bevat een werkversie met daarin alle
@@ -33,7 +36,6 @@ te maken maar dient als verzamelbranch voor de verschillende wijzigingen
 die in een volgende release moeten komen.
 
 ### Labels
-
 Om github issues te classificeren en te agenderen voor het juiste overleg
 maken we gebruik van een aantal standaard labels. We labelen binnenkomende
 issues als
@@ -68,7 +70,6 @@ issues als
    7. Afgewezen
 
 ## Automatisering en scripts
-
 Github ondersteunt automatisering van taken door scripts. Standaard
 is de publicatie via _github pages_. Binnen de Logius standaarden maken
 we gebruik van scripts om links te checken en om een paar eenvoudige

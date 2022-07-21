@@ -1,11 +1,9 @@
 # Strategie
-
 De strategische activiteiten van BOMOS bestaan uit de onderdelen
 Visie, Govenance en Financiering. Deze onderdelen en hun toepassing op
 het beheer van Digikoppeling worden hieronder beschreven.
 
 ## Visie
-
 Met de Digikoppeling standaard wil de Nederlandse overheid
 interoperabiliteit
 bevorderen. Dit komt erop neer dat overheden dezelfde standaard in
@@ -45,7 +43,6 @@ via wetgeving.
 ## Governance
 
 ### Governancestructuur
-
 Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
 beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
@@ -60,7 +57,6 @@ deze governance.
 Bij het beheer van Digikoppeling worden verschillende gremia onderscheiden die gezamenlijk invulling geven aan de governance op de standaard:
 
 #### De Digikoppeling community
-
 Dit is het meest operationele gremium waarin iedere
 belangstellende/belanghebbende vragen kan stellen over de
 Digikoppeling standaard en suggesties kan doen voor de
@@ -71,8 +67,12 @@ alle documentatie van de standaard en de wijzigingen open beschikbaar is.
 Wijzigingsvoorstellen kunnen door iedereen ingediend worden.
 Voor contact met de Community maakt Logius gebruik van de Logius website en van [Github](#bijlage-gebruik-github-in-het-beheerproces).
 
-#### Technisch Overleg
+Omdat iedere belangstellende vragen of voorstellen tot wijziging in
+kan dienen is het niet nodig lid te worden van de community om een
+bijdrage te leveren. Iedereen die bijdraagt aan de standaard is
+daarmee lid van de community.
 
+#### Technisch Overleg
 Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de
 vragen en doorontwikkelwensen m.b.t. Digikoppeling worden doorgenomen,
 geprioriteerd en worden uitgewerkt. Daarnaast wordt door de leden de
@@ -83,7 +83,6 @@ is vrij voor eenieder die een belang heeft bij de standaard
 [De agenda en stukken van het Technisch overleg zijn openbaar.](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling)
 
 #### Tactisch/strategisch overleg: de programmeringstafel
-
 Dit gremium is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van minor releases van de
 standaard en dient als het voorportaal van het
@@ -95,7 +94,6 @@ de rol van tactisch overleg.
 die deel uitmaakt van de agenda van het overleg.
 
 #### Het besluitvormend en strategisch overleg: het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO)
-
 Dit is het hoogst ambtelijke gremium dat besluit over major releases
 van de standaard, het beheermodel van de standaard en externe
 publicaties over releases en van het standaardenbeleid. Op dit moment
@@ -127,7 +125,6 @@ In tabelvorm:
 | OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
 
 ### Besluitvorming
-
 In alle overleggremia vindt besluitvorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
@@ -136,7 +133,6 @@ OBDO) geen consensus bereikt kan worden, heeft de voorzitter van het
 OBDO (ministerie van BZK) de beslissende stem.
 
 ### Deelname
-
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
 kunnen op vier manieren participeren aan het wijzigings- en
@@ -164,7 +160,6 @@ bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
 Logius de aanvraag.
 
 ## Financiering
-
 Het beheer van de Digikoppeling standaard wordt gefinancieerd door het
 ministerie van BZK in het kader van de financiering van Logius
 dienstverlening.

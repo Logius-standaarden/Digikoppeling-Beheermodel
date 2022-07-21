@@ -1,5 +1,4 @@
 # Bijlage: Gebruik respec
-
 Voor publicatie van de standaarden die bij Logius en beheer zijn wordt
 gebruik gemaakt van Respec. Respec is een applicatie om technische
 documentatie te maken die publiceerbaar is op het net en gemakkelik
@@ -18,7 +17,6 @@ Respec is ontwikkeld door een werkgroep van W3C en wordt actief
 doorontwikkeld.
 
 ## Logius profiel
-
 [Logius heeft een eigen profiel gemaakt op Respec](https://github.com/Logius-standaarden/respec) om Logius
 organisatiespecifieke zaken, zoals layout, te ondersteunen.
 Wijzigingen in de W3C versie worden regelmatig doorgevoerd
@@ -30,7 +28,6 @@ worden. In de Logius versie gebruiken we zoveel mogelijk input
 in Markdown formaat.
 
 ## Literatuurverwijzingen
-
 Respec maakt gebruik van de online [Specref](https://www.specref.org/)
 database van Literatuurverwijzingen. Deze database bevat referenties
 naar, onder andere, referenties voor de W3C documentatie.
@@ -41,7 +38,6 @@ kan worden en die apart beheerd wordt. Het beheer is onder meer nodig
 om links naar online documentatie bij te houden.
 
 ## Links
-
 - [Markdown documentatie](https://www.markdownguide.org/)
 - [Respec documentatie](https://respec.org/docs/)
 - [Respec wiki op de repository van W3C](https://github.com/w3c/respec/wiki)

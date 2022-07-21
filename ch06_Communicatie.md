@@ -1,7 +1,6 @@
 # Communicatie
 
 ## Promotie
-
 [De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling). Hier staan:
 - De korte beschrijving van de standaard;
 - En korte omschrijving van de werking;
@@ -19,7 +18,6 @@ bijeenkomsten over standaarden waarbij Digikoppeling enige keren is
 toegelicht.
 
 ## Publicatie
-
 Als een Digikoppeling onderdeel de status „In Gebruik‟ heeft, wordt deze
 gepubliceerd. De Digikoppeling beheerder publiceert de volledige specificatie
 („In Gebruik‟) van een Digikoppeling onderdeel en een kort bericht op het
@@ -39,7 +37,6 @@ Voor publicatie van de documentatie maakt Logius gebruik van [Respec om document
 bevat toelichtingen op de standaarden en verwijzingen naar de documentatie.
 
 ## Klachtenafhandeling
-
 Klachten over de opzet of de uitvoering van het beheerproces dienen
 ingediend te worden bij de beheerder. Klachten dienen niet gericht te zijn op
 personen en niet beledigend of anderszins fatsoensnormen te overschrijden.

@@ -1,7 +1,8 @@
 # Tactiek
 
-## Community
+_TODO: wat is tactiek_
 
+## Community
 Veel verschillende partijen hebben direct dan wel indirect belang bij
 de ontwikkeling, de implementatie en het gebruik van de
 Digikoppeling-standaard. Dit geldt dus ook voor het beheer en
@@ -33,7 +34,6 @@ Afhankelijk van eigen doelstellingen, verantwoordelijkheden en
 belangen zullen belanghebbenden op een andere wijze participeren.
 
 ## Architectuur
-
 De Nederlandse Overheid Referentie Architectuur (NORA) positioneert
 Digikoppeling als de logistieke laag voor standaardisatie van
 communicatie tussen systemen bij overheidsorganisatie op basis van
@@ -44,7 +44,6 @@ beheer van de Digikoppeling-standaard, maar bevat wel belangrijke
 informatie over Digikoppeling en haar toepassing.
 
 ### Internationale, Europese en nationale standaardisatiegemeenschap
-
 Internationale standaarden leveren de basis voor de koppelvlakspecificaties
 die we in Digikoppeling gebruiken.
 
@@ -73,7 +72,6 @@ Digikoppeling. Beide standaarden vullen elkaar aan.
 </aside>
 
 ### Samenwerking met andere beheerorganisaties
-
 Digikoppeling sluit aan op onderstaande standaarden. De aansluiting
 vindt plaats binnen de vastgestelde releasetermijnen van de
 Digikoppeling onderdelen.
@@ -92,7 +90,6 @@ Digikoppeling onderdelen.
    met andere standaardenorganisaties binnen het BOMOS _Klankbordoverleg_.
 
 ## Rechtenbeleid
-
 Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 3.0
 Unported licentie.
 
@@ -117,7 +114,6 @@ van maakt. Hierop zijn de rechten van de betreffende standaarden,
 profielen en andere onderdelen zelf van toepassing.
 
 ## Kwaliteitsbeleid en benchmarking
-
 Zoals gezegd wordt het beheer van de Digikoppeling standaard volledig
 open ingevuld (zie ook de paragraaf [BOMOS](#bomos) en
 [Governance](#governance)) Dit borgt dat zoveel
@@ -125,7 +121,6 @@ mogelijk belangstellenden en belanghebbenden betrokken zijn bij
 wijzigingen en besluitvorming die wijzigingen.
 
 ## Adoptie en erkenning
-
 De Digikoppeling standaard heeft de 'pas toe of leg uit' -status van Forum
 Standaardisatie. Dit betekent kort gezegd dat Nederlandse
 overheidspartijen en partijen uit de (semi) publieke sector deze

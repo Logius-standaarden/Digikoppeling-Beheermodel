@@ -1,5 +1,4 @@
 # Inleiding
-
 Het beheer van de Digikoppeling-standaard omvat het geheel van
 processen, besturing, organisatie, informatievoorziening en
 hulpmiddelen die noodzakelijk zijn om gebaseerd op open standaarden
@@ -8,7 +7,6 @@ onderhouden en door te ontwikkelen. Het beheer van Digikoppeling is
 gebaseerd op de principes uit de BOMOS standaard.
 
 ## Leeswijzer
-
 De Digikoppeling standaarden zijn beschreven in een set van documenten.
 Deze set is als volgt opgebouwd:
 
@@ -96,14 +94,12 @@ Het beheer over deze voorzieningen is in bestaande beheerprocedures
 van Logius ondergebracht.
 
 ### Bijlagen
-
-Prachtische aspecten van het beheer, zoals de gebruikte applicaties
+Practische aspecten van het beheer, zoals de gebruikte applicaties
 en webservices zijn opgenomen in bijlagen van dit document.
 De bijlagen zijn niet specifiek voor Digikoppeling maar zijn relevant
 voor alle standaarden onder beheer bij Logius.
 
 ## Digikoppeling
-
 Digikoppeling vormt de logistieke laag voor standaardisatie van
 communicatie tussen systemen bij overheidsorganisatie op basis van
 webservice standaarden. Digikoppeling is daardoor een laag die zich
@@ -128,7 +124,6 @@ ketenpartijen, ICT leveranciers en gemeenten via de VNG.
 Opdrachtgever voor Digikoppeling is het Ministerie van BZK.
 
 ### Nut
-
 Doel van Digikoppeling is om door vergaande standaardisatie de
 interoperabiliteit tussen overheden te bevorderen.
 Als de 'envelop' van de 'berichten' is gestandaardiseerd kan
@@ -141,7 +136,6 @@ frontoffice-systemen (die interactie met burgers en bedrijven
 bijzonder de basisregistraties (zie onderstaand figuur).
 
 ### Werking
-
 De Digikoppeling Koppelvlakstandaarden bevatten meerdere profielen
 waarin een samenhangend interactiepatroon voor berichtuitwisseling is
 beschreven<sup>2</sup>.
@@ -155,10 +149,9 @@ berichtenuitwisseling volgens een Koppelvlakstandaard.
 _Beschrijf hier de status van de standaard._
 
 ## BOMOS
-
-![BOMOS activiteitendiagram](images/bomos_activiteiten.png "BOMOS activiteitendiagram")
-
 Het activiteitendiagram toont welke lagen het model onderscheidt en welke activiteiten daarbinnen onderscheiden worden. De lagen en de ondersteunende
 activiteiten worden elk in een hoofdstuk besproken.
+
+![BOMOS activiteitendiagram](images/bomos_activiteiten.png "BOMOS activiteitendiagram")
 
 Voor meer details of BOMOS verwijzen we naar de documentatie: [BOMOS, het fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS, de verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
