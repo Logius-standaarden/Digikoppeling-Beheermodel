@@ -2,7 +2,7 @@
 
 ## Promotie
 
-_website, nieuwberichten via Logius_
+_TODO: website, nieuwberichten via Logius_
 
 ## Publicatie
 
@@ -23,7 +23,7 @@ Naast de nieuwe release van de standaard en nieuws- en persberichten worden
 ook additionele producten gepubliceerd na aangepast ze zijn. Factsheets,
 opleidingsmateriaal, presentaties, maar ook releasebeleid en Roadmap zullen worden gepubliceerd.
 
-_Over Git_
+Voor publicatie van de documentatie maakt Logius gebruik van [Respec om documentatie te genereren](#bijlage-gebruik-respec) en [Github voor beheer vn documentatie en wijzigingsvoorstellen](#bijlage-gebruik-github-in-het-beheerproces). Dit wordt nader toegelicht in de bijlagen.
 
 ## Klachtenafhandeling
 

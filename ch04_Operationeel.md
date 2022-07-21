@@ -4,7 +4,7 @@ Het operationele wijzigingsproces is ingericht op Github. De omgeving
 die we ook gebruiken voor het beheer en de publicatie van de documentatie.
 In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
 beschreven. Voor details van de implementatie verwijzen we naar de
-[bijlage over gebruik Github in het beheerproces](#Bijlage-Gebruik-Github-in-het-beheerproces)
+[bijlage over gebruik Github in het beheerproces](#bijlage-gebruik-github-in-het-beheerproces)
 
 ## Initiatie
 

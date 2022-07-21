@@ -59,7 +59,7 @@ deze governance.
 
 Bij het beheer van Digikoppeling worden verschillende gremia onderscheiden die gezamenlijk invulling geven aan de governance op de standaard:
 
-1.  De Digikoppeling community
+#### De Digikoppeling community
 
 Dit is het meest operationele gremium waarin iedere
 belangstellende/belanghebbende vragen kan stellen over de
@@ -71,7 +71,7 @@ alle documentatie van de standaard en de wijzigingen open beschikbaar is.
 Wijzigingsvoorstellen kunnen door iedereen ingediend worden.
 Voor contact met de Community maakt Logius gebruik van de Logius website en van [Github](#bijlage-gebruik-github-in-het-beheerproces).
 
-2.  Technisch Overleg
+#### Technisch Overleg
 
 Het Technisch Overleg (TO) is een periodieke bijeenkomst  waarbij de
 vragen en doorontwikkelwensen m.b.t. Digikoppeling worden doorgenomen,
@@ -82,7 +82,7 @@ is vrij voor eenieder die een belang heeft bij de standaard
 
 [De agenda en stukken van het Technisch overleg zijn openbaar.](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling)
 
-3.  Tactisch overleg
+#### Tactisch/strategisch overleg: de programmeringstafel
 
 Dit gremium is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van minor releases van de
@@ -94,7 +94,7 @@ de rol van tactisch overleg.
 [Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
 die deel uitmaakt van de agenda van het overleg.
 
-4.  Het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO)
+#### Het besluitvormend en strategisch overleg: het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO)
 
 Dit is het hoogst ambtelijke gremium dat besluit over major releases
 van de standaard, het beheermodel van de standaard en externe
@@ -137,30 +137,33 @@ OBDO (ministerie van BZK) de beslissende stem.
 
 ### Deelname
 
-Uitbreidingen en aanpassingen in de xxx standaard komen tot stand door
+Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
 kunnen op vier manieren participeren aan het wijzigings- en
 besluitvormingsproces:
 
-1.  Als lid van de xxx Community van het Kennisplatform / de Interesse Groep (IG)
-2.  Als lid van de Technische Architectuur Groep (TAG)
-3.  Als lid van het Tactisch overleg
-4.  Als lid van het MIDO of OBDO
+1.  Als lid van de Community
+2.  Als lid van de Technisch Overleg
+    1.  Leden van het technisch overleg dienen een aantoonbaar belang
+    te hebben bij de standaard.
+    2.  De omvang en samenstelling moet een goede vertegenwoordiging
+    bevatten van de verschillende belangen rond de standaard. We gaan
+    uit van 1 deelnemer per organisatie.
+    3.  Het belang van de Nederlandse overheid dient voldoende geborgd
+    te zijn in het technisch overleg.
+3.  Als lid van de Programmeringstafel Gegevensuitwisseling
+    1. Stakeholders van de Logius Gegevensuitwisselingsdiensten worden
+    uitgenodigd.
+4.  Als lid van het OBDO.
 
-1.  Leden van het technisch overleg dienen een aantoonbaar belang te hebben bij de standaard.
-2.  De omvang en samenstelling moet een goede vertegenwoordiging bevatten van de verschillende belangen rond de standaard. We gaan uit van 1 deelnemer per organisatie.
-3.  Het belang van de Nederlandse overheid dient voldoende geborgd te zijn in het technisch overleg.
-
-Personen/partijen die willen deelnemen aan het technisch overleg
-kunnen een mail sturen aan Logius waarin zij aangeven wat hun belang is
+Personen/partijen die willen deelnemen aan het Technisch Overleg
+kunnen contact opnemen met Logius waarin zij aangeven wat hun belang is
 bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
 Logius de aanvraag.
 
 ## Financiering
 
-Het beheer van de xxx standaard wordt gefinancierd door min. BZK voor
-een initiële periode van tenminste drie jaar (2020-2023) om gebruikers
-het vertrouwen te geven dat er geen desinvesteringen worden gedaan bij
-het implementeren van de standaard. Na drie jaar wordt de financiering
-verlengd als blijkt dat het nut van en de behoefte aan de standaard
-nog aanwezig is.
+Het beheer van de Digikoppeling standaard wordt gefinancierd door het
+ministerie van BZK.
+
+_TODO: Aanvullen__
