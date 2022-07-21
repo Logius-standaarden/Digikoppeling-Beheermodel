@@ -2,7 +2,7 @@
 
 ## Promotie
 
-[De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling). Er staan:
+[De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling). Hier staan:
 - De korte beschrijving van de standaard;
 - En korte omschrijving van de werking;
 - Een overzicht van het gebruik van de Digikoppeling standaard;
@@ -19,8 +19,6 @@ bijeenkomsten over standaarden waarbij Digikoppeling enige keren is
 toegelicht.
 
 ## Publicatie
-
-![Communicatie en PR](media/DK_Communicatie_en_PR.png)
 
 Als een Digikoppeling onderdeel de status „In Gebruik‟ heeft, wordt deze
 gepubliceerd. De Digikoppeling beheerder publiceert de volledige specificatie

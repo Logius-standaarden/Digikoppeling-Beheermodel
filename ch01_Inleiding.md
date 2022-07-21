@@ -12,7 +12,7 @@ gebaseerd op de principes uit de BOMOS standaard.
 De Digikoppeling standaarden zijn beschreven in een set van documenten.
 Deze set is als volgt opgebouwd:
 
-![Opbouw documentatie Digikoppeling](images/DK_Specificatie_structuur.png)
+![Opbouw documentatie Digikoppeling](images/DK_Specificatie_structuur.png "Opbouw documentatie Digikoppeling")
 
 <details>
     <summary>Tekstalternatief</summary>
@@ -156,7 +156,7 @@ _Beschrijf hier de status van de standaard._
 
 ## BOMOS
 
-![BOMOS activiteitendiagram](images/bomos_activiteiten.png)
+![BOMOS activiteitendiagram](images/bomos_activiteiten.png "BOMOS activiteitendiagram")
 
 Het activiteitendiagram toont welke lagen het model onderscheidt en welke activiteiten daarbinnen onderscheiden worden. De lagen en de ondersteunende
 activiteiten worden elk in een hoofdstuk besproken.

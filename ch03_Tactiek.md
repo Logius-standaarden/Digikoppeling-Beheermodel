@@ -119,8 +119,8 @@ profielen en andere onderdelen zelf van toepassing.
 ## Kwaliteitsbeleid en benchmarking
 
 Zoals gezegd wordt het beheer van de Digikoppeling standaard volledig
-open ingevuld (zie ook de paragraaf [BOMOS](#BOMOS) en
-[Governance](#Governance)) Dit borgt dat zoveel
+open ingevuld (zie ook de paragraaf [BOMOS](#bomos) en
+[Governance](#governance)) Dit borgt dat zoveel
 mogelijk belangstellenden en belanghebbenden betrokken zijn bij
 wijzigingen en besluitvorming die wijzigingen.
 
@@ -130,5 +130,5 @@ De Digikoppeling standaard heeft de 'pas toe of leg uit' -status van Forum
 Standaardisatie. Dit betekent kort gezegd dat Nederlandse
 overheidspartijen en partijen uit de (semi) publieke sector deze
 standaard dienen toe te passen op het moment dat zij hun informatie
-met behulp van xxx standaard willen ontsluiten. Zie hoofdstuk 1 voor
-meer informatie.
+met behulp van Digikoppeling standaard willen ontsluiten.
+Zie [sectie over visie in de strategie](#visie) voor meer informatie.

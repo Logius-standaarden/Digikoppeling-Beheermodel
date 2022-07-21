@@ -27,39 +27,17 @@ aan Digikoppeling.
 Wensen en eisen zijn aanpassingen op de bestaande standaarden en
 koppelvlakspecificaties.
 
-> RFC's kunnen binnen komen via verschillende kanalen:
-
-1.  Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website of mail
-
+Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
+1.  Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website
+    of mail
 2.  Bij de werkgroepoverleggen van de standaard en tijdens overleggen, via de
     website of mail
-
-<aside class="example">
-RFC's worden als issue's geregistreerd in de repository van het
-kennisplatform/community op Github: voorbeeld:
-<https://github.com/Geonovum/KP-APIs/issues>
-
-Om te voorkomen dat er verschillende lijsten met issues en verzoeken
-ontstaan, is met het kennisplatform/community afgesproken dat ieder
-issue en verzoek als eerste wordt beoordeeld door de werkgroep van xxx
-standaard. Dit voorkomt het ontstaan van verschillende stromen met
-RFC's en geeft de werkgroep de gelegenheid om in te schatten of de RFC
-betrekking heeft op de xxx standaard die Logius beheert, of dat er
-sprake is van een verzoek dat het best kan landen in één van de (niet
-normatieve) extensies die het kennisplatform/community beheert.
-
-Dit houdt concreet in dat RFC's die rechtstreeks bij Logius worden
-neergelegd, door Logius worden doorgespeeld aan de werkgroep van de
-xxx standaard zodat daar de eerste beoordeling kan plaatsvinden.
-
-![](./media/image11.png)*Figuur 3 ADR RFC Procesmodel*
-</aside>
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
 _beschrijving proces_
 
-![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png)
+![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png "Behandeling van een wijzigingsvoorstel in het beheerproces")
 
 1. Acceptatie van een wijzigingsvoorstel.
 2. Labelen van een voorstel als groot/klein, aangeven van status.

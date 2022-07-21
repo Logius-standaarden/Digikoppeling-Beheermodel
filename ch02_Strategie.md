@@ -55,7 +55,7 @@ is een governance opgesteld waarin de stakeholders van Logius richting
 geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
 deze governance.
 
-![MIDO governance](images/MIDOgovernance.png)
+![MIDO governance](images/MIDOgovernance.png "MIDO governance")
 
 Bij het beheer van Digikoppeling worden verschillende gremia onderscheiden die gezamenlijk invulling geven aan de governance op de standaard:
 
@@ -142,7 +142,9 @@ participatie van de verschillende belanghebbenden. Belanghebbenden
 kunnen op vier manieren participeren aan het wijzigings- en
 besluitvormingsproces:
 
-1.  Als lid van de Community
+1.  Als lid van de Community. Omdat Digikoppeling open beheerd wordt
+    is geen formeel lidmaatschap nodig om een issue/wijziging in te dienen.
+    Iedereen die een issue indient is daarmee lid van de community.
 2.  Als lid van de Technisch Overleg
     1.  Leden van het technisch overleg dienen een aantoonbaar belang
     te hebben bij de standaard.
@@ -163,7 +165,8 @@ Logius de aanvraag.
 
 ## Financiering
 
-Het beheer van de Digikoppeling standaard wordt gefinancierd door het
-ministerie van BZK.
+Het beheer van de Digikoppeling standaard wordt gefinancieerd door het
+ministerie van BZK in het kader van de financiering van Logius
+dienstverlening.
 
 _TODO: Aanvullen__
