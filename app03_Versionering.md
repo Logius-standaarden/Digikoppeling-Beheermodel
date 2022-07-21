@@ -1,4 +1,4 @@
-# Bijlage D: versie-nummering Digikoppeling onderdelen
+# Bijlage: versie-nummering Digikoppeling onderdelen
 
 Deze bijlage beschrijft de versioneringsmethodiek van de digikoppeling standaard.
 

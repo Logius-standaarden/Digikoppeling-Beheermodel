@@ -2,7 +2,21 @@
 
 ## Promotie
 
-_TODO: website, nieuwberichten via Logius_
+[De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling). Er staan:
+- De korte beschrijving van de standaard;
+- En korte omschrijving van de werking;
+- Een overzicht van het gebruik van de Digikoppeling standaard;
+- De persberichten en nieuwsberichten die betrekking hebben op Digikoppeling;
+- Algemene documenten als factsheets, presentaties, etc.
+
+Logius stuurt regelmatig nieuws- en persberichten uit.
+Wanneer een nieuwe Versie van een standaard gepubliceerd wordt,
+wordt dit ook via deze kanalen gepubliceerd.
+
+Logius geeft presentaties bij symposia en bijeenkomsten van derden.
+Bijvoorbeeld het Forum voor Standaardisatie organiseert regelmatig
+bijeenkomsten over standaarden waarbij Digikoppeling enige keren is
+toegelicht.
 
 ## Publicatie
 
@@ -23,7 +37,8 @@ Naast de nieuwe release van de standaard en nieuws- en persberichten worden
 ook additionele producten gepubliceerd na aangepast ze zijn. Factsheets,
 opleidingsmateriaal, presentaties, maar ook releasebeleid en Roadmap zullen worden gepubliceerd.
 
-Voor publicatie van de documentatie maakt Logius gebruik van [Respec om documentatie te genereren](#bijlage-gebruik-respec) en [Github voor beheer vn documentatie en wijzigingsvoorstellen](#bijlage-gebruik-github-in-het-beheerproces). Dit wordt nader toegelicht in de bijlagen.
+Voor publicatie van de documentatie maakt Logius gebruik van [Respec om documentatie te genereren](#bijlage-gebruik-respec) en [Github voor beheer vn documentatie en wijzigingsvoorstellen](#bijlage-gebruik-github-in-het-beheerproces). Dit wordt nader toegelicht in de bijlagen. De Logius website
+bevat toelichtingen op de standaarden en verwijzingen naar de documentatie.
 
 ## Klachtenafhandeling
 
