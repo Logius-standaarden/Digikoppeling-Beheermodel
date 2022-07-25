@@ -112,7 +112,7 @@ van andere overheden en in het bijzonder de basisregistraties.
 De Digikoppeling-standaard is binnen de overheid in gebruik bij
 diverse organisaties, samenwerkingsverbanden en/of ketens.
 Een groot aantal ICT leveranciers biedt ondersteuning aan de voor
-Digikoppeling benodigde open standaarden (WUS, ebMS, https)
+Digikoppeling benodigde open standaarden (WUS, ebMS, HTTPS)
 in hun producten en dienstverlening. De Digikoppeling standaard
 heeft de zich afgelopen tijd ontwikkeld tot een volwassen standaard
 die in een grote en brede community wordt ontwikkeld. Bij het

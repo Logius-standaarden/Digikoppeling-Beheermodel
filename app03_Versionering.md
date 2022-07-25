@@ -1,5 +1,7 @@
 # Bijlage: versie-nummering Digikoppeling onderdelen
-Deze bijlage beschrijft de versioneringsmethodiek van de digikoppeling standaard.
+Deze bijlage beschrijft de versioneringsmethodiek van de digikoppeling
+standaard. We volgen hierbij de
+[specificatie van Semantisch Versioneren (SEMVER)](https://semver.org/lang/nl/).
 
 ## Versioneringsmethodiek
 Per document wordt met `[documentnaam]_vX.Y.Z` de versie aangegeven. Met `vX.Y.Z` wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches, dit wordt hieronder toegelicht:

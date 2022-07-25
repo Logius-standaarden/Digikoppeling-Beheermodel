@@ -41,8 +41,6 @@ staan op de 'Pas toe of leg uit'-lijst van het Forum of zijn verplicht
 via wetgeving.
 
 ## Governance
-
-### Governancestructuur
 Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
 beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
@@ -54,7 +52,13 @@ deze governance.
 
 ![MIDO governance](images/MIDOgovernance.png "MIDO governance")
 
-Bij het beheer van Digikoppeling worden verschillende gremia onderscheiden die gezamenlijk invulling geven aan de governance op de standaard:
+De MIDO governance kent vier _programmeringstafels_ op de thema's _Gegevensuitwisseling_, _Infrastructuur_, _Interactie_ en _Toegang_. Op de tafels wordt de ontwikkeling en prioritering van de door Logius beheerde stelsels, standaarden en diensten besproken met de stakeholders.
+
+### Governancestructuur
+Digikoppeling sluit aan op de MIDO governance op tactisch en strategisch
+niveau. Voor de governance van Digikoppeling zelf zijn meer governance
+lagen nodig, met name voor operationeel niveau. Digikoppeling beheer omvat
+de volgende gremia:
 
 #### De Digikoppeling community
 Dit is het meest operationele gremium waarin iedere
@@ -99,9 +103,7 @@ van de standaard, het beheermodel van de standaard en externe
 publicaties over releases en van het standaardenbeleid. Op dit moment
 wordt het OBDO louter ‘gevoed’ door Forum Standaardisatie en is de
 focus voornamelijk het bestendigen van major releases van de
-standaard. Op het moment dat het tactische gremium is ingevuld, zal
-het OBDO waarschijnlijk een breder scala aan onderwerpen langs krijgen
-ter bestendiging.
+standaard.
 
 De MIDO structuur kan ook de mogelijkheid bieden om de
 Programmeringsraad GDI te laten besluiten over de standaarden.
@@ -124,6 +126,9 @@ In tabelvorm:
 | Tactisch/Strategisch (4x per jaar) | Prioritering proces en uitwerken strategisch advies | Samen met andere participanten: <br/>1. Vaststellen roadmap van de standaard. <br/>2. Voorportaal OBDO 3. Vaststellen minor releases van de standaard. | 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
 | OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
 
+### Architectuurboard
+De architectuurboard van de MIDO governance maakt
+
 ### Besluitvorming
 In alle overleggremia vindt besluitvorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
@@ -131,6 +136,19 @@ met een weergave van de verschillende standpunten door naar het
 eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium (het
 OBDO) geen consensus bereikt kan worden, heeft de voorzitter van het
 OBDO (ministerie van BZK) de beslissende stem.
+
+Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
+niveau's. Voor wijzigingen met zeer kleine impact wordt de beheerorganisatie
+gemandateerd. De beheerorganisatie mag deze wijzigingen zelf doorvoeren
+zonder formele beslissing door het besluitvormend overleg. In de
+[versienummering](#bijlage-versie-nummering-digikoppeling-onderdelen) worden
+deze zeer kleine wijzigingen aangeduid als _patch releases_.
+
+Voor andere  wijzigingen is een formeel besluit nodig van één van de
+Digikoppeing gremia. Voor middelgrote wijzingen (_minor releases_) kan
+dit door het Technisch Overleg besloten worden. Voor grote wijzigingen
+(_major releases_) is altijd een besluit van het ODBO of de
+Programmingsraad GDI nodig. 
 
 ### Deelname
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
