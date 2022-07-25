@@ -14,8 +14,8 @@ koppelvlakspecificatie worden behandeld als in introductie van een nieuwe
 standaard. Een voorbeeld is de toevoeging van de REST API koppelvkakspecificatie
 aan Digikoppeling.
 
-1.  Uitbreidingen en aanpassingen in de Digikoppeling standaarden komen tot stand
-    door participatie van de verschillende belanghebbenden.
+1.  Uitbreidingen en aanpassingen in de Digikoppeling standaarden komen tot
+    stand door participatie van de verschillende belanghebbenden.
 
 2.  Belanghebbenden kunnen op verschillende manieren participeren.
     1. op persoonlijke titel (het proces is volledig open)
@@ -35,7 +35,7 @@ Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-_beschrijving proces_
+_TODO: beschrijving proces_
 
 ![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png "Behandeling van een wijzigingsvoorstel in het beheerproces")
 
@@ -47,10 +47,58 @@ _beschrijving proces_
 6. Acceptatie van een wijzigingsvoorstel.
 7. Doorvoeren van een wijzigingsvoorstel.
 
-## Status van de standaard
+Wanneer een wijzging is geaccepteerd kan deze deel uitmaken van een
+volgende release.
 
-> Logius, afdeling standaarden onderscheid vier statussen die de xxx
-> standaard kan hebben:
+### Releases
+De onderdelen van de Digikoppeling standaard en Digikoppeling voorzieningen zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
+
+Het vaststellen van een nieuwe release van afzonderlijke Digikoppeling onderdelen en een samenhangende Digikoppeling architectuur wordt gedaan volgens het beleid in paragraaf 2.4. De Klantenraadzal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het OBDOmaar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
+
+Voor nieuwe releases wordt uitgegaan van een aantal principes:
+1. De Digikoppeling-standaard dient in principe zo stabiel te zijn dat
+nieuwe releases van de standaard bestaande implementaties van een
+oudere release niet tot migratie verplichten.
+2. Nieuwe releases van de standaard dienen als nieuwe profielen binnen
+een Koppelvlakstandaard naast de bestaande profielen gerealiseerd te
+worden (uitbreiding). Indien dit niet mogelijk is wordt gestreefd naar
+het interoperabel (engels: backwards compatible) zijn van profielen
+met voorgaande releases (interoperabele verandering). Bij wijzigingen
+waarin ook dit niet mogelijk is, vindt een expliciete afweging plaats
+van de geboden verbetering ten opzichte van het belang van bestaande
+implementatie (beperking impact).
+3. Wijzigingsaanvragen kunnen door belanghebbenden worden ingediend
+bij de beheerder.
+4. Het Digikoppeling Technisch Overleg is verantwoordelijk voor de
+beoordeling van ingediende wijzigingsaanvragen, uitwerken ervan in
+RFC’s en de inhoudelijke (door)ontwikkeling van de te beheren
+Digikoppeling-onderdelen.
+5. De Digikoppeling-beheerder zorgt voor de voorbereiding van de
+releaseplanning.
+6. Het tactisch overleg beoordeelt de
+releasevoorstellen en stelt het beleid en de roadmap van
+nieuwe releases van de Digikoppeling-standaard vast in het
+releaseplanningsproces.
+7. Bij het vaststellen van de inhoud van een nieuwe release van een
+Digikoppeling onderdeel wordt gestreefd naar consensus. Als consensus
+uitblijft zal de Digikoppeling beheerder, samen met het Ministerie
+van BZK de inhoud van een nieuwe release vaststellen.
+8. Bij het vaststellen van een nieuwe release zal het strategisch overleg
+uitspraken doen over het ondersteunen van oude releases.
+9. Maximaal kunnen twee (opéénvolgende) releases van een Digikoppeling
+onderdeel gelijktijdig de status „In Gebruik‟ hebben.
+10. De releasetermijnen voor de verschillende Digikoppeling-onderdelen
+zijn afgestemd op de omgeving waarin deze worden gebruikt. Koppelvlak
+standaarden hebben bijvoorbeeld een kortere releasetermijn dan de
+bovenliggende architectuur.
+11. In bijzondere gevallen kan van de releasetermijn worden
+afgeweken.
+12. Op het moment dat het functionele toepassingsgebied van
+Digikoppeling, waarvoor het pas-toe-of-leg-uit- regime geldt, wijzigd,
+wordt dit voorgelegd aan Forum Standaardisatie & het OBDO zodat het
+regime kan worden bekrachtigd voor dit nieuwe toepassingsgebied.
+
+## Status van de standaard
 
 | **Afkorting** | **Status van de standaard** | **Beschrijving van de status** |
 |      ---      |              ---            |               ---              |
