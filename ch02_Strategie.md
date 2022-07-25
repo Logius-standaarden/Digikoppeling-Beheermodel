@@ -148,7 +148,7 @@ Voor andere  wijzigingen is een formeel besluit nodig van één van de
 Digikoppeing gremia. Voor middelgrote wijzingen (_minor releases_) kan
 dit door het Technisch Overleg besloten worden. Voor grote wijzigingen
 (_major releases_) is altijd een besluit van het ODBO of de
-Programmingsraad GDI nodig. 
+Programmingsraad GDI nodig.
 
 ### Deelname
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
@@ -161,15 +161,15 @@ besluitvormingsproces:
     Iedereen die een issue indient is daarmee lid van de community.
 2.  Als lid van de Technisch Overleg
     1.  Leden van het technisch overleg dienen een aantoonbaar belang
-    te hebben bij de standaard.
+        te hebben bij de standaard.
     2.  De omvang en samenstelling moet een goede vertegenwoordiging
-    bevatten van de verschillende belangen rond de standaard. We gaan
-    uit van 1 deelnemer per organisatie.
+        bevatten van de verschillende belangen rond de standaard.
+        We gaan uit van 1 deelnemer per organisatie.
     3.  Het belang van de Nederlandse overheid dient voldoende geborgd
-    te zijn in het technisch overleg.
+        te zijn in het technisch overleg.
 3.  Als lid van de Programmeringstafel Gegevensuitwisseling
     1. Stakeholders van de Logius Gegevensuitwisselingsdiensten worden
-    uitgenodigd.
+       uitgenodigd.
 4.  Als lid van het OBDO.
 
 Personen/partijen die willen deelnemen aan het Technisch Overleg

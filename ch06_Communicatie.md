@@ -1,6 +1,13 @@
 # Communicatie
 
 ## Promotie
+De afdeling Standaarden van Logius werkt samen met het Forum
+Standaardisatie aan de promotie van open standaarden via
+kennisplatforms, bijeenkomsten en seminars. De standaarden die Logius
+beheert, zijn verplichte standaarden voor overheidsorganisaties en
+staan op de 'Pas toe of leg uit'-lijst van het Forum of zijn verplicht
+via wetgeving.
+
 [De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling). Hier staan:
 - De korte beschrijving van de standaard;
 - En korte omschrijving van de werking;

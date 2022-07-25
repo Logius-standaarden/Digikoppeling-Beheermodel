@@ -43,6 +43,9 @@ De NORA maakt geen deel uit van het in dit document beschreven
 beheer van de Digikoppeling-standaard, maar bevat wel belangrijke
 informatie over Digikoppeling en haar toepassing.
 
+De MIDO governance kent een [Architectuurboard](#architectuurboard).
+Dit gremium kan om advies worden gevraagd over wijzigingsvoorstellen.
+
 ### Internationale, Europese en nationale standaardisatiegemeenschap
 Internationale standaarden leveren de basis voor de koppelvlakspecificaties
 die we in Digikoppeling gebruiken.
