@@ -14,12 +14,9 @@ verticaal tussen voorzieningen in verschillende situaties en tussen
 organisaties. Deze doelstelling wordt onderschreven door een breed
 scala aan partijen die deelnemen aan het xxx Kennisplatform, waar de
 ontwikkeling van de standaard zijn oorsprong heeft, en is bestendigd
-door Forum
-
-Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid
-(OBDO), die xxxx standaard hebben opgenomen op de zogenaamde ‘pas toe
-of leg uit’-lijst met andere standaarden die interoperabiliteit
-bevorderen [zie ook de basisinformatie van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/basisinformatie).
+door Forum Standaardisatie en het OverheidsBrede Beleidsoverhed
+Digitale Overheid (OBDO), die de Digikoppeling standaard hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met andere standaarden die
+interoperabiliteit bevorderen [zie ook de basisinformatie van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/basisinformatie).
 
 De toetsingsprocedure voor opname van een standaard op
 _pas toe of leg uit_ lijst bestaat uit de volgende stappen:
@@ -32,13 +29,6 @@ _pas toe of leg uit_ lijst bestaat uit de volgende stappen:
 6. Vaststelling door het Overheidsbreed Beleidsoverleg Digitale Overheid
 
 Deze criteria staan op: [Toetsingsprocedure en criteria voor lijsten met open standaarden (forumstandaardisatie.nl)](https://www.forumstandaardisatie.nl/sites/default/files/BFS/3-lijsten/standaarden-aanmelden/toetsen/Toetsingsprocedure-en-criteria-22_0.pdf)
-
-De afdeling Standaarden van Logius werkt samen met het Forum
-Standaardisatie aan de promotie van open standaarden via
-kennisplatforms, bijeenkomsten en seminars. De standaarden die Logius
-beheert, zijn verplichte standaarden voor overheidsorganisaties en
-staan op de 'Pas toe of leg uit'-lijst van het Forum of zijn verplicht
-via wetgeving.
 
 ## Governance
 Bij het beheer van een open standaard hoort een open governance en een
@@ -127,7 +117,10 @@ In tabelvorm:
 | OBDO (Strategisch besluitvormend, 2x per jaar) | Bestuurlijk besluit | Samen met andere bestuurders: <br/>1. Vaststellen major releases van de standaard. <br/>2. Vaststellen beheermodel van de standaard. <br/>3. Vaststellen externe publicaties over het standaardenbeleid en releases. |  1. Begeleiding van de Adviesraad en inbreng via secretariaat OBDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
 
 ### Architectuurboard
-De architectuurboard van de MIDO governance maakt
+De architectuurboard van de MIDO governance maakt geen deel uit van het
+Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
+wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
+initiatief van het Technisch Overleg)
 
 ### Besluitvorming
 In alle overleggremia vindt besluitvorming plaats op basis van
