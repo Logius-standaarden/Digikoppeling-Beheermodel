@@ -46,6 +46,8 @@ informatie over Digikoppeling en haar toepassing.
 De MIDO governance kent een [Architectuurboard](#architectuurboard).
 Dit gremium kan om advies worden gevraagd over wijzigingsvoorstellen.
 
+De Digikoppeling architectuur is beschreven in een apart document [[""Digikoppeling Architectuur""]].
+
 ### Internationale, Europese en nationale standaardisatiegemeenschap
 Internationale standaarden leveren de basis voor de koppelvlakspecificaties
 die we in Digikoppeling gebruiken.

@@ -178,19 +178,26 @@ var respecConfig = {
   // if you need to override an existing reference with specific content, then you can use this configuration option.
   localBiblio: {
     NEN3610: {
-      href: "https://www.nen.nl/nen-3610-2011-a1-2016-nl-217738",
+      href: "https://www.nen.nl/nen-3610-2022-nl-296137",
       title:
         "Basismodel Geo-informatie - Termen, definities, relaties en algemene regels voor de uitwisseling van informatie over aan de aarde gerelateerde ruimtelijke objecten",
       authors: [""],
-      date: "Maart 2011",
+      date: "1 juni 2022",
       publisher: "Nederlands Normalisatie-instituut",
     },
+    MIM: {
+      href: "https://docs.geostandaarden.nl/mim/mim/",
+      title: "Metamodel Informatie Modellering",
+      authors: [""],
+      date: "7 februari 2022",
+      publisher: "Geonovum",
+    },
     "Digikoppeling Architectuur": {
-      href: "https://centrumvoorstandaarden.github.io/Architectuur2.0-metRestfulAPI/static.html",
+      href: "https://logius-standaarden.github.io/Digikoppeling-Architectuur/snapshot.html",
       title:
         "Digikoppeling Architectuur",
-      authors: ["Logius Centrum voor standaarden"],
-      date: "december 2020",
+      authors: ["Logius Standaarden"],
+      date: "11 april 2022",
       publisher: "Logius",
     },
     "Digikoppeling Beveiligingsdocument": {
