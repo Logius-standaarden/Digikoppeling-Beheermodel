@@ -37,7 +37,7 @@ Om te kunnen werken aan publicatie-, werk- en voorstelversies van documenten wor
 Voorbeeld
 In het onderstaande voorbeeld zien wij een standaard van 1.0.0 naar 1.1.0 ontwikkelen.
 
-![Gitflow](media/Semver_gitflow_branches.svg "Gitflow")
+![Gitflow](images/Semver_gitflow_branches.svg "Gitflow")
 
 De branch main is de huidig gepubliceerde versie en de branch develop is de werkversie. Het uitwerken van een RFC gebeurt in een afsplitsing van de develop branch waarna het terug de develop branch invloeit. In het voorbeeld schema leidde RFC1 tot de eerste release candidate (rc) van versie 1.1.0 van de standaard. Wanneer de werkversie gereed en akkoord is als release stromen de wijzigingen naar de branch main.
 
