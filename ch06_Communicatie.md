@@ -23,7 +23,7 @@ beheert, zijn verplichte standaarden voor overheidsorganisaties en
 staan op de 'Pas toe of leg uit'-lijst van het Forum of zijn verplicht
 via wetgeving.
 
-[De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling) [[Logius website]]. Hier staan:
+[De Logius website biedt informatie over de Digikoppeling standaard](https://logius.nl/diensten/digikoppeling) [[?Logius website]]. Hier staan:
 - De korte beschrijving van de standaard;
 - En korte omschrijving van de werking;
 - Een overzicht van het gebruik van de Digikoppeling standaard;
