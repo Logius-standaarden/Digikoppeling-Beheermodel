@@ -123,7 +123,7 @@ Zoals gezegd wordt het beheer van de Digikoppeling standaard volledig
 open ingevuld (zie ook de paragraaf [BOMOS](#bomos) en
 [Governance](#governance)) Dit borgt dat zoveel
 mogelijk belangstellenden en belanghebbenden betrokken zijn bij
-wijzigingen en besluitvorming die wijzigingen.
+wijzigingen en besluitvorming rond die wijzigingen.
 
 ## Adoptie en erkenning
 De Digikoppeling standaard heeft de 'pas toe of leg uit' -status van Forum
