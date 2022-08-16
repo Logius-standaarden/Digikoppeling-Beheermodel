@@ -138,7 +138,7 @@ zonder formele beslissing door het besluitvormend overleg. In de
 deze zeer kleine wijzigingen aangeduid als _patch releases_.
 
 Voor andere  wijzigingen is een formeel besluit nodig van één van de
-Digikoppeing gremia. Voor middelgrote wijzingen (_minor releases_) kan
+Digikoppeling gremia. Voor middelgrote wijzingen (_minor releases_) kan
 dit door het Technisch Overleg besloten worden. Voor grote wijzigingen
 (_major releases_) is altijd een besluit van het ODBO of de
 Programmingsraad GDI nodig.
