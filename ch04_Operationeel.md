@@ -59,7 +59,7 @@ _TODO: beschrijving patchproces_
 ### Releases
 De onderdelen van de Digikoppeling standaard en Digikoppeling voorzieningen zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
 
-Het vaststellen van een nieuwe release van afzonderlijke Digikoppeling onderdelen en een samenhangende Digikoppeling architectuur wordt gedaan volgens het beleid in paragraaf 2.4. De Klantenraadzal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het OBDOmaar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
+Het vaststellen van een nieuwe release van afzonderlijke Digikoppeling onderdelen en een samenhangende Digikoppeling architectuur wordt gedaan volgens het beleid in paragraaf 2.4. Digikoppeling beheer zal binnen de releaseplanning niet alleen nieuwe releases voordragen aan het tactisch/strategisch overleg maar ook voorstellen hoe lang oude releases in bedrijf blijven en ondersteund zullen worden.
 
 Voor nieuwe releases wordt uitgegaan van een aantal principes:
 1. De Digikoppeling-standaard dient in principe zo stabiel te zijn dat
