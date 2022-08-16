@@ -106,7 +106,7 @@ webservice standaarden. Digikoppeling is daardoor een laag die zich
 bevindt tussen het transportnetwerk (b.v. Diginetwerk of Internet)
 en de applicatielaag (functionele berichtinhoud). De systemen die
 Digikoppeling gebruiken zijn zowel frontoffice-systemen
-(die interactie met burgers en bedrijven afhandelen) als systemen
+(die interactie met burgers en bedrijven afhandelen, Digikoppeling wordt hierbij gebruikt voor communicatie met systemen van andere overheden) als systemen
 van andere overheden en in het bijzonder de basisregistraties.
 
 De Digikoppeling-standaard is binnen de overheid in gebruik bij
