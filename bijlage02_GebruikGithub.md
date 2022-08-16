@@ -5,7 +5,7 @@ GitHub biedt functionaliteit om documenten te publiceren vanuit een
 repository. Logius gebruikt deze functionaliteit om het met
 [ReSpec](#bijlage-gebruik-respec) gegenereerde document te publiceren
 als HTML-document en een PDF-document. Deze documenten worden automatisch
-gekopieerd naar een publicatiewebsite onder Logiusbeheer.
+gekopieerd naar een publicatiewebsite onder beheer van Logius.
 
 ## Wijzigingsvoorstellen
 Het proces zoals beschreven onder
