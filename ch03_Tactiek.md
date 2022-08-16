@@ -91,7 +91,7 @@ Digikoppeling onderdelen.
    achtergrond Digikoppeling-certificaten" sluiten aan bij de
    PKI.Overheid.
 
-4. Logius deelt ervaringen met het beheer van standaarden zoals DIgikoppeling
+4. Logius deelt ervaringen met het beheer van standaarden zoals Digikoppeling
    met andere standaardenorganisaties binnen het BOMOS _Klankbordoverleg_.
 
 ## Rechtenbeleid
