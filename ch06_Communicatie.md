@@ -31,7 +31,7 @@ via wetgeving.
 - Algemene documenten als factsheets, presentaties, etc.
 
 Logius stuurt regelmatig nieuws- en persberichten uit.
-Wanneer een nieuwe Versie van een standaard gepubliceerd wordt,
+Wanneer een nieuwe versie van een standaard gepubliceerd wordt,
 wordt dit ook via deze kanalen gepubliceerd.
 
 Logius geeft presentaties bij symposia en bijeenkomsten van derden.
