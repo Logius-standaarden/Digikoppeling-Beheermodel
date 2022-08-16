@@ -26,7 +26,7 @@ wijzigingen die in een volgende geaccepteerde versie opgenomen moeten
 worden.
 
 Aanpassingen in de documentatie die voor een specifiek wijzingsvoorstel
-gemaakt worden worden in eigen branch verwerkt. Deze branch wordt gesplitst vanaf de _develop_ branch en wordt nadat het wijzigingsverzoek aangenomen
+gemaakt worden worden in een eigen branch verwerkt. Deze branch wordt gesplitst vanaf de _develop_ branch en wordt nadat het wijzigingsverzoek aangenomen
 is teruggebracht naar de _develop_ branch. Voorbeeld: een wijzigingsverzoek
 voor het aanpassen van de architectuurbeschrijving zal in een branche _nieuwe architectuur_ worden verwerkt. Deze wordt gesplitst vanaf, en
 teruggebracht naar, de _develop_ branch. Door wijzigingen in een eigenaarbranch op te nemen zijn alle wijzigingen op de documentatie inzichtelijk per wijzigingsvoorstel.
