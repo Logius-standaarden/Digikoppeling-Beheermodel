@@ -11,7 +11,7 @@ beschreven. Voor details van de implementatie verwijzen we naar de
 ## Initiatie
 Toevoegingen aan de standaard zoals het toevoegen van een nieuwe
 koppelvlakspecificatie worden behandeld als in introductie van een nieuwe
-standaard. Een voorbeeld is de toevoeging van de REST API koppelvkakspecificatie
+standaard. Een voorbeeld is de toevoeging van de REST API koppelvlakspecificatie
 aan Digikoppeling.
 
 1.  Uitbreidingen en aanpassingen in de Digikoppeling standaarden komen tot
