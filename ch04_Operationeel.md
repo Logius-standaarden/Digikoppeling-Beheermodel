@@ -35,7 +35,9 @@ Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-_TODO: beschrijving proces_
+_TODO: beschrijving proces. Wat zijn patches en wat zijn wijzigingen_
+
+### Wijzigingegn
 
 ![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png "Behandeling van een wijzigingsvoorstel in het beheerproces")
 
@@ -49,6 +51,10 @@ _TODO: beschrijving proces_
 
 Wanneer een wijzging is geaccepteerd kan deze deel uitmaken van een
 volgende release.
+
+### Patches
+
+_TODO: beschrijving patchproces_
 
 ### Releases
 De onderdelen van de Digikoppeling standaard en Digikoppeling voorzieningen zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
