@@ -2,7 +2,7 @@
 Het beheer van de Digikoppeling-standaard omvat het geheel van
 processen, besturing, organisatie, informatievoorziening en
 hulpmiddelen die noodzakelijk zijn om gebaseerd op open standaarden
-ook Digikoppeling zelf als open standaard in stand te houden, te
+Digikoppeling als open standaard in stand te houden, te
 onderhouden en door te ontwikkelen. Het beheer van Digikoppeling is
 gebaseerd op de principes uit de BOMOS standaard.
 
