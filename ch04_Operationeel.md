@@ -35,7 +35,19 @@ Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-_TODO: beschrijving proces. Wat zijn patches en wat zijn wijzigingen_
+Afhankelijk van de impact van een wijzinging kan deze aangemerkt worden als
+een _patch_. Een patch is een kleine (tekstueele) wijziging die geen impact
+heeft op implementaties.
+
+Een _wijziging_ is een aanpassing met impact op de werking of het proces van
+de Digikoppeeling standaard. Waarbij nog een onderscheid gemaakt wordt tussen
+wijzigingen met kleine en met grote impact.
+
+Patches en wijzigingen worden verzameld in een _release_. Een release is een
+nieuwe versie van de Digikoppeling standaard. Nieuwe releases worden regelmatig
+doorgevoerd en moeten worden goedgekeurd door het Technisch Overleg en,
+afhankelijk van de impact van een nieuwe release door een programmeringstafel.
+Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
 
 ### Wijzigingegn
 
