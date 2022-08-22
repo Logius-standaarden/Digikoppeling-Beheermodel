@@ -18,18 +18,6 @@ door Forum Standaardisatie en het OverheidsBrede Beleidsoverhed
 Digitale Overheid (OBDO), die de Digikoppeling standaard hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met andere standaarden die
 interoperabiliteit bevorderen [zie ook de basisinformatie van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/basisinformatie).
 
-De toetsingsprocedure voor opname van een standaard op
-_pas toe of leg uit_ lijst bestaat uit de volgende stappen:
-
-1. Aanmelding
-2. Intake
-3. Expertonderzoek
-4. Openbare consultatie
-5. Advisering door het Forum Standaardisatie
-6. Vaststelling door het Overheidsbreed Beleidsoverleg Digitale Overheid
-
-Deze criteria staan op: [Toetsingsprocedure en criteria voor lijsten met open standaarden (forumstandaardisatie.nl)](https://www.forumstandaardisatie.nl/sites/default/files/BFS/3-lijsten/standaarden-aanmelden/toetsen/Toetsingsprocedure-en-criteria-22_0.pdf)
-
 ## Governance
 Bij het beheer van een open standaard hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
@@ -174,5 +162,3 @@ Logius de aanvraag.
 Het beheer van de Digikoppeling standaard wordt gefinancieerd door het
 ministerie van BZK in het kader van de financiering van Logius
 dienstverlening.
-
-_TODO: Aanvullen__

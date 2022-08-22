@@ -1,6 +1,8 @@
 # Tactiek
 
-_TODO: wat is tactiek_
+Tactische aspecten van het beer van de Digikoppeling standaard omvat
+de open invulling, samenhang met andere standaarden, het stimuleren 
+van het gebruik van de standaard en tot slot het kwaliteitsbeleid.
 
 ## Community
 Veel verschillende partijen hebben direct dan wel indirect belang bij

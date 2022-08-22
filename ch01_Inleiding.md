@@ -146,8 +146,8 @@ Requester) werkt altijd volgens een vooraf bepaald profiel voor
 berichtenuitwisseling volgens een Koppelvlakstandaard.
 
 ### Status
-
-_Beschrijf hier de status van de standaard._
+Digikoppeling is opgenomen op de _pas toe of leg_ uit lijst van het Forum 
+Standaardisatie.
 
 ## BOMOS
 Het activiteitendiagram toont welke lagen het model onderscheidt en welke activiteiten daarbinnen onderscheiden worden. De lagen en de ondersteunende
