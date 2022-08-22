@@ -1,6 +1,9 @@
 # Operationeel
 
-_TODO: wat is operationeel beheer_
+Operationeel beheer omvat volgens BOMOS het tekstueele beheer van de
+documentatie, het verzamelen van eisen en wensen en de vertaling daarvan
+naar wijzigingsvoorstellen. Verder omvat het operationele proces de
+besluitvorming en het versie- of release-beheer
 
 Het operationele wijzigingsproces is ingericht op Github. De omgeving
 die we ook gebruiken voor het beheer en de publicatie van de documentatie.
