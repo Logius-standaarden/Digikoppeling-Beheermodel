@@ -131,7 +131,7 @@ OBDO) geen consensus bereikt kan worden, heeft de voorzitter van het
 OBDO (ministerie van BZK) de beslissende stem.
 
 Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
-niveau's. Voor wijzigingen met zeer kleine impact wordt de beheerorganisatie
+niveau's. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de beheerorganisatie
 gemandateerd. De beheerorganisatie mag deze wijzigingen zelf doorvoeren
 zonder formele beslissing door het besluitvormend overleg. In de
 [versienummering](#bijlage-versie-nummering-digikoppeling-onderdelen) worden
