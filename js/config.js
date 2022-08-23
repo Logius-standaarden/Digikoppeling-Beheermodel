@@ -76,7 +76,6 @@ var respecConfig = {
   // this can be simple or more elaborated
   authors: [{
     name: "Logius",
-    url: "https://logius.nl/standaarden",
     mailto: "digikoppeling@logius.nl",
   }
   ],
@@ -143,12 +142,6 @@ var respecConfig = {
   // prefix for the names of company specific css, svg and ico prefixes
   // defaults to "GN-"
   nl_organisationPrefix: "LS-",
-
-  // class style can be automatically inserted in generated markdown tables
-  // currently defaults to simple, but this may change
-  // options simple, data, <your css>
-  nl_markdownTableClass: "dkkvs",
-  nl_markdownCodeClass: "code",
 
   // if nl_markdownEmbedImageInFigure is set to true images in markdown generated content will be surrounded with <figures> element
   // so that figures can be linked are be a part of table of figures
