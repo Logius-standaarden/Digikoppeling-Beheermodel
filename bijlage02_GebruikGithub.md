@@ -69,6 +69,10 @@ issues als
    6. Gereed   
    7. Afgewezen
 
+## Patches
+
+_TODO: beschrijving patching operationeel_
+
 ## Automatisering en scripts
 GitHub ondersteunt automatisering van taken door scripts. Standaard
 is de publicatie via _github pages_. Binnen de Logius standaarden maken
