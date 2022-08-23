@@ -52,7 +52,7 @@ doorgevoerd en moeten worden goedgekeurd door het Technisch Overleg en,
 afhankelijk van de impact van een nieuwe release door een programmeringstafel.
 Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
 
-### Wijzigingegn
+### Wijzigingen
 
 ![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png "Behandeling van een wijzigingsvoorstel in het beheerproces")
 
@@ -63,13 +63,18 @@ Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
 5. Advisering vanuit overleggen.
 6. Acceptatie van een wijzigingsvoorstel.
 7. Doorvoeren van een wijzigingsvoorstel.
+8. Publicatie van een wijziging in de komende release
 
 Wanneer een wijzging is geaccepteerd kan deze deel uitmaken van een
 volgende release.
 
 ### Patches
 
-_TODO: beschrijving patchproces_
+Een patch is een zeer kleine wijziging die geen impact heeft op de implementatie. Bijvoorbeeld tekstueele wijzigingen in de documentatie. De beheerorganisatie beoordeelt de impact van een wijziging en bepaalt daarmee of het een patch betreft (of een wijziging).
+
+1. Beoordeling van een voorgestelde patch door de beheerorganisatie
+2. Doorvoeren van de patch door de beheerorganisatie
+3. Publicatie van een patch in de komende release
 
 ### Releases
 De onderdelen van de Digikoppeling standaard en Digikoppeling voorzieningen zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
