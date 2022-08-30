@@ -39,7 +39,7 @@ nieuw major versie van het specificatie document vast te stellen volgens
 het de uitgebreide vaststellingsprocedure. In het tweede geval wordt er
 een *geheel nieuw* document toegevoegd aan de standaard. Als hierbij het
 functionele toepassingsgebied van de standaard, waarvoor het pas-toe-of-leg-uit
-regime geldt, veranderd, dan wordt eerst de uitgebreide vaststellingsprocedure
+regime geldt, verandert, dan wordt eerst de uitgebreide vaststellingsprocedure
 gevolgd en vervolgens de procedure van het Forum Standaardisatie.
 
 <aside class="example" title="Grote wijzigingen voor Digikoppeling">
