@@ -70,7 +70,7 @@ volgende release.
 
 ### Patches
 
-Een patch is een zeer kleine wijziging die geen impact heeft op de implementatie. Bijvoorbeeld tekstueele wijzigingen in de documentatie. De beheerorganisatie beoordeelt de impact van een wijziging en bepaalt daarmee of het een patch betreft (of een wijziging).
+Een patch is een zeer kleine wijziging die geen impact heeft op de implementatie. Bijvoorbeeld tekstuele wijzigingen in de documentatie. De beheerorganisatie beoordeelt de impact van een wijziging en bepaalt daarmee of het een patch betreft (of een wijziging).
 
 1. Beoordeling van een voorgestelde patch door de beheerorganisatie
 2. Doorvoeren van de patch door de beheerorganisatie
