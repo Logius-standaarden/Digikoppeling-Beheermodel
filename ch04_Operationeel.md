@@ -120,7 +120,7 @@ bovenliggende architectuur.
 11. In bijzondere gevallen kan van de releasetermijn worden
 afgeweken.
 12. Op het moment dat het functionele toepassingsgebied van
-Digikoppeling, waarvoor het pas-toe-of-leg-uit- regime geldt, wijzigd,
+Digikoppeling, waarvoor het pas-toe-of-leg-uit- regime geldt, wijzigt,
 wordt dit voorgelegd aan Forum Standaardisatie & het OBDO zodat het
 regime kan worden bekrachtigd voor dit nieuwe toepassingsgebied.
 
