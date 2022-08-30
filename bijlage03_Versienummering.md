@@ -11,9 +11,9 @@ Per document wordt met `[documentnaam] X.Y.Z` de versie aangegeven.
 Met `X.Y.Z` wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches,
 dit wordt hieronder toegelicht.
 
-MAJOR wordt verhoogd als de nieuwe versie van de standaard zodanig wijzigt dat uitwerkingen (implementaties) volgens de vorige versie van de standaard niet meer voldoen aan de normen/eisen van de nieuwe versie van de standaard.
-MINOR wordt verhoogd bij wijzigingen waarbij uitwerkingen (implementaties) volgens de vorige versie van de standaard ook voldoen aan de normen/eisen van de nieuwe versie van de standaard.
-PATCH wordt verhoogd bij correcties.
+* MAJOR wordt verhoogd als de nieuwe versie van de standaard zodanig wijzigt dat uitwerkingen (implementaties) volgens de vorige versie van de standaard niet meer voldoen aan de normen/eisen van de nieuwe versie van de standaard.
+* MINOR wordt verhoogd bij wijzigingen waarbij uitwerkingen (implementaties) volgens de vorige versie van de standaard ook voldoen aan de normen/eisen van de nieuwe versie van de standaard.
+* PATCH wordt verhoogd bij correcties.
 
 ### Patch Releases
 In een patchrelease worden wijzigingen doorgevoerd die de technische
