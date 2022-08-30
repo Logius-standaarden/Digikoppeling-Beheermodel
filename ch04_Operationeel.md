@@ -65,7 +65,7 @@ Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
 7. Doorvoeren van een wijzigingsvoorstel.
 8. Publicatie van een wijziging in de komende release
 
-Wanneer een wijzging is geaccepteerd kan deze deel uitmaken van een
+Wanneer een wijziging is geaccepteerd kan deze deel uitmaken van een
 volgende release.
 
 ### Patches
