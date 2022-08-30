@@ -55,7 +55,7 @@ Internationale standaarden leveren de basis voor de koppelvlakspecificaties
 die we in Digikoppeling gebruiken.
 
 1. Digikoppeling volgt de ontwikkeling van internationale standaarden,
-   beheerd door organsisaties als **W3C** en **OASIS**. Deze organisaties
+   beheerd door organisaties als **W3C** en **OASIS**. Deze organisaties
    beheren basisstandaarden als WUS, ebMS [[EBXML-MSG]] en HTTP [[rfc1945]].
 
 2. In EU kader wordt de

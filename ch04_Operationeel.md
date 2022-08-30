@@ -144,10 +144,10 @@ standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmat
 | OIN, stelsel                    | major | major | minor | |
 | OIN, nummers                    | minor |       |       | minor |
 
-In de matrix zijn kolommmen opgenomen voor verwijderen _en_ vervallen.
+In de matrix zijn kolommen opgenomen voor verwijderen _en_ vervallen.
 Met verwijderen wordt het volledig verwijderen van een regel of concept bedoeld.
 Bij vervallen blijft deze behouden maar wordt door een geldigheidsdatum aangegeven
-dat de regel of eht concept niet meer van toepassing is.
+dat de regel of het concept niet meer van toepassing is.
 
 ## Status van de standaard
 

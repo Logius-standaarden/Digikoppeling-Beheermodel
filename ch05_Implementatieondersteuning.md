@@ -24,6 +24,6 @@ Logius biedt ondersteuning en advies via verschillende kanalen:
 2. Per mail via digikoppeling@logius.nl
 
 ## Validatie & Certificatie
-Certificatie van Digioppeling is op dit moment niet mogelijk.
+Certificatie van Digikoppeling is op dit moment niet mogelijk.
 Er zijn voldoende operationele implementaties om een nieuwe
 implementatie tegen te testen.
