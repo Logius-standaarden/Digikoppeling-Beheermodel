@@ -126,7 +126,7 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
 Afhankelijk van de impact van een wijziging of patch krijgt een release
 een nieuwsversienummer. Het versienummerbeheer volgt principes voor
 semantische versienummering
-[en is beschreven in een bijlage](#bijlage-versienummering-in-digikoppeling-onderdelen)
+[en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
 
 De impact van een wijziging kan verschillen per koppelvlakspecificatie. Voor de
 standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmatrix_ opgesteld:

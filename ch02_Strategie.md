@@ -122,7 +122,7 @@ Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
 niveau's. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de beheerorganisatie
 gemandateerd. De beheerorganisatie mag deze wijzigingen zelf doorvoeren
 zonder formele beslissing door het besluitvormend overleg. In de
-[versienummering](#bijlage-versie-nummering-digikoppeling-onderdelen) worden
+[versienummering](#bijlage-versie-nummering-logius-standaarden) worden
 deze zeer kleine wijzigingen aangeduid als _patch releases_.
 
 Voor andere  wijzigingen is een formeel besluit nodig van één van de
