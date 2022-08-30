@@ -43,7 +43,7 @@ een _patch_. Een patch is een kleine (tekstuele) wijziging die geen impact
 heeft op implementaties.
 
 Een _wijziging_ is een aanpassing met impact op de werking of het proces van
-de Digikoppeeling standaard. Waarbij nog een onderscheid gemaakt wordt tussen
+de Digikoppeling standaard. Waarbij nog een onderscheid gemaakt wordt tussen
 wijzigingen met kleine en met grote impact.
 
 Patches en wijzigingen worden verzameld in een _release_. Een release is een
