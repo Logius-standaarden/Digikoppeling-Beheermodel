@@ -40,11 +40,7 @@ wordt in de release meegenomen.
 ### Major Releases
 Een major release geeft aan dat de nieuwe versie van de standaard zodanig is gewijzigd dat een implementatie van de voorgaande versie van de standaard **niet** voldoet aan de regels van de nieuwe versie.
 Bijvoorbeeld de overgang naar nieuwe externe
-(meestal internationale) standaarden binnen een bestaand profiel, of de
-toevoeging van een geheel nieuw profiel. In het eerste geval komt er een
-nieuw major versie van het specificatie document vast te stellen volgens
-het de uitgebreide vaststellingsprocedure. In het tweede geval wordt er
-een *geheel nieuw* document toegevoegd aan de standaard. Als hierbij het
+(meestal internationale) standaarden binnen een bestaand profiel. Als hierbij het
 functionele toepassingsgebied van de standaard, waarvoor het pas-toe-of-leg-uit
 regime geldt, veranderd, dan wordt eerst de uitgebreide vaststellingsprocedure
 gevolgd en vervolgens de procedure van het Forum Standaardisatie.
