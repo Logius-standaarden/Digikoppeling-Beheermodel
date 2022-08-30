@@ -1,6 +1,6 @@
 # Operationeel
 
-Operationeel beheer omvat volgens BOMOS het tekstueele beheer van de
+Operationeel beheer omvat volgens BOMOS het tekstuele beheer van de
 documentatie, het verzamelen van eisen en wensen en de vertaling daarvan
 naar wijzigingsvoorstellen. Verder omvat het operationele proces de
 besluitvorming en het versie- of release-beheer
