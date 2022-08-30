@@ -23,7 +23,7 @@ aan Digikoppeling.
 2.  Belanghebbenden kunnen op verschillende manieren participeren.
     1. op persoonlijke titel (het proces is volledig open)
     2. als lid van de Digikoppeling Community
-    3. als lid van één van de Digikoppeling overleggen: het Techisch Overleg,
+    3. als lid van één van de Digikoppeling overleggen: het Technisch Overleg,
        de Programmeringstafel Gegevensuitwisseling of het OBDO.
 
 ## Wensen en Eisen
