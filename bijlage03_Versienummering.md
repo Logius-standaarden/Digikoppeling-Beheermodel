@@ -22,7 +22,7 @@ Een minor release geeft aan dat de nieuwe versie van de standaard zodanig is gew
 specificatie van een koppelvlak raken. Dat kunnen fouten zijn in de specificatie
 zijn, het verzwaren of verlichten van een restrictie of een aanpassing van
 een beveiligingstandaard (zoals TLS 1.0 naar TLS 1.2). In de SEMVER aanpak zijn
-minor releases backwards compatible. Voor de uitwisselingsstandaarden zoals
+minor releases technisch backwards compatible. Voor de uitwisselingsstandaarden zoals
 Digikoppeling is backwards compatibility lastiger te bepalen omdat uiteindelijk
 twee partijen met elkaar moeten meebewegen.
 **Minor Releases kunnen dus mogelijk backwards incompatible zijn**.
