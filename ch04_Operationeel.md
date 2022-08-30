@@ -38,7 +38,7 @@ Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-Afhankelijk van de impact van een wijzinging kan deze aangemerkt worden als
+Afhankelijk van de impact van een wijziging kan deze aangemerkt worden als
 een _patch_. Een patch is een kleine (tekstueele) wijziging die geen impact
 heeft op implementaties.
 
