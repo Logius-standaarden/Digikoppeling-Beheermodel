@@ -67,6 +67,10 @@ Globale regels voor het bepalen van de impact op de versionering:
 - Verwijderen = Minor
 - Correctie = Patch
 
+Voor standaarden waarbij wijzigingen op onderdelen kan verschillen tussen 
+major en minor kan een impactmatrix opgesteld worden waarmee impact op de 
+onderdelen gespecificeerd kan worden.
+
 ## Versie overgangen
 
 Wanneer een nieuwe major versie uitkomt zal de oude versie conform de afgestemde migratiepad een einddatum van geldigheid krijgen. In de overgangsperiode kunnen dus meerdere versies gepubliceerd zijn en de status geldig hebben.
