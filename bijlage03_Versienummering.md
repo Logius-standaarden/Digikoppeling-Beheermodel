@@ -63,9 +63,7 @@ Voor standaarden is relevant of een realisatie volgens de oude versie van een st
 Globale regels voor het bepalen van de impact op de versionering:
 
 - Toevoegen = Major
-- Wijzigingen :
-	- Versoepeling = Minor
-	- Verscherping = Major
+- Wijzigingen = Major of Minor (afhankelijk van de verwachte impact van de wijziging)
 - Verwijderen = Minor
 - Correctie = Patch
 
