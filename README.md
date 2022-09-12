@@ -1,11 +1,16 @@
 # Digikoppeling Beheermodel
 
+
+Dit is het document waarin het Digikoppeling beheerproces beschreven wordt. De basis is het [BOMOS template beheermodel](https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel). Het is aangevuld met een aantal standaard bijlagen die vooral het operationele proces beschrijven (Respec, Github, SEMVER). En met een besschrijving
+van de Digiikoppeling overleggen en governance.
+
+Links naar de gerespecte versies van dit document:
 - html: https://logius-standaarden.github.io/Digikoppeling-Beheermodel/
 - html(static): https://logius-standaarden.github.io/Digikoppeling-Beheermodel/snapshot.html
-- PDF-versie: [Digikoppeling-Beheermodel.pdf](Digikoppeling-Beheermodel.pdf)
+- PDF-versie: [Digikoppeling-Beheermodel.pdf](https://github.com/Logius-standaarden/Logius-beheermodel/blob/nieuwe_governance/Digikoppeling-Beheermodel.pdf)
 
 Te doen in deze branch:
 - [x] BOMOS als kader
 - [x] governance: overleggenstructuur: technisch/operationeel, tactisch en strategisch, aansluiting GDI goverance
-- [ ] Bijlage: wijzigingsproces, van issue naar wijziging, gebruik labels, overzicht labels
-- [ ] Bijlage: semver, verschil tussen normatieve en niet-normatieve versies
+- [x] Bijlage: wijzigingsproces, van issue naar wijziging, gebruik labels, overzicht labels
+- [x] Bijlage: semver, verschil tussen normatieve en niet-normatieve versies
