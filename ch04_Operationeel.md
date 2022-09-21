@@ -112,9 +112,9 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
 9. Maximaal kunnen twee (opéénvolgende) releases van een Digikoppeling
    onderdeel gelijktijdig de status „In Gebruik‟ hebben.
 10. De releasetermijnen voor de verschillende Digikoppeling-onderdelen
-   zijn afgestemd op de omgeving waarin deze worden gebruikt.
-   Koppelvlak standaarden hebben bijvoorbeeld een kortere releasetermijn
-   dan de bovenliggende architectuur.
+      zijn afgestemd op de omgeving waarin deze worden gebruikt.
+      Koppelvlak standaarden hebben bijvoorbeeld een kortere releasetermijn
+      dan de bovenliggende architectuur.
 11. In bijzondere gevallen kan van de releasetermijn worden afgeweken.
 12. Op het moment dat het functionele toepassingsgebied van
     Digikoppeling, waarvoor het pas-toe-of-leg-uit-regime geldt
@@ -123,31 +123,19 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
     toepassingsgebied.
 
 ### Impact van wijzigingen en versienummering
-Afhankelijk van de impact van een wijziging of patch krijgt een release
-een nieuwsversienummer. Het versienummerbeheer volgt principes voor
-semantische versienummering
-[en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
+Afhankelijk van de impact van een wijziging of patch krijgt een release een nieuwsversienummer. Het versienummerbeheer volgt principes voor semantische versienummering [en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
 
-De impact van een wijziging kan verschillen per koppelvlakspecificatie. Voor de
-standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmatrix_ opgesteld:
+De impact van een wijziging kan verschillen per koppelvlakspecificatie. Voor de standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmatrix_ opgesteld:
 
-| Standaard                       | Toevoegen | Wijzigen | Verwijderen | Vervallen |
-|---------------------------------|-----------|----------|-------------|-----------|
-| Digikoppeling architectuur      |
-| Identificatie en Authenticatie  |   major   |   major  |    minor    |           |
-| WUS Koppelvlakspecificatie, functioneel | major | major |   minor    |           |
-| WUS Koppelvlakspecificatie, technisch   | major | major |   minor    |           |
-| ebMS Koppelvlakspecificatie, functioneel | major | major |   minor   |           |
-| ebMS Koppelvlakspecificatie, technisch   | minor | major |   minor   |           |
-| REST API Koppelvlakspecificatie          | major/minor | major | major/minor |   |
-| Beveiligingsstandaarden en -voorschriften |            |             |           |
-| OIN, stelsel                    | major | major | minor | |
-| OIN, nummers                    | minor |       |       | minor |
+| Standaard                  | Major                                                        | Minor                                                        | Patch      |
+| -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| Niet normatieve documenten | fundamentele wijzigingen                                     | tekstuele wijzigingen of verwijderingen                      | correcties |
+| Normatieve documenten      | fundamentele wijzigingen in de eisen die aanpassing van alle implementaties vereisen | technische wijzigingen of verwijderingen die *<u>geen</u>* aanpassing van de huidige implementaties vereisen | correcties |
+| OIN, stelsel               | toevoegingen, wijzigingen                                    | verwijderingen                                               | correcties |
+| OIN, nummers               | fundamentele wijzigingen                                     | het toevoegen of laten vervallen van nummers                 | nvt        |
 
-In de matrix zijn kolommen opgenomen voor verwijderen _en_ vervallen.
-Met verwijderen wordt het volledig verwijderen van een regel of concept bedoeld.
-Bij vervallen blijft deze behouden maar wordt door een geldigheidsdatum aangegeven
-dat de regel of het concept niet meer van toepassing is.
+
+Met verwijderen wordt het volledig verwijderen van een regel of concept bedoeld. Bij vervallen blijft deze behouden maar wordt door een geldigheidsdatum aangegeven dat de regel of het concept niet meer van toepassing is.
 
 ## Status van de standaard
 
