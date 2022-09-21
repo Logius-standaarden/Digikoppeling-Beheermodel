@@ -26,12 +26,7 @@ Een nieuwe patchrelease vervangt een eerdere versie in zijn geheel.
 
 ### Minor releases
 Een minor release geeft aan dat de nieuwe versie van de standaard zodanig is gewijzigd dat een implementatie van de voorgaande versie van de standaard voldoet aan de regels van de nieuwe versie. In een minor release kunnen wijzigingen doorgevoerd worden die de technische
-specificatie van een koppelvlak raken. Dat kunnen fouten zijn in de specificatie
-zijn of bv het verlichten van een restrictie. In de SEMVER aanpak voor software zijn
-minor releases technisch backwards compatible. Voor de uitwisselingsstandaarden zoals
-Digikoppeling is backwards compatibility lastiger te bepalen omdat uiteindelijk
-twee partijen met elkaar moeten meebewegen.
-**Minor Releases kunnen dus mogelijk technisch backwards incompatible zijn**.
+specificatie van een koppelvlak raken (bijvoorbeeld nieuwe functionaliteit). 
 Voor Minor Releases wordt een uitgebreid vaststellingsprocedure gevolgd
 (conform het beheermodel van de standaard) en er kan in overleg met de deelnemers
 van het Technisch Overleg tot een migratiepad worden besloten. Dit migratiepad
@@ -62,9 +57,9 @@ Wijzigingen in de standaard kunnen impact hebben op de technische werking van im
 Voor standaarden is relevant of een realisatie volgens de oude versie van een standaard wel of niet voldoet aan de nieuwe versie van de standaard;
 Globale regels voor het bepalen van de impact op de versionering:
 
-- Toevoegen = Major
-- Wijzigingen = Major of Minor (afhankelijk van de verwachte impact van de wijziging)
-- Verwijderen = Minor
+
+- Wijzigen van regels (Toevoegen, wijzigen, verwijderen) = Major 
+- Toevoegen van regels mbt nieuwe functionaliteit = Minor
 - Correctie = Patch
 
 Voor standaarden waarbij wijzigingen op onderdelen kan verschillen tussen 
