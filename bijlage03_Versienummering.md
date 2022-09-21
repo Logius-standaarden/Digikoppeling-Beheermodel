@@ -58,16 +58,8 @@ Een  versie van een standaard (versie 1.2.0) is compatible met een eerdere versi
 Wijzigingen in de standaard kunnen impact hebben op de technische werking van implementaties en/of op afspraken die de technische werking van implementaties niet raken bijvoorbeeld organisatorische of proces afspraken;
 
 Voor standaarden is relevant of een realisatie volgens de oude versie van een standaard wel of niet voldoet aan de nieuwe versie van de standaard;
-Globale regels voor het bepalen van de impact op de versionering:
 
-
-- Wijzigen van regels (Toevoegen, wijzigen, verwijderen) = Major 
-- Toevoegen van regels mbt nieuwe functionaliteit = Minor
-- Correctie = Patch
-
-Voor standaarden waarbij wijzigingen op onderdelen kan verschillen tussen 
-major en minor kan een impactmatrix opgesteld worden waarmee impact op de 
-onderdelen gespecificeerd kan worden.
+Voor standaarden waarbij wijzigingen op onderdelen kan verschillen tussen major en minor kan een impactmatrix opgesteld worden waarmee impact op de onderdelen gespecificeerd kan worden.
 
 ## Versie overgangen
 
