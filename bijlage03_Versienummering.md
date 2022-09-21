@@ -1,5 +1,5 @@
 # Bijlage: versie-nummering Logius standaarden
-Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van Logius (afdeling standaarden) en is gebaseerd op SemVer. Semver staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals [gepubliceerd in de specificatie van Semantisch Versioneren (SemVer)](https://semver.org/lang/nl/#semantisch-versioneren-200).
+Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van Logius (afdeling standaarden) en is gebaseerd op SemVer. SemVer staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals [gepubliceerd in de specificatie van Semantisch Versioneren (SemVer)](https://semver.org/lang/nl/#semantisch-versioneren-200).
 
 Dat wil zeggen we kennen een bepaalde betekenis toe aan Major,Minor en Patch wijzigingen voor de standaarden zodanig dat de versienummers informatief zijn voor het type wijziging. 
 > Aandachtpunt hierbij is dat semantische versionering voor standaarden anders werkt dan semantische versionering voor software. 
@@ -14,9 +14,9 @@ Per document wordt met `[documentnaam] X.Y.Z` de versie aangegeven.
 Met `X.Y.Z` wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches,
 dit wordt hieronder toegelicht.
 
-* MAJOR wordt verhoogd als de nieuwe versie van de standaard zodanig wijzigt dat uitwerkingen (implementaties) volgens de vorige versie van de standaard niet meer voldoen aan de normen/eisen van de nieuwe versie van de standaard.
-* MINOR wordt verhoogd bij wijzigingen waarbij uitwerkingen (implementaties) volgens de vorige versie van de standaard ook voldoen aan de normen/eisen van de nieuwe versie van de standaard.
 * PATCH wordt verhoogd bij correcties.
+* MINOR wordt verhoogd bij wijzigingen waarbij uitwerkingen (implementaties) volgens de vorige versie van de standaard ook voldoen aan de normen/eisen van de nieuwe versie van de standaard.
+* MAJOR wordt verhoogd als de nieuwe versie van de standaard zodanig wijzigt dat uitwerkingen (implementaties) volgens de vorige versie van de standaard niet meer voldoen aan de normen/eisen van de nieuwe versie van de standaard.
 
 ### Patch Releases
 In een patchrelease worden wijzigingen doorgevoerd die de technische
