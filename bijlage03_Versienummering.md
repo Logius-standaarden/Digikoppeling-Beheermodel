@@ -3,6 +3,7 @@ Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om o
 
 Dat wil zeggen we kennen een bepaalde betekenis toe aan Major,Minor en Patch wijzigingen voor de standaarden zodanig dat de versienummers informatief zijn voor het type wijziging. 
 > Aandachtpunt hierbij is dat semantische versionering voor standaarden anders werkt dan semantische versionering voor software. 
+
 De versienummers voor standaarden drukken uit of een (implementatie) van een oude versie van de standaard voldoet aan de regels van de nieuwe standaard (en dus compliant is aan de nieuwe versie) of niet. 
 Het voordeel van deze manier van versioneren is dat het versienummer signaleert of een implementatie van een bepaalde versie van de standaard voldoet aan een andere (nieuwe) versie van de standaard of dat er sprake is van nieuwe / gewijzigde regels waar aktie op moet worden ondernomen om compliant te blijven aan deze nieuwe versie.
 
