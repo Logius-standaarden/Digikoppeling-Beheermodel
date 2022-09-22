@@ -1,8 +1,11 @@
 # Bijlage: versie-nummering Logius standaarden
-Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van Logius (afdeling standaarden) en is gebaseerd op Semver. Semver staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals gepubliceerd op [specificatie van Semantisch Versioneren (SEMVER)](https://semver.org/lang/nl/#semantisch-versioneren-200).
+Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van Logius (afdeling standaarden) en is gebaseerd op SemVer. SemVer staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals [gepubliceerd in de specificatie van Semantisch Versioneren (SemVer)](https://semver.org/lang/nl/#semantisch-versioneren-200).
 
-Dat wil zeggen we kennen een bepaalde betekenis toe aan Major,Minor en Patch wijzigingen voor de standaarden zodanig dat de versienummers informatief zijn voor het type wijziging. Aandachtpunt hierbij is dat semantische versionering voor standaarden anders werkt dan semantische versionering voor software. De versienummers voor standaarden drukken uit of een (implementatie) van een oude versie van de standaard voldoet aan de regels van de nieuwe standaard (en dus compliant is aan de nieuwe versie) of niet. 
-Het voordeel van deze manier van versioneren is dat het versienummer signaleert of een implementatie van een bepaalde versie van de standaard voldoet aan een andere (nieuwe) versie van de standaard of dat er sprake is van nieuwe / gewijzigde regels waar aktie op moet worden ondernomen om compliant te zijn aan deze versie.
+Dat wil zeggen we kennen een bepaalde betekenis toe aan Major,Minor en Patch wijzigingen voor de standaarden zodanig dat de versienummers informatief zijn voor het type wijziging. 
+> Aandachtpunt hierbij is dat semantische versionering voor standaarden anders werkt dan semantische versionering voor software. 
+
+De versienummers voor standaarden drukken uit of een (implementatie) van een oude versie van de standaard voldoet aan de regels van de nieuwe standaard (en dus compliant is aan de nieuwe versie) of niet. 
+Het voordeel van deze manier van versioneren is dat het versienummer signaleert of een implementatie van een bepaalde versie van de standaard voldoet aan een andere (nieuwe) versie van de standaard of dat er sprake is van nieuwe / gewijzigde regels waar aktie op moet worden ondernomen om compliant te blijven aan deze nieuwe versie.
 
 De beschreven methodiek is van toepassing op de standaarden die Logius in beheer heeft. In de tekst worden Digikoppeling standaarden als voorbeeld aangehaald maar semantische versienummering is ook op de andere standaarden van toepassing.
 
@@ -11,9 +14,9 @@ Per document wordt met `[documentnaam] X.Y.Z` de versie aangegeven.
 Met `X.Y.Z` wordt gerefereerd aan major (X) en minor (Y) releases en (Z) patches,
 dit wordt hieronder toegelicht.
 
-* MAJOR wordt verhoogd als de nieuwe versie van de standaard zodanig wijzigt dat uitwerkingen (implementaties) volgens de vorige versie van de standaard niet meer voldoen aan de normen/eisen van de nieuwe versie van de standaard.
-* MINOR wordt verhoogd bij wijzigingen waarbij uitwerkingen (implementaties) volgens de vorige versie van de standaard ook voldoen aan de normen/eisen van de nieuwe versie van de standaard.
 * PATCH wordt verhoogd bij correcties.
+* MINOR wordt verhoogd bij wijzigingen waarbij uitwerkingen (implementaties) volgens de vorige versie van de standaard ook voldoen aan de normen/eisen van de nieuwe versie van de standaard.
+* MAJOR wordt verhoogd als de nieuwe versie van de standaard zodanig wijzigt dat uitwerkingen (implementaties) volgens de vorige versie van de standaard niet meer voldoen aan de normen/eisen van de nieuwe versie van de standaard.
 
 ### Patch Releases
 In een patchrelease worden wijzigingen doorgevoerd die de technische
@@ -26,12 +29,7 @@ Een nieuwe patchrelease vervangt een eerdere versie in zijn geheel.
 
 ### Minor releases
 Een minor release geeft aan dat de nieuwe versie van de standaard zodanig is gewijzigd dat een implementatie van de voorgaande versie van de standaard voldoet aan de regels van de nieuwe versie. In een minor release kunnen wijzigingen doorgevoerd worden die de technische
-specificatie van een koppelvlak raken. Dat kunnen fouten zijn in de specificatie
-zijn of bv het verlichten van een restrictie. In de SEMVER aanpak voor software zijn
-minor releases technisch backwards compatible. Voor de uitwisselingsstandaarden zoals
-Digikoppeling is backwards compatibility lastiger te bepalen omdat uiteindelijk
-twee partijen met elkaar moeten meebewegen.
-**Minor Releases kunnen dus mogelijk technisch backwards incompatible zijn**.
+specificatie van een koppelvlak raken (bijvoorbeeld nieuwe functionaliteit). 
 Voor Minor Releases wordt een uitgebreid vaststellingsprocedure gevolgd
 (conform het beheermodel van de standaard) en er kan in overleg met de deelnemers
 van het Technisch Overleg tot een migratiepad worden besloten. Dit migratiepad
@@ -60,16 +58,8 @@ Een  versie van een standaard (versie 1.2.0) is compatible met een eerdere versi
 Wijzigingen in de standaard kunnen impact hebben op de technische werking van implementaties en/of op afspraken die de technische werking van implementaties niet raken bijvoorbeeld organisatorische of proces afspraken;
 
 Voor standaarden is relevant of een realisatie volgens de oude versie van een standaard wel of niet voldoet aan de nieuwe versie van de standaard;
-Globale regels voor het bepalen van de impact op de versionering:
 
-- Toevoegen = Major
-- Wijzigingen = Major of Minor (afhankelijk van de verwachte impact van de wijziging)
-- Verwijderen = Minor
-- Correctie = Patch
-
-Voor standaarden waarbij wijzigingen op onderdelen kan verschillen tussen 
-major en minor kan een impactmatrix opgesteld worden waarmee impact op de 
-onderdelen gespecificeerd kan worden.
+Voor standaarden waarbij wijzigingen op onderdelen kan verschillen tussen major en minor kan een impactmatrix opgesteld worden waarmee impact op de onderdelen gespecificeerd kan worden.
 
 ## Versie overgangen
 
