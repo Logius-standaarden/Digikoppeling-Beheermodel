@@ -123,14 +123,14 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
     toepassingsgebied.
 
 ### Impact van wijzigingen en versienummering
-Afhankelijk van de impact van een wijziging of patch krijgt een release een nieuwsversienummer. Het versienummerbeheer volgt principes voor semantische versienummering [en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
+Afhankelijk van de impact van een wijziging of patch krijgt een release een nieuw versienummer. Het versienummerbeheer volgt principes voor semantische versienummering [en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
 
 De impact van een wijziging kan verschillen per koppelvlakspecificatie. Voor de standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmatrix_ opgesteld:
 
 | Standaard                  | Major                                                        | Minor                                                        | Patch      |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
 | Niet normatieve documenten | fundamentele wijzigingen                                     | tekstuele wijzigingen of verwijderingen                      | correcties |
-| Normatieve documenten      | fundamentele wijzigingen in de eisen die aanpassing van alle implementaties vereisen | technische wijzigingen of verwijderingen die *<u>geen</u>* aanpassing van de huidige implementaties vereisen | correcties |
+| Normatieve documenten      | fundamentele wijzigingen in de eisen die aanpassing van huidige implementaties vereisen | technische wijzigingen of verwijderingen die *<u>geen</u>* aanpassing van de huidige implementaties vereisen | correcties |
 | OIN, stelsel               | toevoegingen, wijzigingen                                    | verwijderingen                                               | correcties |
 | OIN, nummers               | fundamentele wijzigingen                                     | het toevoegen of laten vervallen van nummers                 | nvt        |
 
