@@ -1,119 +1,158 @@
 # Inleiding
+Het beheer van de Digikoppeling-standaard omvat het geheel van
+processen, besturing, organisatie, informatievoorziening en
+hulpmiddelen die noodzakelijk zijn om gebaseerd op open standaarden
+Digikoppeling als open standaard in stand te houden, te
+onderhouden en door te ontwikkelen. Het beheer van Digikoppeling is
+gebaseerd op de principes uit de BOMOS standaard.
 
-<aside class="note">
+## Leeswijzer
+De Digikoppeling standaarden zijn beschreven in een set van documenten.
+Deze set is als volgt opgebouwd:
 
-Dit document is op een aantal delen verouderd.
+![Opbouw documentatie Digikoppeling](images/DK_Specificatie_structuur.png "Opbouw documentatie Digikoppeling")
 
-- Na het vertrek van de `Digicommissaris` in 2018, en daarmee de `Regieraden` en het `Afnemersoverleg Stelseldiensen` zijn er gremia opgericht die hun rol konden vervangen. Er wordt echter op dit moment gewerkt aan een bestuursoverleg over Standaarden. Logius Beheer Digikoppeling wacht deze ontwikkeling af en zal dit document aanpassen als hierover meer duidelijkheid bestaat.
-- Sommige wijzigingen en ontwikkelingen binnen de DIgikoppeling standaarden worden nog niet vermeld.
-- Sommige begrippen, afbeeldingen en referenties in dit document zijn verouderd of tonen een situatie die inmiddels is gewijzigd.
+<details>
+    <summary>Tekstalternatief</summary>
+<ul>
+	<li>Digikoppeling Standaard
+		<ul>
+			<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/beheer/">DK Beheermodel en releasebeleid</a>* </li>
+			<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/actueel/">DK Overzicht Actuele Documentatie en Compliance</a>* </li>
+			<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/architectuur">DK Architectuur</a>*
+				<ul>
+					<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/idauth/">DK Identificatie en Authenticatie</a>*
+						<ul>
+							<li><i> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/gbachtcert/">Digikoppeling Gebruik en Achtergronden Certificaten</a></i>† </li>
+						</ul>
+					</li>
+					<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/beveilig/">DK Beveiligingsstandaarden en voorschriften</a>* </li>
+					<li>Koppelvlakstandaarden
+						<ul>
+							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/wus/">DK Koppelvlakstandaard WUS</a>*
+								<ul>
+									<li><i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpwus">Best-practice WUS</a></i>† </li>
+								</ul>
+							</li>
+							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/ebms/">DK Koppelvlakstandaard ebMS2</a>*
+								<ul>
+									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpebms">Best-practice ebMS2</a></i>† </li>
+								</ul>
+							</li>
+							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/restapi/">DK Koppelvlakstandaard REST API</a>*
+							</li>
+							<li> <a href="https://publicatie.centrumvoorstandaarden.nl/dk/gb/">DK Koppelvlakstandaard Grote Berichten</a>*
+								<ul>
+									<li> <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/bpgb">Best-practice Grote Berichten</a></i>†</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li>
+    <i><a href="https://publicatie.centrumvoorstandaarden.nl/dk/watisdk/">Wat is Digikoppeling</a></i>†
+  </li>
+		</ul>
+	</li>
+</ul>
+<p>* Normatief document</p>
+<p>† Ondersteunend document</p>
+</details>
 
-</aside>
+Alle met de kleur groen aangegeven documenten vallen onder het beheer
+zoals geformaliseerd in het Beheermodel en releasebeleid.
 
-## Achtergrond
+De Digikoppeling Koppelvlakstandaarden bevatten meerdere profielen
+waarin een samenhangend interactiepatroon voor berichtuitwisseling is
+beschreven<sup>2</sup>.
 
-De Nederlandse Overheid Referentie Architectuur (NORA) positioneert Digikoppeling als de logistieke laag voor standaardisatie van communicatie tussen systemen bij overheidsorganisatie op basis van webservice standaarden. Digikoppeling is daardoor een laag die zich bevindt tussen het transportnetwerk (b.v. Diginetwerk of Internet) en de applicatielaag (functionele berichtinhoud). De systemen die Digikoppeling gebruiken zijn zowel frontoffice-systemen (die interactie met burgers en bedrijven afhandelen) als systemen van andere overheden en in het bijzonder de basisregistraties (zie onderstaand figuur).
+<sup>2</sup>: Een Digikoppeling service (Service Provider en Service
+Requester) werkt altijd volgens een vooraf bepaald profiel voor
+berichtenuitwisseling volgens een Koppelvlakstandaard.
 
-![Systemen die DIgikoppeling gebruiken](media/DK_Systemen_die_Digikoppeling_gebruiken.png "Systemen die DIgikoppeling gebruiken")
+"Gebruik en achtergrond Digikoppeling-certificaten" en de Best
+Practice documenten zullen blijvend beheerd worden, maar volgens
+afwijkende procedures. Deze documenten vereisen niet dezelfde strikte
+besluitvorming aangezien zij een toelichting vormen bij de
+Koppelvlakstandaarden en architectuur.
 
-Doel van Digikoppeling is om door vergaande standaardisatie de interoperabiliteit tussen overheden te bevorderen. Als de 'envelop' van de 'berichten' is gestandaardiseerd kan ieder voorzieningen voor postverzending inrichten die onafhankelijk zijn van de berichten in de 'envelop'.
+Het beheer heeft ook betrekking op de bij de Digikoppeling-familie
+behorende documenten, bestanden en voorzieningen, zoals nieuws en
+persberichten, factsheets, presentaties, opleidingsmateriaal,
+relatiegegevens van Digikoppeling participanten. Het beheer hiervan
+vraagt echter ook een minder formele besluitvormingsprocedure.
 
-De Digikoppeling standaard is door het College Standaardisatie<sup>1</sup> in november 2007 geselecteerd als standaard voor het Comply-or-Explain regime en in mei 2009 opnieuw bekrachtigd. Het College stelde ook als eis dat een beheerproces voor een goed te keuren standaard is ingericht. Dit document beschrijft deze inrichting.
+Bij de Digikoppeling horen de volgende ondersteunende hulpmiddelen en
+ICT voorzieningen:
 
-<sup>1</sup>: Het College Standaardisatie is begin 2018 voortgezet in het Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO).
+- Digikoppeling OIN Register en het hieraan gekoppelde CPA-register,
 
-De Digikoppeling-standaard is binnen de overheid in gebruik bij diverse organisaties, samenwerkingsverbanden en/of ketens. Een groot aantal ICT leveranciers biedt ondersteuning aan de voor Digikoppeling benodigde open standaarden (WUS, ebMS, https) in hun producten en dienstverlening. De Digikoppeling standaard heeft de zich afgelopen tijd ontwikkeld tot een volwassen standaard die in een grote en brede community wordt ontwikkeld. Bij het beheer van de Digikoppeling-standaard zijn veel verschillende organisaties betrokken uit de gehele eOverheid. De voornaamste organisaties zijn ministeries, Manifestpartijen, houders van basisregistraties en landelijke voorzieningen, ketenpartijen, ICT leveranciers en gemeenten via KING. Opdrachtgever voor Digikoppeling is het Ministerie van BZK.
+- Digikoppeling Compliance Voorzieningen (WUS, ebMS2, grote berichten),
 
-Omdat de Digikoppeling standaard steeds meer en breder wordt gebruikt, is het noodzakelijk dat het beheer en onderhoud voor alle belang-hebbenden inzichtelijk en transparant is, duidelijk belegd is en de doorontwikkeling releasematig plaatsvindt. Dit document geeft hier invulling aan en beschrijft het beheermodel voor de Digikoppeling-standaarden.
+Het beheer over deze voorzieningen is in bestaande beheerprocedures
+van Logius ondergebracht.
 
-In dit beheermodel komen de volgende onderwerpen aan bod:
+### Bijlagen
+Practische aspecten van het beheer, zoals de gebruikte applicaties
+en webservices zijn opgenomen in bijlagen van dit document.
+De bijlagen zijn niet specifiek voor Digikoppeling maar zijn relevant
+voor alle standaarden onder beheer bij Logius.
 
-- Scope van het beheer, de te beheren objecten van Digikoppeling;
+## Digikoppeling
+Digikoppeling vormt de logistieke laag voor standaardisatie van
+communicatie tussen systemen bij overheidsorganisatie op basis van
+webservice standaarden. Digikoppeling is daardoor een laag die zich
+bevindt tussen het transportnetwerk (b.v. Diginetwerk of Internet)
+en de applicatielaag (functionele berichtinhoud). De systemen die
+Digikoppeling gebruiken zijn zowel systemen toegepast worden voor
+interactie van burgers met overheden als voor systemen die berichtenverkeer
+tussen overheden afhandelen. Be berichtenverkeer gaat het hierbij vooral
+om berichten rondom de basisregistraties.
 
-- Releasebeleid;
+De Digikoppeling-standaard is binnen de overheid in gebruik bij
+diverse organisaties, samenwerkingsverbanden en/of ketens.
+Een groot aantal ICT leveranciers biedt ondersteuning aan de voor
+Digikoppeling benodigde open standaarden (WUS, ebMS, HTTPS)
+in hun producten en dienstverlening. De Digikoppeling standaard
+heeft de zich afgelopen tijd ontwikkeld tot een volwassen standaard
+die in een grote en brede community wordt ontwikkeld. Bij het
+beheer van de Digikoppeling-standaard zijn veel verschillende
+organisaties betrokken uit de gehele Digitale Overheid.
+De voornaamste organisaties zijn ministeries, Manifestpartijen,
+houders van basisregistraties en landelijke voorzieningen,
+ketenpartijen, ICT leveranciers en gemeenten via de VNG.
+Opdrachtgever voor Digikoppeling is het Ministerie van BZK.
 
-- Organisatie, participatievormen, processen voor het beheer en onderhoud;
+### Nut
+Doel van Digikoppeling is om door vergaande standaardisatie de
+interoperabiliteit tussen overheden te bevorderen.
+Als de 'envelop' van de 'berichten' is gestandaardiseerd kan
+ieder voorzieningen  voor postverzending inrichten die
+onafhankelijk zijn van de berichten in de 'envelop'.
 
-- Informatievoorziening t.b.v. belanghebbenden inclusief communicatie en publicatie.
+De systemen die Digikoppeling gebruiken zijn zowel
+frontoffice-systemen (die interactie met burgers en bedrijven
+  afhandelen) als systemen van andere overheden en in het
+bijzonder de basisregistraties (zie onderstaand figuur).
 
-Voor het opstellen van dit document is zoveel mogelijk aangesloten bij het beheermodel van StUF om de eenvormigheid van beheerprocessen bij de eOverheid te bevorderen.
+### Werking
+De Digikoppeling Koppelvlakstandaarden bevatten meerdere profielen
+waarin een samenhangend interactiepatroon voor berichtuitwisseling is
+beschreven<sup>2</sup>.
 
-## Doel van document
+<sup>2</sup>: Een Digikoppeling service (Service Provider en Service
+Requester) werkt altijd volgens een vooraf bepaald profiel voor
+berichtenuitwisseling volgens een Koppelvlakstandaard.
 
-Dit document beschrijft het beheermodel voor de Digikoppeling-standaarden. Het geeft alle belanghebbenden inzicht in het releasebeleid, in de wijze waarop het beheer van Digikoppeling is belegd, hoe het proces van wijzigen en releaseplanning van de Digikoppeling standaard eruit ziet en hoe de besluitvorming en participatie is georganiseerd. Daarnaast komen aanvullende onderwerpen aan de orde zoals release-nummering en de publicatie en informatievoorziening rond Digikoppeling.
+### Status
+Digikoppeling is opgenomen op de _pas toe of leg_ uit lijst van het Forum 
+Standaardisatie.
 
-Door dit inzicht kunnen de belanghebbenden beter rekening houden met en gebruik maken van de Digikoppeling standaard. Voor sommige belanghebbenden, zoals basisregistraties en andere informatieleveranciers binnen de eOverheid, is dit beheermodel van belang voor de planning van hun ontwikkeling en onderhoud. Maar ook ICT-leveranciers zullen, ieder op hun eigen manier, rekening moeten houden met het beheermodel om ondersteuning te kunnen leveren aan de betrokken overheidsorganisaties.
+## BOMOS
+Het activiteitendiagram toont welke lagen het model onderscheidt en welke activiteiten daarbinnen onderscheiden worden. De lagen en de ondersteunende
+activiteiten worden elk in een hoofdstuk besproken.
 
-In Hoofdstuk 2 is het beheer op hoofdlijnen beschreven. Daarin komen aan de orde: de afbakening van het beheer; de verschillende belanghebbenden; de structuur van participatie en ondersteuning en het releasebeleid.
+![BOMOS activiteitendiagram](images/bomos_activiteiten.png "BOMOS activiteitendiagram")
 
-In Bijlage A zijn de beheer- en onderhoudsprocessen beschreven; in Bijlage B de informatievoorziening rond de Digikoppeling standaard en in Bijlage C het gehanteerde begrippenkader. Tot slot komt in Bijlage D en E een aantal overige onderwerpen aan de orde.
-
-## Doelgroep van dit document
-
-| Afkorting | Rol                             | Taak                                                                                                       | Doelgroep? |
-|-----------|---------------------------------|------------------------------------------------------------------------------------------------------------|------------|
-| [MT]      | Management                      | Bevoegdheid om namens organisatie (strategische) besluiten te nemen.                                       | Ja     |
-| [PL]      | Projectleiding                  | Verzorgen van de aansturing van projecten.                                                                 | Ja     |
-| [A&D]     | Analyseren & ontwerpen (design) | Analyseren en ontwerpen van oplossings-richtingen. Het verbinden van Business aan de IT.                   | Ja     |
-| [OT&B]    | Ontwikkelen, testen en beheer   | Ontwikkelt, bouwt en configureert de techniek conform specificaties. Zorgen voor beheer na ingebruikname.  | Ja     |
-
-## Bijdragen
-
-Onderstaande personen hebben bijgedragen aan de totstandkoming van dit beheermodel:
-
-- Tom Peelen, Logius stelselarchitect
-
-- Peter Klaver, EGEM i-teams
-
-- Peter Leijnse, Logius
-
-- Egon Velders, BKWI
-
-- Frans van Diepen, LNV
-
-- Marcel Reuvers, GeoNovum
-
-In de review-fase van het beheermodel is een belangrijke bijdrage geleverd door de volgende leden van het Technisch Overleg Digikoppeling:
-
-- Sylvia Majdoubi, Kamers van Koophandel,
-
-- Hans Lussing, ICTU/OverheidsDienstenPlatform,
-
-- Paul Schlotter Logius,
-
-- Jan Moggré, UWV,
-
-- Bram Gaakeer, ministerie van OCW,
-
-- Tom Vijlbrief, Kadaster,
-
-- Maarten van den Broek, Waarderingskamer,
-
-- Frans van Diepen, ministerie van LNV,
-
-- Geurt-Jan van Renswoude, ICTU/eFormulieren,
-
-- Hugo Heitmeijer, Belastingdienst,
-
-- Tom Peelen, Logius stelselarchitect
-
-Bij de toetsing met Bomos2i is een belangrijke bijdrage geleverd door:
-
-- Marijke Salters, Logius Centrum voor Standaarden
-
-- Lia van der Knijff, Logius projectleider Digikoppeling
-
-- Tom Peelen, Logius stelselarchitect
-
-## Licentie en patentrechten
-
-Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 3.0 Unported licentie.
-
-![Creative Commons Naamsvermelding 3.0 Unported licentie](media/CC_Logo3.0.png "Creative Commons Naamsvermelding 3.0 Unported licentie")
-
-Meer informatie over de precieze voorwaarden van deze licentie vindt u op de website van Creative Commons http://creativecommons.nl/ en specifiek voor deze licentie een samenvatting onder http://creativecommons.org/licenses/by/3.0/deed.nl en de volledige licentietekst onder http://creativecommons.org/licenses/by/3.0/legalcode.
-
-Dit werk en de specificaties van de Digikoppeling-standaard worden royaltee-free ter beschikking gesteld. Organisaties en personen die bijdragen aan Digikoppeling dienen hun bijdragen vrij te geven zodanig dat hieraan voldaan kan worden. Door bij te dragen aan Digikoppeling verklaren zij hiermee in te stemmen.
-
-Uitgesloten van alle bovenstaande zijn rechten verbonden aan de standaarden, profielen en andere onderdelen waar Digikoppeling gebruik van maakt. Hierop zijn de rechten van de betreffende standaarden, profielen en andere onderdelen zelf van toepassing.
-
+Voor meer details of BOMOS verwijzen we naar de documentatie: [BOMOS, het fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS, de verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
