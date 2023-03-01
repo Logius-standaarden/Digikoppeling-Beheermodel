@@ -7,7 +7,7 @@ van de Digiikoppeling overleggen en governance.
 Links naar de gerespecte versies van dit document:
 - html: https://logius-standaarden.github.io/Digikoppeling-Beheermodel/
 - html(static): https://logius-standaarden.github.io/Digikoppeling-Beheermodel/snapshot.html
-- PDF-versie: [Digikoppeling-Beheermodel.pdf](https://github.com/Logius-standaarden/Logius-beheermodel/blob/develop/Digikoppeling-Beheermodel.pdf)
+- PDF-versie: [Digikoppeling-Beheermodel.pdf](https://logius-standaarden.github.io/Digikoppeling-Beheermodel/Digikoppeling-Beheermodel.pdf)
 
 Te doen in deze branch:
 - [x] BOMOS als kader
