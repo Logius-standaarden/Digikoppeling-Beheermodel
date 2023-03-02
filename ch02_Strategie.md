@@ -15,8 +15,10 @@ organisaties. Deze doelstelling wordt onderschreven door een breed
 scala aan partijen die deelnemen aan het xxx Kennisplatform, waar de
 ontwikkeling van de standaard zijn oorsprong heeft, en is bestendigd
 door Forum Standaardisatie en het OverheidsBrede Beleidsoverhed
-Digitale Overheid (OBDO), die de Digikoppeling standaard hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met andere standaarden die
-interoperabiliteit bevorderen [zie ook de basisinformatie van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/basisinformatie).
+Digitale Overheid (OBDO), die de Digikoppeling standaard hebben 
+opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met andere 
+standaarden die interoperabiliteit bevorderen 
+[zie ook de basisinformatie van het Forum Standaardisatie](https://www.forumstandaardisatie.nl/basisinformatie).
 
 ## Governance
 Bij het beheer van een open standaard hoort een open governance en een
@@ -68,7 +70,7 @@ is vrij voor eenieder die een belang heeft bij de standaard
 Dit gremium is verantwoordelijk voor het vaststellen van de
 doorontwikkel-roadmap, het vaststellen van minor releases van de
 standaard en dient als het voorportaal van het
-strategisch/besluitvormende gremium: het OBDO.
+strategisch/besluitvormende gremium: de Programmeringssraad GDI.
 
 Binnen de MIDO structuur heeft de programmeringstafel Gegevensuitwisseling
 de rol van tactisch overleg.
