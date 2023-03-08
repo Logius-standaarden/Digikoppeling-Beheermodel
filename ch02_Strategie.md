@@ -108,7 +108,7 @@ In tabelvorm:
 De architectuurboard van de MIDO governance maakt geen deel uit van het
 Digikoppeling beheerproces. Wel kan de beheerder advies vragen over een
 wijzigingsvoorstel. Dit kan gevraagd worden op eigen initiatief of op
-initiatief van het Technisch Overleg)
+initiatief van het Technisch Overleg.
 
 ### Besluitvorming
 In alle overleggremia vindt besluitvorming plaats op basis van
@@ -128,8 +128,7 @@ deze zeer kleine wijzigingen aangeduid als _patch releases_.
 Voor andere  wijzigingen is een formeel besluit nodig van één van de
 Digikoppeling gremia. Voor middelgrote wijzingen (_minor releases_) kan
 dit door het Technisch Overleg besloten worden. Voor grote wijzigingen
-(_major releases_) is altijd een besluit van het ODBO of de
-Programmingsraad GDI nodig.
+(_major releases_) is altijd een besluit van de Programmingsraad GDI nodig.
 
 ### Deelname
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
