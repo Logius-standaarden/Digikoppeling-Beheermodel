@@ -156,6 +156,6 @@ bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
 Logius de aanvraag.
 
 ## Financiering
-Het beheer van de Digikoppeling standaard wordt gefinancieerd door het
+Het beheer van de Digikoppeling standaard wordt gefinancierd door het
 ministerie van BZK in het kader van de financiering van Logius
 dienstverlening.
