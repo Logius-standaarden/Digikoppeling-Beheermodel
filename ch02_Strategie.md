@@ -91,7 +91,7 @@ wordt. Bijvoorbeeld een voorstel tot ingrijpende wijziging zoals het overgaan
 naar een nieuwe (onderliggende) standaard kan in het strategisch overleg
 goedgekeurd worden.
 
-De beheerorganisatie werk goedgekeurde voorstellen uit en neemt deze op in 
+De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
 een vast te stellen nieuwe versie.
 
 ##### Besluitvorming: OBDO
