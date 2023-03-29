@@ -81,7 +81,7 @@ die deel uitmaakt van de agenda van het overleg.
 #### Het Strategisch overleg: De Programmeringsraad GDI
 
 In de MIDO structuur heeft de Programmeringsraad GDI 
-een rol te geven in het strategisch beheer van standaarden.
+een rol in het strategisch beheer van standaarden.
 
 Het strategisch overleg keurt voorstellen tot wijziging goed op basis van 
 adviezen van het technisch overleg, het tactisch overleg en het advies van de
