@@ -67,30 +67,44 @@ is vrij voor eenieder die een belang heeft bij de standaard
 [De agenda en stukken van het Technisch overleg zijn openbaar.](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling)
 
 #### Tactisch/strategisch overleg: de programmeringstafel
-Dit gremium is verantwoordelijk voor het vaststellen van de
-doorontwikkel-roadmap, het vaststellen van major/minor releases van de
-standaard en dient als het voorportaal van het
-strategisch/besluitvormende gremium: de Programmeringssraad GDI.
+
+Dit overleg is verantwoordelijk voor het goedkeuren van de
+roadmap voor doorontwikkeling van de standaard, het goedkeuren 
+van major/minor releases van de standaard en dient als het 
+voorportaal van het strategische overleg en het besluitvormende overleg.
 
 Binnen de MIDO structuur heeft de programmeringstafel Gegevensuitwisseling
 de rol van tactisch overleg.
 [Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
 die deel uitmaakt van de agenda van het overleg.
 
-#### Het besluitvormend en strategisch overleg: De Programmeringsraad GDI
+#### Het strategisch overleg: De Programmeringsraad GDI
 
-De MIDO structuur biedt de mogelijkheid om de
-Programmeringsraad GDI te laten besluiten over de standaarden.
-Wijzigingen worden indien nodig ter informatie aan het Overheidsbreed 
-Beleidsoverleg Digitale Overheid (OBDO) voorgelegd.
+De MIDO structuur biedt de mogelijkheid om de Programmeringsraad GDI 
+een rol te geven in het strategisch beheer van standaarden.
 
-Het strategisch overleg neemt besluiten op basis van adviezen van de
-tactisch en strategische overleggen en het advies van de
-beheerorganisatie. Daarnaast kan het strategisch overleg een
-richtinggevend besluit nemen wat aan de beheerorganisatie voorgelegd
-wordt. Bijvoorbeeld een ingrijpende wijziging zoals het overgaan naar
-een nieuwe (onderliggende) standaard kan in het strategisch overleg
-besloten worden.
+Het strategisch overleg keurt voorstellen tot wijziging goed op basis van 
+adviezen van het technisch overleg, het tactisch overleg en het advies van de
+beheerorganisatie. Daarnaast keurt het strategisch overleg de door de 
+stakeholders voorgestelde richting goed die aan de beheerorganisatie voorgelegd
+wordt. Bijvoorbeeld een voorstel tot ingrijpende wijziging zoals het overgaan
+naar een nieuwe (onderliggende) standaard kan in het strategisch overleg
+goedgekeurd worden.
+
+De beheerorganisatie werk goedgekeurde voorstellen uit en neemt deze op in 
+een vast te stellen nieuwe versie.
+
+##### Besluitvorming: OBDO
+
+De tactische en strategische overleglagen in de Digikoppeling governance
+zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
+Overheidsbreed Beleidsoverleg Digitale overheid (OBDO).
+
+De beheerorganisatie bereidt besluitvorming in het OBDO voor door goedgekeurde
+voorstellen tot wijziging te bundelen tot een nieuwe versie, een release, 
+van de standaard. Het OBDO hoeft dus geen besluit te nemen over iedere voorgestelde 
+wijziging maar neemt een besluit over een geagregeerd pakket aan wijzigingen als 
+nieuwe versie.
 
 In tabelvorm:
 
