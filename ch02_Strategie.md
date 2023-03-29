@@ -138,10 +138,7 @@ zonder formele beslissing door het besluitvormend overleg. In de
 [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
 deze zeer kleine wijzigingen aangeduid als _patch releases_.
 
-Voor andere  wijzigingen is een formeel besluit nodig van één van de
-Digikoppeling gremia. Voor middelgrote wijzigingen (_minor releases_) kan
-dit door het Technisch Overleg besloten worden. Voor grote wijzigingen
-(_major releases_) is altijd een besluit van de Programmingsraad GDI nodig.
+Voor andere wijzigingen is altijd een besluit van het OBDO nodig (op basis van advies van Programmeringsraad/Programmeringstafel).
 
 ### Deelname
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door

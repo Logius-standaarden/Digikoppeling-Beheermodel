@@ -1,6 +1,6 @@
 # Tactiek
 
-Tactische aspecten van het beer van de Digikoppeling standaard omvat
+Tactische aspecten van het beheer van de Digikoppeling standaard omvatten
 de open invulling, samenhang met andere standaarden, het stimuleren 
 van het gebruik van de standaard en tot slot het kwaliteitsbeleid.
 
