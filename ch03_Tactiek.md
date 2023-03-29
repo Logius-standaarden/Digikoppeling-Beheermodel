@@ -74,8 +74,7 @@ stuurt het dan volgens eDelivery door naar een organisatie in een andere
 lidstaat of naar een gateway in een lidstaat, die het vervolgens doorstuurt
 naar die overheid. Organisaties in verschillende lidstaten hebben natuurlijk
 de mogelijkheid om direct berichten uit te wisselen zonder gebruik te maken
-van het four corner model. eDelivery is dus niet zozeer een alternatief voor
-Digikoppeling. Beide standaarden vullen elkaar aan.
+van het four corner model. 
 </aside>
 
 ### Samenwerking met andere beheerorganisaties
@@ -86,14 +85,18 @@ Digikoppeling onderdelen.
 1. Basisstandaarden als WUS, ebMS en HTTP. Deze worden beheerd door
    standaardisatieorganisaties als **OASIS** en **W3C** (zie boven).
 
-2. De Digikoppeling-standaard volgt de Nederlandse Overheid Referentie
+2. Koppelvlakstandaarden worden waar mogelijk geharmoniseerd met internationale 
+   (EU) standaarden. Hiervoor volgen we onder meer de standaarden en bouwstenen 
+   van EU DIGIT.
+
+3. De Digikoppeling-standaard volgt de Nederlandse Overheid Referentie
    Architectuur (NORA).
 
-3. De Digikoppeling-standaard en in het bijzonder "Gebruik en
+4. De Digikoppeling-standaard en in het bijzonder "Gebruik en
    achtergrond Digikoppeling-certificaten" sluiten aan bij de
    PKI.Overheid.
 
-4. Logius deelt ervaringen met het beheer van standaarden zoals Digikoppeling
+5. Logius deelt ervaringen met het beheer van standaarden zoals Digikoppeling
    met andere standaardenorganisaties binnen het BOMOS _Klankbordoverleg_.
 
 ## Rechtenbeleid
@@ -110,7 +113,7 @@ licentietekst onder
 http://creativecommons.org/licenses/by/3.0/legalcode.
 
 Dit werk en de specificaties van de Digikoppeling-standaard worden
-royaltee-free ter beschikking gesteld. Organisaties en personen die
+royalty free ter beschikking gesteld. Organisaties en personen die
 bijdragen aan Digikoppeling dienen hun bijdragen vrij te geven zodanig
 dat hieraan voldaan kan worden. Door bij te dragen aan Digikoppeling
 verklaren zij hiermee in te stemmen.
