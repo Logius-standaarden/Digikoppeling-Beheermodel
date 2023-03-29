@@ -66,7 +66,7 @@ is vrij voor eenieder die een belang heeft bij de standaard
 
 [De agenda en stukken van het Technisch overleg zijn openbaar.](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling)
 
-#### Tactisch/strategisch overleg: de programmeringstafel
+#### Tactisch overleg: De Programmeringstafel
 
 Dit overleg is verantwoordelijk voor het goedkeuren van de
 roadmap voor doorontwikkeling van de standaard, het goedkeuren 
