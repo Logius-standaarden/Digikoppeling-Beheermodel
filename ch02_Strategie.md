@@ -78,7 +78,7 @@ de rol van tactisch overleg.
 [Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
 die deel uitmaakt van de agenda van het overleg.
 
-#### Het strategisch overleg: De Programmeringsraad GDI
+#### Het Strategisch overleg: De Programmeringsraad GDI
 
 De MIDO structuur biedt de mogelijkheid om de Programmeringsraad GDI 
 een rol te geven in het strategisch beheer van standaarden.
