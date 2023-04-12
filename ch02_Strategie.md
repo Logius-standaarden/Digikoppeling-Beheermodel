@@ -98,12 +98,12 @@ een vast te stellen nieuwe versie.
 
 De tactische en strategische overleglagen in de Digikoppeling governance
 zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
-Overheidsbreed Beleidsoverleg Digitale overheid (OBDO).
+Overheidsbreed Beleidsoverleg Digitale Overheid (OBDO).
 
 De beheerorganisatie bereidt besluitvorming in het OBDO voor door goedgekeurde
 voorstellen tot wijziging te bundelen tot een nieuwe versie, een release, 
 van de standaard. Het OBDO hoeft dus geen besluit te nemen over iedere voorgestelde 
-wijziging maar neemt een besluit over een geagregeerd pakket aan wijzigingen als 
+wijziging maar neemt een besluit over een geaggregeerd pakket aan wijzigingen als 
 nieuwe versie.
 
 In tabelvorm:
@@ -132,7 +132,7 @@ het OBDO gevraagd worden om een besluit, uiteindelijk heeft de voorzitter
 van het OBDO (ministerie van BZK) de beslissende stem.
 
 Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende
-niveau's. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de beheerorganisatie
+niveaus. Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de beheerorganisatie
 gemandateerd. De beheerorganisatie mag deze wijzigingen zelf doorvoeren
 zonder formele beslissing door het besluitvormend overleg. In de
 [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
@@ -165,7 +165,7 @@ besluitvormingsproces:
 
 Personen/partijen die willen deelnemen aan het Technisch Overleg
 kunnen contact opnemen met Logius waarin zij aangeven wat hun belang is
-bij de standaard. Met inachtneming van bovenstaande punten, beoordeeld
+bij de standaard. Met inachtneming van bovenstaande punten, beoordeelt
 Logius de aanvraag.
 
 ## Financiering
