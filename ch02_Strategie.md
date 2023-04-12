@@ -143,7 +143,7 @@ Voor andere wijzigingen is altijd een besluit van het OBDO nodig (op basis van a
 ### Deelname
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
-kunnen op vier manieren participeren aan het wijzigings- en
+kunnen op vijf manieren participeren aan het wijzigings- en
 besluitvormingsproces:
 
 1.  Als lid van de Community. Omdat Digikoppeling open beheerd wordt
@@ -161,6 +161,7 @@ besluitvormingsproces:
     1. Stakeholders van de Logius Gegevensuitwisselingsdiensten worden
        uitgenodigd.
 4.  Als lid van de Programmeringsraad GDI.
+5.  Als lid van het OBDO.
 
 Personen/partijen die willen deelnemen aan het Technisch Overleg
 kunnen contact opnemen met Logius waarin zij aangeven wat hun belang is
