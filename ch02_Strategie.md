@@ -66,31 +66,45 @@ is vrij voor eenieder die een belang heeft bij de standaard
 
 [De agenda en stukken van het Technisch overleg zijn openbaar.](https://github.com/Logius-standaarden/Overleg/tree/main/Digikoppeling)
 
-#### Tactisch/strategisch overleg: de programmeringstafel
-Dit gremium is verantwoordelijk voor het vaststellen van de
-doorontwikkel-roadmap, het vaststellen van major/minor releases van de
-standaard en dient als het voorportaal van het
-strategisch/besluitvormende gremium: de Programmeringssraad GDI.
+#### Tactisch overleg: De Programmeringstafel
+
+Dit overleg is verantwoordelijk voor het goedkeuren van de
+roadmap voor doorontwikkeling van de standaard, het goedkeuren 
+van major/minor releases van de standaard en dient als het 
+voorportaal van het strategische overleg en het besluitvormende overleg.
 
 Binnen de MIDO structuur heeft de programmeringstafel Gegevensuitwisseling
 de rol van tactisch overleg.
 [Voor de programmeringstafel maakt Logius een deelagenda over standaarden](https://github.com/Logius-standaarden/Overleg/tree/main/Programmeringstafels/Gegevensuitwisseling)
 die deel uitmaakt van de agenda van het overleg.
 
-#### Het besluitvormend en strategisch overleg: De Programmeringsraad GDI
+#### Het Strategisch overleg: De Programmeringsraad GDI
 
-De MIDO structuur biedt de mogelijkheid om de
-Programmeringsraad GDI te laten besluiten over de standaarden.
-Wijzigingen worden indien nodig ter informatie aan het Overheidsbreed 
-Beleidsoverleg Digitale Overheid (OBDO) voorgelegd.
+In de MIDO structuur heeft de Programmeringsraad GDI 
+een rol in het strategisch beheer van standaarden.
 
-Het strategisch overleg neemt besluiten op basis van adviezen van de
-tactisch en strategische overleggen en het advies van de
-beheerorganisatie. Daarnaast kan het strategisch overleg een
-richtinggevend besluit nemen wat aan de beheerorganisatie voorgelegd
-wordt. Bijvoorbeeld een ingrijpende wijziging zoals het overgaan naar
-een nieuwe (onderliggende) standaard kan in het strategisch overleg
-besloten worden.
+Het strategisch overleg keurt voorstellen tot wijziging goed op basis van 
+adviezen van het technisch overleg, het tactisch overleg en het advies van de
+beheerorganisatie. Daarnaast keurt het strategisch overleg de door de 
+stakeholders voorgestelde richting goed die aan de beheerorganisatie voorgelegd
+wordt. Bijvoorbeeld een voorstel tot ingrijpende wijziging zoals het overgaan
+naar een nieuwe (onderliggende) standaard kan in het strategisch overleg
+goedgekeurd worden.
+
+De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
+een vast te stellen nieuwe versie.
+
+##### Besluitvorming: OBDO
+
+De tactische en strategische overleglagen in de Digikoppeling governance
+zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
+Overheidsbreed Beleidsoverleg Digitale overheid (OBDO).
+
+De beheerorganisatie bereidt besluitvorming in het OBDO voor door goedgekeurde
+voorstellen tot wijziging te bundelen tot een nieuwe versie, een release, 
+van de standaard. Het OBDO hoeft dus geen besluit te nemen over iedere voorgestelde 
+wijziging maar neemt een besluit over een geagregeerd pakket aan wijzigingen als 
+nieuwe versie.
 
 In tabelvorm:
 
@@ -98,8 +112,9 @@ In tabelvorm:
 |     ---      |    ----      |         ---          |                   ---                     |
 | **Community** (omvang beperkt) | Inhoud -- delen    | 1. Volgen van ontwikkelingen.<br/> 2. Leveren van input voor de doorontwikkeling van de standaard. |  1. Informatie m.b.t. specificaties en beheer open delen met community.<br/> 2. Deelnemen aan stuurgroep en werkgroepen |
 | Technisch Overleg (Operationeel, 4x per jaar) | Inhoud - afstemmen | 1. Inhoudelijk ontwikkelen van standaard onderdelen en bijbehorende documentatie. <br/>2. Voorbereiden van de release- planning. <br/>3. Prioriteiten stellen voor de ontwikkeling, roadmap van nieuwe releases van de standaarden.<br/> 4. Goedkeuring van aanpassingen op de standaard.<br/> 5. Advies aan programmeringstafel en -raad over wijzigingsvoorstellen. | 1. Analyseren, ontwerpen en uitwerken van specificaties. <br/>2. Volgen en beïnvloeden van aanpalende standaarden. <br/>3. Organiseren bijeenkomsten. <br/>4. Opstellen en verspreiden notulen. <br/>5. Beschikbaar stellen specificaties. |
-| Programmeringstafel | Besluitvormend - adviserend | 1. Vaststellen roadmap van de standaard.<br/> 2. Vaststellen major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
-| Programmeringsraad | Besluitvormend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2.Vaststellen beheermodel van de standaard.<br/> 3. Vaststellen externe publicaties over het standaardenbeleid en releases. | 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+| Programmeringstafel | Adviserend | 1. Goedkeuren roadmap van de standaard.<br/> 2. Goedkeuren major/minor releases van de standaard.| 1. Analyseren, ontwerpen en uitwerken van beleidszaken, (release)planning. |
+| Programmeringsraad | Adviserend | 1. Goedkeuren van grote wijzigingen: Introductie nieuwe koppelvlak standaarden en uitfasering bestaande koppelvlak standaarden. <br/> 2. Goedkeuren beheermodel van de standaard.<br/> 3. Goedkeuren externe publicaties over het standaardenbeleid en releases.<br/> 4.  Goedkeuren major/minor releases van de standaard.| 1. Advisering en inbreng via secretariaat MIDO. <br/>2. Publiceren standaarden en andere Standaard-informatie |
+| OBDO    | Besluitvormend | Besluitvorming over nieuwe releases van de standaard. | 1. Samenvoegen van geadviseerde wijzigingen in een release.<br/> 2. Toelichten geadviseerde wijzigingen in een release |
 
 ### Architectuurraad
 De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het
@@ -123,15 +138,12 @@ zonder formele beslissing door het besluitvormend overleg. In de
 [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
 deze zeer kleine wijzigingen aangeduid als _patch releases_.
 
-Voor andere  wijzigingen is een formeel besluit nodig van één van de
-Digikoppeling gremia. Voor middelgrote wijzigingen (_minor releases_) kan
-dit door het Technisch Overleg besloten worden. Voor grote wijzigingen
-(_major releases_) is altijd een besluit van de Programmingsraad GDI nodig.
+Voor andere wijzigingen is altijd een besluit van het OBDO nodig (op basis van advies van Programmeringsraad/Programmeringstafel).
 
 ### Deelname
 Uitbreidingen en aanpassingen in de Digikoppeling standaard komen tot stand door
 participatie van de verschillende belanghebbenden. Belanghebbenden
-kunnen op vier manieren participeren aan het wijzigings- en
+kunnen op vijf manieren participeren aan het wijzigings- en
 besluitvormingsproces:
 
 1.  Als lid van de Community. Omdat Digikoppeling open beheerd wordt
@@ -149,6 +161,7 @@ besluitvormingsproces:
     1. Stakeholders van de Logius Gegevensuitwisselingsdiensten worden
        uitgenodigd.
 4.  Als lid van de Programmeringsraad GDI.
+5.  Als lid van het OBDO.
 
 Personen/partijen die willen deelnemen aan het Technisch Overleg
 kunnen contact opnemen met Logius waarin zij aangeven wat hun belang is
