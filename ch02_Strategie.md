@@ -94,7 +94,7 @@ goedgekeurd worden.
 De beheerorganisatie werkt goedgekeurde voorstellen uit en neemt deze op in 
 een vast te stellen nieuwe versie.
 
-##### Besluitvorming: OBDO
+#### Besluitvorming: OBDO
 
 De tactische en strategische overleglagen in de Digikoppeling governance
 zijn adviserend en niet besluitvormend. Alle besluitvorming is belegd bij het 
