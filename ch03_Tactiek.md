@@ -11,7 +11,41 @@ Digikoppeling-standaard. Dit geldt dus ook voor het beheer en
 onderhoud ervan. In onderstaand schema zijn de belanghebbenden
 aangegeven.
 
-![Belang bij DIgikoppeling](media/DK_belang_bij_digikoppeling.png "Belang bij DIgikoppeling")
+```mermaid
+mindmap
+  root)Belang bij<br>Digikoppeling(
+    {{Vraag}}
+      (Sectorregiseurs)
+        VNG
+        DUO
+        BKWI
+      (Gebruikers)
+        Indivduele overheder
+        Sectoren
+        Bronhouders van basisregistraties
+      (eOverheids projecten)
+        MijnOVerheid
+        eHerkenning
+        eID
+    {{Ondersteuning}}
+      (Experts}}
+        Adviesbureaus
+        ICT experts
+      (Projecten)
+        MijnOVerheid
+        eHerkenning
+        eID
+    {{Aanbod}}
+      (Standaardisatie organisaties)
+        OASIS
+        W3C
+        NIST
+        Forum Standaardisatie
+      (Leveranciers)
+        Diensten
+        Producten
+```
+![Belang bij DIgikoppeling]
 
 De Digikoppeling standaard wordt in stand gehouden en doorontwikkeld
 door participatie van de belanghebbenden. Ruwweg zijn drie rollen te
