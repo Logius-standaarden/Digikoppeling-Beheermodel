@@ -20,17 +20,17 @@ mindmap
         DUO
         BKWI
       (Gebruikers)
-        Indivduele overheder
+        Indivduele overheden
         Sectoren
         Bronhouders van basisregistraties
       (eOverheids projecten)
-        MijnOVerheid
+        MijnOverheid
         eHerkenning
         eID
     {{Ondersteuning}}
       (Expertise)
         Adviesbureaus
-        ICT experts
+        ICT–experts
       (Beheer en onderhoud)
         Domeinexpert
         Logius
@@ -45,7 +45,10 @@ mindmap
         Diensten
         Producten
 ```
-![Belang bij DIgikoppeling]
+<figure>
+<figcaption>Belang bij Digikoppeling</figcaption>
+</figure>
+		
 
 De Digikoppeling standaard wordt in stand gehouden en doorontwikkeld
 door participatie van de belanghebbenden. Ruwweg zijn drie rollen te
