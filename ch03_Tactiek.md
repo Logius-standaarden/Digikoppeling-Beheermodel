@@ -28,7 +28,7 @@ mindmap
         eHerkenning
         eID
     {{Ondersteuning}}
-      (Experts}}
+      (Experts)
         Adviesbureaus
         ICT experts
       (Projecten)
