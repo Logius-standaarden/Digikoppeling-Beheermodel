@@ -28,19 +28,19 @@ mindmap
         eHerkenning
         eID
     {{Ondersteuning}}
-      (Experts)
+      (Expertise)
         Adviesbureaus
         ICT experts
-      (Projecten)
-        MijnOVerheid
-        eHerkenning
-        eID
+      (Beheer en onderhoud)
+        Domeinexpert
+        Logius
     {{Aanbod}}
       (Standaardisatie organisaties)
         OASIS
         W3C
         NIST
         Forum Standaardisatie
+        Europese Commissie
       (Leveranciers)
         Diensten
         Producten
