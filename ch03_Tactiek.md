@@ -137,17 +137,17 @@ Digikoppeling onderdelen.
    met andere standaardenorganisaties binnen het BOMOS _Klankbordoverleg_.
 
 ## Rechtenbeleid
-Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 3.0
+Dit werk is gelicenseerd onder een Creative Commons Naamsvermelding 4.0
 Unported licentie.
 
-![Creative Commons Naamsvermelding 3.0 Unported licentie](media/CC_Logo3.0.png "Creative Commons Naamsvermelding 3.0 Unported licentie")
+![Creative Commons Naamsvermelding 4.0 Unported licentie](https://gitdocumentatie.logius.nl/publicatie/respec/media/logos/cc-by.svg "Creative Commons Naamsvermelding 4.0 Unported licentie")
 
 Meer informatie over de precieze voorwaarden van deze licentie vindt u
 op de website van Creative Commons http://creativecommons.nl/ en
 specifiek voor deze licentie een samenvatting onder
-http://creativecommons.org/licenses/by/3.0/deed.nl en de volledige
+http://creativecommons.org/licenses/by/4.0/deed.nl en de volledige
 licentietekst onder
-http://creativecommons.org/licenses/by/3.0/legalcode.
+http://creativecommons.org/licenses/by/4.0/legalcode.
 
 Dit werk en de specificaties van de Digikoppeling-standaard worden
 royalty free ter beschikking gesteld. Organisaties en personen die
