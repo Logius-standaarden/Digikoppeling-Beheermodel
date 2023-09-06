@@ -82,7 +82,7 @@ De NORA maakt geen deel uit van het in dit document beschreven
 beheer van de Digikoppeling-standaard, maar bevat wel belangrijke
 informatie over Digikoppeling en haar toepassing.
 
-De MIDO governance kent een [Architectuurboard](#architectuurboard).
+De MIDO governance kent een [Architectuurraad](#architectuurraad).
 Dit gremium kan om advies worden gevraagd over wijzigingsvoorstellen.
 
 De Digikoppeling architectuur is beschreven in een apart document [[Digikoppeling-Architectuur]].
