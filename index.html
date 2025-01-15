@@ -10,7 +10,7 @@
   </script>
   <script class="remove" src="js/config.js">
   </script>
-  <script>
+  <script class="remove">
    respecConfig = {...organisationConfig, ...respecConfig};
   </script>
   <link href="https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/logius.ico" rel="shortcut icon" type="image/x-icon"/>
@@ -18,13 +18,13 @@
   </script>
  </head>
  <body>
-    <script type="module">
-        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  <script type="module">
+   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
         mermaid.initialize({ startOnLoad: false });
         setTimeout(function () {
             mermaid.run();
         }, 2000);
-    </script>
+  </script>
   <section data-include="01_abstract.html" id="abstract">
   </section>
   <section id="sotd">
