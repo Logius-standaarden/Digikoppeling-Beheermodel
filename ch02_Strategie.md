@@ -30,7 +30,7 @@ is een governance opgesteld waarin de stakeholders van Logius richting
 geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
 deze governance.
 
-![MIDO governance](images/MIDOgovernance.png "MIDO governance")
+![MIDO governance](media/MIDOgovernance.png "MIDO governance")
 
 De MIDO governance kent vier _programmeringstafels_ op de thema's _Gegevensuitwisseling_, _Infrastructuur_, _Interactie_ en _Toegang_. Op de tafels wordt de ontwikkeling en prioritering van de door Logius beheerde stelsels, standaarden en diensten besproken met de stakeholders.
 

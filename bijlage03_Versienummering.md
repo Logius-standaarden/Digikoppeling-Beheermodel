@@ -71,7 +71,7 @@ Om te kunnen werken aan publicatie-, werk- en voorstelversies van documenten wor
 In het onderstaande voorbeeld zien wij een standaard van 1.0.0 naar 1.1.0 ontwikkelen.
 
 <figure id="Gitflow">
-  <img src="images/Semver_gitflow_branches.svg" alt="Weergave van splitsende braches" />
+  <img src="media/Semver_gitflow_branches.svg" alt="Weergave van splitsende braches" />
   <figcaption>Gitflow</figcaption>
 </figure>
 

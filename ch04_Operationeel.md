@@ -54,7 +54,7 @@ Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
 
 ### Wijzigingen
 
-![Behandeling van een wijzigingsvoorstel in het beheerproces](images/Beheerproces.png "Behandeling van een wijzigingsvoorstel in het beheerproces")
+![Behandeling van een wijzigingsvoorstel in het beheerproces](media/Beheerproces.png "Behandeling van een wijzigingsvoorstel in het beheerproces")
 
 1. Acceptatie van een wijzigingsvoorstel.
 2. Labelen van een voorstel als groot/klein, aangeven van status.
