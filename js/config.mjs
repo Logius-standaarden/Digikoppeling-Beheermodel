@@ -1,4 +1,7 @@
-var respecConfig = {
+import { loadRespecWithConfiguration } from "https://logius-standaarden.github.io/publicatie/respec/organisation-config.mjs";
+import { generateMermaidFigures } from "https://logius-standaarden.github.io/publicatie/respec/plugins/mermaid.mjs";
+
+loadRespecWithConfiguration({
   alternateFormats: [ { 
         "label" : "pdf",
         "uri" : "Digikoppeling-Beheermodel.pdf"
@@ -27,5 +30,7 @@ var respecConfig = {
   publishVersion: "1.8",
   shortName: "beheer",
   specStatus: "WV",
-  specType: "WA"
-};
+  specType: "WA",
+  
+  postProcess: [ generateMermaidFigures ],
+});
