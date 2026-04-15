@@ -3,19 +3,20 @@ import { generateMermaidFigures } from "https://logius-standaarden.github.io/pub
 
 loadRespecWithConfiguration({
   authors: [ { 
-        "mailto" : "digikoppeling@logius.nl",
-        "name" : "Logius"
+        "company" : "Logius",
+        "name" : "Peter Haasnoot",
+        "url" : "https://www.logius.nl"
       } ],
   editors: [ 
       { 
         "company" : "Logius",
         "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       },
       { 
         "company" : "Logius",
         "name" : "Peter Haasnoot",
-        "url" : "https://logius.nl/standaarden"
+        "url" : "https://www.logius.nl"
       }
     ],
   github: "https://github.com/Logius-standaarden/Digikoppeling-Beheermodel",
